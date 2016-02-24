@@ -7,6 +7,7 @@ in this vein.
 
 ## Maintained Languages
 
+- [Rust][rust]: Rust is implemented in itself.
 - [Ruse][ruse]: Of course! An embedded Scheme for Rust.
 - [Dyon][dyon]: Implemented by the Piston team. Dyon is a dynamically-typed
   scripting language that uses Rust's lifetime system rather than garbage collection.
@@ -25,6 +26,7 @@ in this vein.
 - [radicle][radicle]: An Ur-Lisp interpreter based on Paul Graham's "Roots of Lisp"
   (_very_ old)
 
+[rust]: https://github.com/rust-lang/rust
 [ruse]: https://github.com/ruse-lang/ruse
 [dyon]: https://github.com/pistondevelopers/dyon
 [ketos]: https://github.com/murarth/ketos
