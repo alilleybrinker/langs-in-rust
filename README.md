@@ -13,6 +13,8 @@ in this vein.
   scripting language that uses Rust's lifetime system rather than garbage collection.
 - [Ketos][ketos]: A Lisp-like scripting and extension language. Compiles to bytecode
   which is then interpreted.
+- [Rhai][rhai]: Rhai is an embedded scripting language for Rust.
+- [Gluon][gluon]: Gluon is a small, statically-typed, functional programming language designed for application embedding.
 
 ## Unmaintained Languages
 
@@ -30,6 +32,8 @@ in this vein.
 [ruse]: https://github.com/ruse-lang/ruse
 [dyon]: https://github.com/pistondevelopers/dyon
 [ketos]: https://github.com/murarth/ketos
+[rhai]: https://github.com/jonathandturner/rhai
+[gluon]: https://github.com/gluon-lang/gluon
 [lang]: https://github.com/gsingh93/lang
 [embed_lang]: https://github.com/Marwes/embed_lang
 [iron-lang]: https://github.com/Arcterus/iron-lang
