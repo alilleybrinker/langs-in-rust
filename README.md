@@ -41,3 +41,4 @@ in this vein.
 [rust-lisp]: https://github.com/swgillespie/rust-lisp
 [lisp.rs]: https://github.com/jsdf/lisp.rs
 [radicle]: https://github.com/nham/radicle
+[rust-prolog]: https://github.com/dagit/rust-prolog
