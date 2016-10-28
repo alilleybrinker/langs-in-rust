@@ -15,6 +15,7 @@ in this vein.
   which is then interpreted.
 - [Rhai][rhai]: Rhai is an embedded scripting language for Rust.
 - [Gluon][gluon]: Gluon is a small, statically-typed, functional programming language designed for application embedding.
+- [rust-prolog][rust-prolog]: Rust implementation of prolog based on SML miniprolog
 
 ## Unmaintained Languages
 
@@ -40,4 +41,4 @@ in this vein.
 [rust-lisp]: https://github.com/swgillespie/rust-lisp
 [lisp.rs]: https://github.com/jsdf/lisp.rs
 [radicle]: https://github.com/nham/radicle
-
+[rust-prolog]: https://github.com/dagit/rust-prolog
