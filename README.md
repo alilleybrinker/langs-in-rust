@@ -28,6 +28,7 @@ in this vein.
 - [lisp.rs][lisp.rs]: `lis.py` ported to Rust.
 - [radicle][radicle]: An Ur-Lisp interpreter based on Paul Graham's "Roots of Lisp"
   (_very_ old)
+- [synthizer][synthizer]: A simple experimental functional language for real time additive audio synthesis.￼
 
 [rust]: https://github.com/rust-lang/rust
 [ruse]: https://github.com/ruse-lang/ruse
@@ -42,3 +43,4 @@ in this vein.
 [lisp.rs]: https://github.com/jsdf/lisp.rs
 [radicle]: https://github.com/nham/radicle
 [rust-prolog]: https://github.com/dagit/rust-prolog
+[synthizer]: https://github.com/nwoeanhinnogaehr/synthizer
