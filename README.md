@@ -15,6 +15,7 @@ Then it can be included in this list!
 
 | Name | ⭐ Stars | ☀️ Status (updated within last year) | Description |
 |:-----|:---------|:-----------|:-----------|
+| [Deno] | 75,000 | ☀️ Active | A secure JavaScript and TypeScript runtime. |
 | [Rust] | 54,300 | ☀️ Active | Empowering everyone to build reliable and efficient software. |
 | [Gleam] | 2,800 | ☀️ Active | A type safe language for the Erlang VM. |
 | [Artichoke] | 2,400 | ☀️ Active | A Ruby made with Rust. |
@@ -80,3 +81,4 @@ Then it can be included in this list!
 [Skate]: https://github.com/aDotInTheVoid/skate/
 [Nickel]: https://github.com/tweag/nickel
 [Artichoke]: https://github.com/artichoke/artichoke
+[Deno]: https://github.com/denoland/deno
