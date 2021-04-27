@@ -13,6 +13,7 @@ directory of potentially interesting projects in this vein.
 | [Gluon] | 2,300 | ☀️ Active | A static, type inferred and embeddable language written in Rust. |
 | [Dyon] | 1,300 | ☀️ Active | A rusty dynamically typed scripting language. |
 | [Rhai] | 1,000 | ☀️ Active | An embedded scripting language for Rust. |
+| [Inko] | 115 | ☀️ Active | Statically-typed, safe, OO language for writing concurrent programs. |
 | [Rust-Prolog] | 74 | ☀️ Active | Rust implementation of prolog based on miniprolog. |
 | [Tao] | 65 | ☀️ Active | A statically-typed functional programming language. |
 | [rtforth] | 46 | ☀️ Active | Forth implemented in Rust for realtime applications. |
@@ -32,6 +33,7 @@ directory of potentially interesting projects in this vein.
 [Dyon]: https://github.com/pistondevelopers/dyon
 [Ketos]: https://github.com/murarth/ketos
 [Rhai]: https://github.com/jonathandturner/rhai
+[Inko]: https://inko-lang.org/
 [Gluon]: https://github.com/gluon-lang/gluon
 
 [Antimony]: https://github.com/antimony-lang/antimony
