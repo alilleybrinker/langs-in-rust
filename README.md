@@ -18,6 +18,7 @@ in this vein.
 - [rtfort][rtforth]: Forth implemented in Rust for real-time applications.
 - [Gleam][gleam]: A statically-typed language for the Erlang VM.
 - [antimony][antimony]: A simple programming language designed for ease-of-use.
+- [Tao][tao]: A statically typed functional programming language.
 
 ## Unmaintained Languages
 
@@ -51,3 +52,4 @@ in this vein.
 [gleam]: https://github.com/gleam-lang/gleam
 [antimony]: https://github.com/antimony-lang/antimony
 [schwift]: https://github.com/natemara/schwift
+[tao]: https://github.com/zesterer/tao
