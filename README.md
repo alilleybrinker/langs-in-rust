@@ -23,7 +23,7 @@ directory of potentially interesting projects in this vein.
 | [Rust-Prolog] | 74 | ☀️ Active | Rust implementation of prolog based on miniprolog. |
 | [Tao] | 65 | ☀️ Active | A statically-typed functional programming language. |
 | [rtforth] | 46 | ☀️ Active | Forth implemented in Rust for realtime applications. |
-| [Antimony] | 43 | ☀️ Active | a bullshit-free programming language that gets out of your way. |
+| [Antimony] | 43 | ☀️ Active | A bullshit-free programming language that gets out of your way. |
 | [Crunch] | 43 | ☀️ Active | A strongly & statically typed systems level language focused on ease of use, portability and speed, built for the modern age. |
 | [Schwift] | 25 | ☀️ Active | An imperative programming language based on the show Rick and Morty. |
 | [Blazescript] | 8 | ☀️ Active | A basic scripting language. |
