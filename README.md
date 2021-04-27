@@ -16,6 +16,8 @@ in this vein.
 - [Gluon][gluon]: Gluon is a small, statically-typed, functional programming language designed for application embedding.
 - [rust-prolog][rust-prolog]: Rust implementation of prolog based on SML miniprolog
 - [rtfort][rtforth]: Forth implemented in Rust for real-time applications.
+- [Gleam][gleam]: A statically-typed language for the Erlang VM.
+- [antimony][antimony]: A simple programming language designed for ease-of-use.
 
 ## Unmaintained Languages
 
@@ -28,7 +30,8 @@ in this vein.
 - [lisp.rs][lisp.rs]: `lis.py` ported to Rust.
 - [radicle][radicle]: An Ur-Lisp interpreter based on Paul Graham's "Roots of Lisp"
   (_very_ old)
-- [synthizer][synthizer]: A simple experimental functional language for real time additive audio synthesis.￼
+- [synthizer][synthizer]: A simple experimental functional language for real time additive audio synthesis.
+- [schwift][schwift]: A joking but functioning language based on Rick & Morty.
 
 [rust]: https://github.com/rust-lang/rust
 [ruse]: https://github.com/ruse-lang/ruse
@@ -45,3 +48,6 @@ in this vein.
 [rust-prolog]: https://github.com/dagit/rust-prolog
 [synthizer]: https://github.com/nwoeanhinnogaehr/synthizer
 [rtforth]: https://github.com/chengchangwu/rtforth
+[gleam]: https://github.com/gleam-lang/gleam
+[antimony]: https://github.com/antimony-lang/antimony
+[schwift]: https://github.com/natemara/schwift
