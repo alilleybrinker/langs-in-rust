@@ -11,14 +11,22 @@ directory of potentially interesting projects in this vein.
 | [Rust] | 54,300 | ☀️ Active | Empowering everyone to build reliable and efficient software. |
 | [Gleam] | 2,800 | ☀️ Active | A type safe language for the Erlang VM. |
 | [Gluon] | 2,300 | ☀️ Active | A static, type inferred and embeddable language written in Rust. |
+| [Boa] | 2,000 | ☀️ Active | An embeddable and experimental Javascript engine written in Rust. |
 | [Dyon] | 1,300 | ☀️ Active | A rusty dynamically typed scripting language. |
 | [Rhai] | 1,000 | ☀️ Active | An embedded scripting language for Rust. |
+| [Differential Datalog] | 773 | ☀️ Active | An incremental programming language. |
+| [Starlight] | 246 | ☀️ Active | JS engine in Rust. |
+| [Starlark] | 119 | ☀️ Active | A Rust implementation of the Starlark language. |
+| [Eldiro] | 117 | | A programming language to teach how to implement languages in Rust. |
 | [Inko] | 115 | ☀️ Active | Statically-typed, safe, OO language for writing concurrent programs. |
 | [Rust-Prolog] | 74 | ☀️ Active | Rust implementation of prolog based on miniprolog. |
 | [Tao] | 65 | ☀️ Active | A statically-typed functional programming language. |
 | [rtforth] | 46 | ☀️ Active | Forth implemented in Rust for realtime applications. |
 | [Antimony] | 43 | ☀️ Active | a bullshit-free programming language that gets out of your way. |
+| [Crunch] | 43 | ☀️ Active | A strongly & statically typed systems level language focused on ease of use, portability and speed, built for the modern age. |
 | [Schwift] | 25 | ☀️ Active | An imperative programming language based on the show Rick and Morty. |
+| [Blazescript] | 8 | ☀️ Active | A basic scripting language. |
+| [Skate] | 0 | ☀️ Active | An experimental programming language. |
 | [Ketos] | 625 | 🌙 Inactive | Lisp dialect scripting and extension language for Rust programs. |
 | [Atto] | 121 | 🌙 Inactive | A simple self-hosted functional programming language. |
 | [Rust-Lisp] | 72 | 🌙 Inactive | A small Lisp interpreter written in Rust. |
@@ -51,3 +59,12 @@ directory of potentially interesting projects in this vein.
 [rtforth]: https://github.com/chengchangwu/rtforth
 [Schwift]: https://github.com/natemara/schwift
 [Gleam]: https://github.com/gleam-lang/gleam
+[Blazescript]: https://github.com/BlazifyOrg/blazescript
+[Starlark]: https://github.com/facebookexperimental/starlark-rust
+
+[Crunch]: https://github.com/Kixiron/crunch-lang
+[Eldiro]: https://github.com/arzg/eldiro
+[Starlight]: https://github.com/Starlight-JS/Starlight
+[Differential Datalog]: https://github.com/vmware/differential-datalog
+[Boa]: https://github.com/boa-dev/boa
+[Skate]: https://github.com/aDotInTheVoid/skate/
