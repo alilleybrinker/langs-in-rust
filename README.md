@@ -15,6 +15,7 @@ directory of potentially interesting projects in this vein.
 | [Dyon] | 1,300 | ☀️ Active | A rusty dynamically typed scripting language. |
 | [Rhai] | 1,000 | ☀️ Active | An embedded scripting language for Rust. |
 | [Differential Datalog] | 773 | ☀️ Active | An incremental programming language. |
+| [Nickel] | 401 | ☀️ Active | Cheap configuration language. |
 | [Starlight] | 246 | ☀️ Active | JS engine in Rust. |
 | [Starlark] | 119 | ☀️ Active | A Rust implementation of the Starlark language. |
 | [Eldiro] | 117 | | A programming language to teach how to implement languages in Rust. |
@@ -67,4 +68,6 @@ directory of potentially interesting projects in this vein.
 [Starlight]: https://github.com/Starlight-JS/Starlight
 [Differential Datalog]: https://github.com/vmware/differential-datalog
 [Boa]: https://github.com/boa-dev/boa
+
 [Skate]: https://github.com/aDotInTheVoid/skate/
+[Nicket]: https://github.com/tweag/nickel
