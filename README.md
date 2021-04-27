@@ -1,4 +1,4 @@
-# Langs In Rust
+# Programming Languages Written in Rust
 
 This is a (probably incomplete) list of programming languages implemented in
 Rust. It is intended as a source of inspiration and comparison, and as a
