@@ -20,6 +20,7 @@ in this vein.
 | [Antimony] | 43 | ☀️ Active | a bullshit-free programming language that gets out of your way. |
 | [Schwift] | 25 | ☀️ Active | An imperative programming language based on the show Rick and Morty. |
 | [Ketos] | 625 | 🌙 Inactive | Lisp dialect scripting and extension language for Rust programs. |
+| [Atto] | 121 | 🌙 Inactive | A simple self-hosted functional programming language. |
 | [Rust-Lisp] | 72 | 🌙 Inactive | A small Lisp interpreter written in Rust. |
 | [Lisp.rs] | 23 | 🌙 Inactive | Scheme Interpreter in Rust. |
 | [Synthizer] | 16 | 🌙 Inactive | A simple, experimental functional language for real time additive audio synthesis. |
@@ -38,6 +39,7 @@ in this vein.
 [Tao]: https://github.com/zesterer/tao
 [Lang]: https://github.com/gsingh93/lang
 [Iron]: https://github.com/Arcterus/iron-lang
+[atto]: https://github.com/zesterer/atto
 
 [Rust-lisp]: https://github.com/swgillespie/rust-lisp
 [Lisp.rs]: https://github.com/jsdf/lisp.rs
