@@ -10,6 +10,7 @@ directory of potentially interesting projects in this vein.
 |:-----|:---------|:-----------|:-----------|
 | [Rust] | 54,300 | ☀️ Active | Empowering everyone to build reliable and efficient software. |
 | [Gleam] | 2,800 | ☀️ Active | A type safe language for the Erlang VM. |
+| [Artichoke] | 2,400 | ☀️ Active | A Ruby made with Rust. |
 | [Gluon] | 2,300 | ☀️ Active | A static, type inferred and embeddable language written in Rust. |
 | [Boa] | 2,000 | ☀️ Active | An embeddable and experimental Javascript engine written in Rust. |
 | [Dyon] | 1,300 | ☀️ Active | A rusty dynamically typed scripting language. |
@@ -71,3 +72,4 @@ directory of potentially interesting projects in this vein.
 
 [Skate]: https://github.com/aDotInTheVoid/skate/
 [Nickel]: https://github.com/tweag/nickel
+[Artichoke]: https://github.com/artichoke/artichoke
