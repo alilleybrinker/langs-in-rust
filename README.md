@@ -27,7 +27,7 @@ Then it can be included in this list!
 | [Nickel] | 401 | ☀️ Active | Cheap configuration language. |
 | [Starlight] | 246 | ☀️ Active | JS engine in Rust. |
 | [Starlark] | 119 | ☀️ Active | A Rust implementation of the Starlark language. |
-| [Eldiro] | 117 | | A programming language to teach how to implement languages in Rust. |
+| [Eldiro] | 117 | ☀️ Active | A programming language to teach how to implement languages in Rust. |
 | [Inko] | 115 | ☀️ Active | Statically-typed, safe, OO language for writing concurrent programs. |
 | [Rust-Prolog] | 74 | ☀️ Active | Rust implementation of prolog based on miniprolog. |
 | [Tao] | 65 | ☀️ Active | A statically-typed functional programming language. |
