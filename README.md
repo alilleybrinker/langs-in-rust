@@ -70,4 +70,4 @@ directory of potentially interesting projects in this vein.
 [Boa]: https://github.com/boa-dev/boa
 
 [Skate]: https://github.com/aDotInTheVoid/skate/
-[Nicket]: https://github.com/tweag/nickel
+[Nickel]: https://github.com/tweag/nickel
