@@ -1,10 +1,17 @@
-# Programming Languages Written in Rust
+# Languages Written in Rust
 
-This is a (probably incomplete) list of programming languages implemented in
+This is a (probably incomplete) list of languages implemented in
 Rust. It is intended as a source of inspiration and comparison, and as a
 directory of potentially interesting projects in this vein.
 
-## Languages
+## What Can Be Included?
+
+1. Is it a language?
+2. Is it written in Rust?
+
+Then it can be included in this list!
+
+## Programming Languages
 
 | Name | ⭐ Stars | ☀️ Status (updated within last year) | Description |
 |:-----|:---------|:-----------|:-----------|
