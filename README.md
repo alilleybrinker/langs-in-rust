@@ -89,3 +89,62 @@ Then it can be included in this list!
 
 [Koto]: https://github.com/koto-lang/koto
 [Ante]: https://github.com/jfecher/ante
+
+### Lox Implementations
+
+Implementing the Lox language from the book Crafting Interpreters is a
+popular project for people learning programming language implementation.
+Given the similarities between the languages and implementations, they're
+presented separately here.
+
+| Name | ⭐ Stars | ☀️ Status (updated within last year) | Description |
+|:-----|:---------|:-----------|:-----------|
+| [Laythe] | 13 | ☀️ Active | A dynamically typed language originally based on the crafting interpreters series. |
+| [Darksecond/lox] | 10 | ☀️ Active | A rust implementation of the lox language. |
+| [crafting-interpreters-rs] | 7 | ☀️ Active | Crafting Interpreters in Rust. |
+| [rctcwyvrn/rlox] | 6 | ☀️ Active | Rust implementation of the bytecode VM (clox) from Crafting Interpreters. |
+| [cloxrs] | 5 | ☀️ Active | Lox implementation written in Rust. |
+| [sasurau4/lox-rust] | 4 | ☀️ Active | Interpreter for lox written by rust. |
+| [loxrs] | 4 | ☀️ Active  | Crafting Interpreters in Rust (Part II: A tree-walk interpreter). |
+| [loxidation] | 3 | ☀️ Active | Lox bytecode compiler and VM in Rust. |
+| [lox-rs] | 3 | ☀️ Active | A Lox Interpreter in Rust. |
+| [radogost/rlox] | 2 | ☀️ Active | An implementation of lox from the great book Crafting Interpreters implemented in Rust. |
+| [nt591/lox-rust] | 2 | ☀️ Active | A Rust implementation of the Crafting Interpreters bytecode VM. |
+| [roxt] | 1 | ☀️ Active | A Lox interpreter written in Rust. |
+| [rox] | 0 | ☀️ Active | A Rust port of Crafting Interpreters. |
+| [rulox] | 36 | 🌙 Inactive | Implementation in Rust of lox, the language described in Crafting Interpreters. |
+| [rodaine/rlox] | 26 | 🌙 Inactive | Lox Interpreter/REPL written in Rust. |
+| [tox] | 23 | 🌙 Inactive | Tox is a statically typed version programming language that is written in rust. |
+| [cat-lox] | 9 | 🌙 Inactive | A tree-walk lox interpreter written in Rust. |
+| [loxr] | 6 | 🌙 Inactive | A Rust interpreter for the Lox language. |
+| [relox] | 5 | 🌙 Inactive | Rust port of the jlox interpreter. |
+| [justinmayhew/lox] | 3 | 🌙 Inactive | A Rust implementation of Lox from Crafting Interpreters. |
+| [lax] | 1 | 🌙 Inactive | A lox interpreter. |
+| [yarli] | 1 | 🌙 Inactive | Yet Another Rusty Lox Interpreter. |
+
+[cat-lox]: https://github.com/AaronStGeorge/cat-lox
+[lax]: https://github.com/alisww/lax
+[cloxrs]: https://github.com/anellie/cloxrs
+[rox]: https://github.com/brightly-salty/rox
+[Darksecond/lox]: https://github.com/darksecond/lox
+
+[loxr]: https://github.com/HarveyHunt/loxr
+[lox-rs]: https://github.com/jeschkies/lox-rs
+[Laythe]: https://github.com/Laythe-lang/Laythe
+[tox]: https://github.com/Lapz/tox
+[loxidation]: https://github.com/LevitatingBusinessMan/Loxidation
+
+[rulox]: https://github.com/mariosangiorgio/rulox
+[justinmayhew/lox]: https://github.com/justinmayhew/lox
+[nt591/lox-rust]: https://github.com/nt591/lox-rust
+[radogost/rlox]: https://github.com/radogost/rlox
+[rctcwyvrn/rlox]: https://github.com/rctcwyvrn/rlox
+
+[rodaine/rlox]: https://github.com/rodaine/rlox
+[sasurau4/lox-rust]: https://github.com/sasurau4/lox-rust
+[yarli]: https://github.com/silmeth/yarli
+[loxrs]: https://github.com/toyboot4e/loxrs
+[crafting-interpreters-rs]: https://github.com/tdp2110/crafting-interpreters-rs
+
+[roxt]: https://github.com/trevarj/roxt
+[relox]: https://github.com/yanchith/relox
