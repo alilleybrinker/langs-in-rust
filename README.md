@@ -51,6 +51,7 @@ Then it can be included in this list!
 | [Schwift] | 25 | ☀️ Active | An imperative programming language based on the show Rick and Morty. |
 | [Blazescript] | 8 | ☀️ Active | A basic scripting language. |
 | [Skate] | 0 | ☀️ Active | An experimental programming language. |
+| [Ellie] | 0 | ☀️ Active | A scripting engine that runs on embedded and sandboxed environments. |
 | [Ketos] | 625 | 🌙 Inactive | Lisp dialect scripting and extension language for Rust programs. |
 | [Astro] | 591 | 🌙 Inactive | A fun safe language for rapid prototyping and high performance applications. |
 | [Atto] | 121 | 🌙 Inactive | A simple self-hosted functional programming language. |
@@ -133,7 +134,7 @@ presented separately here.
 [Skate]: https://github.com/aDotInTheVoid/skate/
 [Nickel]: https://github.com/tweag/nickel
 [Artichoke]: https://github.com/artichoke/artichoke
-[Deno]: https://github.com/denoland/deno
+[Ellie]: https://github.com/behemehal/Ellie-Language
 
 <!-- 35 -->
 [Mun]: https://github.com/mun-lang/mun
