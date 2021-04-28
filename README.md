@@ -22,10 +22,13 @@ Then it can be included in this list!
 | [Gluon] | 2,300 | ☀️ Active | A static, type inferred and embeddable language written in Rust. |
 | [Boa] | 2,000 | ☀️ Active | An embeddable and experimental Javascript engine written in Rust. |
 | [Dyon] | 1,300 | ☀️ Active | A rusty dynamically typed scripting language. |
+| [Mun] | 1,100 | ☀️ Active | A programming language empowering creation through iteration. |
 | [Rhai] | 1,000 | ☀️ Active | An embedded scripting language for Rust. |
 | [Differential Datalog] | 773 | ☀️ Active | An incremental programming language. |
 | [Nickel] | 401 | ☀️ Active | Cheap configuration language. |
+| [Ante] | 304 |  ☀️ Active | A safe, easy systems language. |
 | [Starlight] | 246 | ☀️ Active | JS engine in Rust. |
+| [Koto] | 142 | ☀️ Active | A simple, expressive, embeddable programming language, made with Rust. |
 | [Starlark] | 119 | ☀️ Active | A Rust implementation of the Starlark language. |
 | [Eldiro] | 117 | ☀️ Active | A programming language to teach how to implement languages in Rust. |
 | [Inko] | 115 | ☀️ Active | Statically-typed, safe, OO language for writing concurrent programs. |
@@ -82,3 +85,7 @@ Then it can be included in this list!
 [Nickel]: https://github.com/tweag/nickel
 [Artichoke]: https://github.com/artichoke/artichoke
 [Deno]: https://github.com/denoland/deno
+[Mun]: https://github.com/mun-lang/mun
+
+[Koto]: https://github.com/koto-lang/koto
+[Ante]: https://github.com/jfecher/ante
