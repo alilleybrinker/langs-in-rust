@@ -52,6 +52,7 @@ Then it can be included in this list!
 | [Blazescript] | 8 | ☀️ Active | A basic scripting language. |
 | [Skate] | 0 | ☀️ Active | An experimental programming language. |
 | [Ellie] | 0 | ☀️ Active | A scripting engine that runs on embedded and sandboxed environments. |
+| [Garnet] | N/A | ☀️ Active | Experiment with a lightweight systems programming language. |
 | [Ketos] | 625 | 🌙 Inactive | Lisp dialect scripting and extension language for Rust programs. |
 | [Astro] | 591 | 🌙 Inactive | A fun safe language for rapid prototyping and high performance applications. |
 | [Atto] | 121 | 🌙 Inactive | A simple self-hosted functional programming language. |
@@ -186,6 +187,7 @@ presented separately here.
 [loxrs]: https://github.com/toyboot4e/loxrs
 [crafting-interpreters-rs]: https://github.com/tdp2110/crafting-interpreters-rs
 
-<!-- 67 -->
+<!-- 68 -->
 [roxt]: https://github.com/trevarj/roxt
 [relox]: https://github.com/yanchith/relox
+[Garnet]: https://sr.ht/~icefox/garnet/
