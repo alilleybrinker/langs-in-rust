@@ -62,63 +62,6 @@ Then it can be included in this list!
 | [Lang] | 7 | 🌙 Inactive | An imperative programming language written in Rust. |
 | [Iron] | 4 | 🌙 Inactive | A Lisp-based language written in Rust. |
 
-
-[Rust]: https://github.com/rust-lang/rust
-[Dyon]: https://github.com/pistondevelopers/dyon
-[Ketos]: https://github.com/murarth/ketos
-[Rhai]: https://github.com/jonathandturner/rhai
-[Inko]: https://inko-lang.org/
-[Gluon]: https://github.com/gluon-lang/gluon
-
-[Antimony]: https://github.com/antimony-lang/antimony
-[Tao]: https://github.com/zesterer/tao
-[Lang]: https://github.com/gsingh93/lang
-[Iron]: https://github.com/Arcterus/iron-lang
-[atto]: https://github.com/zesterer/atto
-
-[Rust-lisp]: https://github.com/swgillespie/rust-lisp
-[Lisp.rs]: https://github.com/jsdf/lisp.rs
-[Radicle]: https://github.com/nham/radicle
-[Rust-Prolog]: https://github.com/dagit/rust-prolog
-[Synthizer]: https://github.com/nwoeanhinnogaehr/synthizer
-
-[rtforth]: https://github.com/chengchangwu/rtforth
-[Schwift]: https://github.com/natemara/schwift
-[Gleam]: https://github.com/gleam-lang/gleam
-[Blazescript]: https://github.com/BlazifyOrg/blazescript
-[Starlark]: https://github.com/facebookexperimental/starlark-rust
-
-[Crunch]: https://github.com/Kixiron/crunch-lang
-[Eldiro]: https://github.com/arzg/eldiro
-[Starlight]: https://github.com/Starlight-JS/Starlight
-[Differential Datalog]: https://github.com/vmware/differential-datalog
-[Boa]: https://github.com/boa-dev/boa
-
-[Skate]: https://github.com/aDotInTheVoid/skate/
-[Nickel]: https://github.com/tweag/nickel
-[Artichoke]: https://github.com/artichoke/artichoke
-[Deno]: https://github.com/denoland/deno
-[Mun]: https://github.com/mun-lang/mun
-
-[Koto]: https://github.com/koto-lang/koto
-[Ante]: https://github.com/jfecher/ante
-[Astro]: https://github.com/astrolang/astro
-[Rune]: https://github.com/rune-rs/rune
-[Pikelet]: https://github.com/pikelet-lang/pikelet
-
-[Passerine]: https://github.com/vrtbl/passerine
-[CSML]: https://github.com/CSML-by-Clevy/csml-engine
-[Wu]: https://github.com/wu-lang/wu
-[Orion]: https://github.com/orion-lang/orion
-[Wain]: https://github.com/rhysd/wain
-
-[Leo]: https://github.com/AleoHQ/leo
-[EndBASIC]: https://github.com/jmmv/endbasic
-[Voile]: https://github.com/owo-lang/voile-rs
-[Jazz]: https://github.com/jazz-lang/Jazz
-[Minitt]: https://github.com/owo-lang/minitt-rs
-
-
 ### Lox Implementations
 
 Implementing the Lox language from the book Crafting Interpreters is a
@@ -151,29 +94,98 @@ presented separately here.
 | [lax] | 1 | 🌙 Inactive | A lox interpreter. |
 | [yarli] | 1 | 🌙 Inactive | Yet Another Rusty Lox Interpreter. |
 
+<!-- 5 -->
+[Rust]: https://github.com/rust-lang/rust
+[Dyon]: https://github.com/pistondevelopers/dyon
+[Ketos]: https://github.com/murarth/ketos
+[Rhai]: https://github.com/jonathandturner/rhai
+[Inko]: https://inko-lang.org/
+
+<!-- 10 -->
+[Gluon]: https://github.com/gluon-lang/gluon
+[Antimony]: https://github.com/antimony-lang/antimony
+[Tao]: https://github.com/zesterer/tao
+[Lang]: https://github.com/gsingh93/lang
+[Iron]: https://github.com/Arcterus/iron-lang
+
+<!-- 15 -->
+[atto]: https://github.com/zesterer/atto
+[Rust-lisp]: https://github.com/swgillespie/rust-lisp
+[Lisp.rs]: https://github.com/jsdf/lisp.rs
+[Radicle]: https://github.com/nham/radicle
+[Rust-Prolog]: https://github.com/dagit/rust-prolog
+
+<!-- 20 -->
+[Synthizer]: https://github.com/nwoeanhinnogaehr/synthizer
+[rtforth]: https://github.com/chengchangwu/rtforth
+[Schwift]: https://github.com/natemara/schwift
+[Gleam]: https://github.com/gleam-lang/gleam
+[Blazescript]: https://github.com/BlazifyOrg/blazescript
+
+<!-- 25 -->
+[Starlark]: https://github.com/facebookexperimental/starlark-rust
+[Crunch]: https://github.com/Kixiron/crunch-lang
+[Eldiro]: https://github.com/arzg/eldiro
+[Starlight]: https://github.com/Starlight-JS/Starlight
+[Differential Datalog]: https://github.com/vmware/differential-datalog
+
+<!-- 30 -->
+[Boa]: https://github.com/boa-dev/boa
+[Skate]: https://github.com/aDotInTheVoid/skate/
+[Nickel]: https://github.com/tweag/nickel
+[Artichoke]: https://github.com/artichoke/artichoke
+[Deno]: https://github.com/denoland/deno
+
+<!-- 35 -->
+[Mun]: https://github.com/mun-lang/mun
+[Koto]: https://github.com/koto-lang/koto
+[Ante]: https://github.com/jfecher/ante
+[Astro]: https://github.com/astrolang/astro
+[Rune]: https://github.com/rune-rs/rune
+
+<!-- 40 -->
+[Pikelet]: https://github.com/pikelet-lang/pikelet
+[Passerine]: https://github.com/vrtbl/passerine
+[CSML]: https://github.com/CSML-by-Clevy/csml-engine
+[Wu]: https://github.com/wu-lang/wu
+[Orion]: https://github.com/orion-lang/orion
+
+<!-- 45 -->
+[Wain]: https://github.com/rhysd/wain
+[Leo]: https://github.com/AleoHQ/leo
+[EndBASIC]: https://github.com/jmmv/endbasic
+[Voile]: https://github.com/owo-lang/voile-rs
+[Jazz]: https://github.com/jazz-lang/Jazz
+
+<!-- 50 -->
+[Minitt]: https://github.com/owo-lang/minitt-rs
 [cat-lox]: https://github.com/AaronStGeorge/cat-lox
 [lax]: https://github.com/alisww/lax
 [cloxrs]: https://github.com/anellie/cloxrs
 [rox]: https://github.com/brightly-salty/rox
-[Darksecond/lox]: https://github.com/darksecond/lox
 
+<!-- 55 -->
+[Darksecond/lox]: https://github.com/darksecond/lox
 [loxr]: https://github.com/HarveyHunt/loxr
 [lox-rs]: https://github.com/jeschkies/lox-rs
 [Laythe]: https://github.com/Laythe-lang/Laythe
 [tox]: https://github.com/Lapz/tox
 [loxidation]: https://github.com/LevitatingBusinessMan/Loxidation
 
+<!-- 60 -->
 [rulox]: https://github.com/mariosangiorgio/rulox
 [justinmayhew/lox]: https://github.com/justinmayhew/lox
 [nt591/lox-rust]: https://github.com/nt591/lox-rust
 [radogost/rlox]: https://github.com/radogost/rlox
 [rctcwyvrn/rlox]: https://github.com/rctcwyvrn/rlox
 
+<!-- 65 -->
 [rodaine/rlox]: https://github.com/rodaine/rlox
 [sasurau4/lox-rust]: https://github.com/sasurau4/lox-rust
 [yarli]: https://github.com/silmeth/yarli
 [loxrs]: https://github.com/toyboot4e/loxrs
 [crafting-interpreters-rs]: https://github.com/tdp2110/crafting-interpreters-rs
 
+<!-- 67 -->
 [roxt]: https://github.com/trevarj/roxt
 [relox]: https://github.com/yanchith/relox
