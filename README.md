@@ -25,13 +25,25 @@ Then it can be included in this list!
 | [Mun] | 1,100 | ☀️ Active | A programming language empowering creation through iteration. |
 | [Rhai] | 1,000 | ☀️ Active | An embedded scripting language for Rust. |
 | [Differential Datalog] | 773 | ☀️ Active | An incremental programming language. |
+| [Rune] | 544 | ☀️ Active | An embeddable dynamic programming language for Rust. |
+| [Pikelet] | 497 | ☀️ Active | A friendly little systems language with first-class types. |
 | [Nickel] | 401 | ☀️ Active | Cheap configuration language. |
+| [Passerine] | 361 | ☀️ Active | A small extensible programming language designed for concise expression with little code. |
+| [CSML] | 330 | ☀️ Active | Conversational Standard Meta Language. |
 | [Ante] | 304 |  ☀️ Active | A safe, easy systems language. |
+| [Wu] | 265 | ☀️ Active | A practical game and data language. |
 | [Starlight] | 246 | ☀️ Active | JS engine in Rust. |
+| [Orion] | 171 | ☀️ Active | A high level, purely functional programming language with a LISP based syntax. |
+| [Wain] | 163 | ☀️ Active | WebAssembly implementation from scratch in Safe Rust with zero dependencies. |
 | [Koto] | 142 | ☀️ Active | A simple, expressive, embeddable programming language, made with Rust. |
+| [Leo] | 125 | ☀️ Active | A Functional, Statically-Typed Language for Zero-Knowledge Applications. |
 | [Starlark] | 119 | ☀️ Active | A Rust implementation of the Starlark language. |
 | [Eldiro] | 117 | ☀️ Active | A programming language to teach how to implement languages in Rust. |
 | [Inko] | 115 | ☀️ Active | Statically-typed, safe, OO language for writing concurrent programs. |
+| [EndBASIC] | 107 | ☀️ Active | BASIC environment with a REPL, a web interface, and RPi support written in Rust. |
+| [Voile] | 79 | ☀️ Active | Dependently-typed row-polymorphic programming language. |
+| [Minitt] | 78 | ☀️ Active | Dependently-typed lambda calculus, Mini-TT, extended and implemented in Rust. |
+| [Jazz] | 77 | ☀️ Active | Modern and fast programming language. |
 | [Rust-Prolog] | 74 | ☀️ Active | Rust implementation of prolog based on miniprolog. |
 | [Tao] | 65 | ☀️ Active | A statically-typed functional programming language. |
 | [rtforth] | 46 | ☀️ Active | Forth implemented in Rust for realtime applications. |
@@ -41,6 +53,7 @@ Then it can be included in this list!
 | [Blazescript] | 8 | ☀️ Active | A basic scripting language. |
 | [Skate] | 0 | ☀️ Active | An experimental programming language. |
 | [Ketos] | 625 | 🌙 Inactive | Lisp dialect scripting and extension language for Rust programs. |
+| [Astro] | 591 | 🌙 Inactive | A fun safe language for rapid prototyping and high performance applications. |
 | [Atto] | 121 | 🌙 Inactive | A simple self-hosted functional programming language. |
 | [Rust-Lisp] | 72 | 🌙 Inactive | A small Lisp interpreter written in Rust. |
 | [Lisp.rs] | 23 | 🌙 Inactive | Scheme Interpreter in Rust. |
@@ -89,6 +102,22 @@ Then it can be included in this list!
 
 [Koto]: https://github.com/koto-lang/koto
 [Ante]: https://github.com/jfecher/ante
+[Astro]: https://github.com/astrolang/astro
+[Rune]: https://github.com/rune-rs/rune
+[Pikelet]: https://github.com/pikelet-lang/pikelet
+
+[Passerine]: https://github.com/vrtbl/passerine
+[CSML]: https://github.com/CSML-by-Clevy/csml-engine
+[Wu]: https://github.com/wu-lang/wu
+[Orion]: https://github.com/orion-lang/orion
+[Wain]: https://github.com/rhysd/wain
+
+[Leo]: https://github.com/AleoHQ/leo
+[EndBASIC]: https://github.com/jmmv/endbasic
+[Voile]: https://github.com/owo-lang/voile-rs
+[Jazz]: https://github.com/jazz-lang/Jazz
+[Minitt]: https://github.com/owo-lang/minitt-rs
+
 
 ### Lox Implementations
 
