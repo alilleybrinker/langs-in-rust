@@ -32,6 +32,7 @@ Then it can be included in this list!
 | [Ante] | 304 |  ☀️ Active | A safe, easy systems language. |
 | [Wu] | 265 | ☀️ Active | A practical game and data language. |
 | [Starlight] | 246 | ☀️ Active | JS engine in Rust. |
+| [Monkey-Rust] | 179 | ☀️ Active | An interpreter for the Monkey programming language written in Rust. |
 | [Orion] | 171 | ☀️ Active | A high level, purely functional programming language with a LISP based syntax. |
 | [Wain] | 163 | ☀️ Active | WebAssembly implementation from scratch in Safe Rust with zero dependencies. |
 | [Koto] | 142 | ☀️ Active | A simple, expressive, embeddable programming language, made with Rust. |
@@ -57,6 +58,7 @@ Then it can be included in this list!
 | [Astro] | 591 | 🌙 Inactive | A fun safe language for rapid prototyping and high performance applications. |
 | [Atto] | 121 | 🌙 Inactive | A simple self-hosted functional programming language. |
 | [Rust-Lisp] | 72 | 🌙 Inactive | A small Lisp interpreter written in Rust. |
+| [Iridium] | 40 | 🌙 Inactive | A register-based interpreter written in Rust. |
 | [Lisp.rs] | 23 | 🌙 Inactive | Scheme Interpreter in Rust. |
 | [Synthizer] | 16 | 🌙 Inactive | A simple, experimental functional language for real time additive audio synthesis. |
 | [Radicle] | 10 | 🌙 Inactive | An Ur-lisp interpreter written in Rust. |
@@ -187,7 +189,9 @@ presented separately here.
 [loxrs]: https://github.com/toyboot4e/loxrs
 [crafting-interpreters-rs]: https://github.com/tdp2110/crafting-interpreters-rs
 
-<!-- 68 -->
+<!-- 70 -->
 [roxt]: https://github.com/trevarj/roxt
 [relox]: https://github.com/yanchith/relox
 [Garnet]: https://sr.ht/~icefox/garnet/
+[Iridium]: https://gitlab.com/subnetzero/iridium
+[Monkey-Rust]: https://github.com/Rydgel/monkey-rust
