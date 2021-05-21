@@ -16,6 +16,7 @@ Then it can be included in this list!
 | Name | ⭐ Stars | ☀️ Status (updated within last year) | Description |
 |:-----|:---------|:-----------|:-----------|
 | [Rust] | 54,300 | ☀️ Active | Empowering everyone to build reliable and efficient software. |
+| [Parcel JavaScript Transformer] | 38,500* | ☀️ Active | Blazing fast, zero configuration web application bundler. |
 | [Gleam] | 2,800 | ☀️ Active | A type safe language for the Erlang VM. |
 | [Artichoke] | 2,400 | ☀️ Active | A Ruby made with Rust. |
 | [Gluon] | 2,300 | ☀️ Active | A static, type inferred and embeddable language written in Rust. |
@@ -64,6 +65,10 @@ Then it can be included in this list!
 | [Radicle] | 10 | 🌙 Inactive | An Ur-lisp interpreter written in Rust. |
 | [Lang] | 7 | 🌙 Inactive | An imperative programming language written in Rust. |
 | [Iron] | 4 | 🌙 Inactive | A Lisp-based language written in Rust. |
+
+*: Parcel is a large project of which the JavaScript transformer (written in Rust)
+is a small part. The "stars" number here reflects the whole project, which is
+broader than a programming language project.
 
 ### Lox Implementations
 
@@ -195,3 +200,6 @@ presented separately here.
 [Garnet]: https://sr.ht/~icefox/garnet/
 [Iridium]: https://gitlab.com/subnetzero/iridium
 [Monkey-Rust]: https://github.com/Rydgel/monkey-rust
+
+<!-- 71 -->
+[Parcel JavaScript Transformer]: https://github.com/parcel-bundler/parcel
