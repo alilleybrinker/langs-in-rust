@@ -51,6 +51,7 @@ Then it can be included in this list!
 | [Antimony] | 43 | ☀️ Active | A bullshit-free programming language that gets out of your way. |
 | [Crunch] | 43 | ☀️ Active | A strongly & statically typed systems level language focused on ease of use, portability and speed, built for the modern age. |
 | [Schwift] | 25 | ☀️ Active | An imperative programming language based on the show Rick and Morty. |
+| [Steel] | 17 | ☀️ Active | An embedded scheme interpreter written in Rust. |
 | [Blazescript] | 8 | ☀️ Active | A basic scripting language. |
 | [Skate] | 0 | ☀️ Active | An experimental programming language. |
 | [Ellie] | 0 | ☀️ Active | A scripting engine that runs on embedded and sandboxed environments. |
@@ -203,3 +204,4 @@ presented separately here.
 
 <!-- 71 -->
 [Parcel JavaScript Transformer]: https://github.com/parcel-bundler/parcel
+[Steel]: https://github.com/mattwparas/steel
