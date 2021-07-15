@@ -71,6 +71,12 @@ Then it can be included in this list!
 is a small part. The "stars" number here reflects the whole project, which is
 broader than a programming language project.
 
+### Configuration Programming Languages
+
+| Name | ⭐ Stars | ☀️ Status (updated within last year) | Description |
+|:-----|:---------|:-----------|:-----------|
+| [ucg] | 19 | ☀️ Active | A configuration compiler with multiple formats as backends written in Rust. |
+
 ### Lox Implementations
 
 Implementing the Lox language from the book Crafting Interpreters is a
@@ -205,3 +211,4 @@ presented separately here.
 <!-- 71 -->
 [Parcel JavaScript Transformer]: https://github.com/parcel-bundler/parcel
 [Steel]: https://github.com/mattwparas/steel
+[ucg]: https://github.com/zaphar/ucg
