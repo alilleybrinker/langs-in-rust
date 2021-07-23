@@ -41,6 +41,7 @@ Then it can be included in this list!
 | [Starlark] | 119 | ☀️ Active | A Rust implementation of the Starlark language. |
 | [Eldiro] | 117 | ☀️ Active | A programming language to teach how to implement languages in Rust. |
 | [Inko] | 115 | ☀️ Active | Statically-typed, safe, OO language for writing concurrent programs. |
+| [goscript] | 114 | ☀️ Active | Go specs implemented as a script language in Rust. |
 | [EndBASIC] | 107 | ☀️ Active | BASIC environment with a REPL, a web interface, and RPi support written in Rust. |
 | [Voile] | 79 | ☀️ Active | Dependently-typed row-polymorphic programming language. |
 | [Minitt] | 78 | ☀️ Active | Dependently-typed lambda calculus, Mini-TT, extended and implemented in Rust. |
@@ -208,7 +209,8 @@ presented separately here.
 [Iridium]: https://gitlab.com/subnetzero/iridium
 [Monkey-Rust]: https://github.com/Rydgel/monkey-rust
 
-<!-- 72 -->
+<!-- 74 -->
 [Parcel JavaScript Transformer]: https://github.com/parcel-bundler/parcel
 [Steel]: https://github.com/mattwparas/steel
 [ucg]: https://github.com/zaphar/ucg
+[goscript]: https://github.com/oxfeeefeee/goscript
