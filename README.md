@@ -66,6 +66,7 @@ Then it can be included in this list!
 | [Synthizer] | 16 | 🌙 Inactive | A simple, experimental functional language for real time additive audio synthesis. |
 | [Radicle] | 10 | 🌙 Inactive | An Ur-lisp interpreter written in Rust. |
 | [Lang] | 7 | 🌙 Inactive | An imperative programming language written in Rust. |
+| [Nyson] | 6 | ☀️ Active | A simple, fast, scripting language that can compile made in rust |
 | [Iron] | 4 | 🌙 Inactive | A Lisp-based language written in Rust. |
 
 *: Parcel is a large project of which the JavaScript transformer (written in Rust)
@@ -214,3 +215,4 @@ presented separately here.
 [Steel]: https://github.com/mattwparas/steel
 [ucg]: https://github.com/zaphar/ucg
 [goscript]: https://github.com/oxfeeefeee/goscript
+[Nyson]: https://github.com/Nyson-Programing-Language/nyson
