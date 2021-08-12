@@ -54,6 +54,7 @@ Then it can be included in this list!
 | [Schwift] | 25 | ☀️ Active | An imperative programming language based on the show Rick and Morty. |
 | [Steel] | 17 | ☀️ Active | An embedded scheme interpreter written in Rust. |
 | [Blazescript] | 8 | ☀️ Active | A basic scripting language. |
+| [Pr47] | 6 | ☀️ Active | An embedded script language specially designed for seemless interaction with Rust | 
 | [Skate] | 0 | ☀️ Active | An experimental programming language. |
 | [Ellie] | 0 | ☀️ Active | A scripting engine that runs on embedded and sandboxed environments. |
 | [Garnet] | N/A | ☀️ Active | Experiment with a lightweight systems programming language. |
@@ -209,8 +210,9 @@ presented separately here.
 [Iridium]: https://gitlab.com/subnetzero/iridium
 [Monkey-Rust]: https://github.com/Rydgel/monkey-rust
 
-<!-- 74 -->
+<!-- 75 -->
 [Parcel JavaScript Transformer]: https://github.com/parcel-bundler/parcel
 [Steel]: https://github.com/mattwparas/steel
 [ucg]: https://github.com/zaphar/ucg
 [goscript]: https://github.com/oxfeeefeee/goscript
+[Pr47]: https://github.com/Pr47/Pr47
