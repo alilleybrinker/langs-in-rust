@@ -52,6 +52,7 @@ Then it can be included in this list!
 | [Antimony] | 43 | ☀️ Active | A bullshit-free programming language that gets out of your way. |
 | [Crunch] | 43 | ☀️ Active | A strongly & statically typed systems level language focused on ease of use, portability and speed, built for the modern age. |
 | [Schwift] | 25 | ☀️ Active | An imperative programming language based on the show Rick and Morty. |
+| [Calcit] | 24 | ☀️ Active | ClojureScript inspired language, supports indentation-based syntax and tree editor, interprets and also compiles to JavaScript. |
 | [Steel] | 17 | ☀️ Active | An embedded scheme interpreter written in Rust. |
 | [Blazescript] | 8 | ☀️ Active | A basic scripting language. |
 | [Pr47] | 6 | ☀️ Active | An embedded script language specially designed for seemless interaction with Rust | 
@@ -212,6 +213,7 @@ presented separately here.
 
 <!-- 75 -->
 [Parcel JavaScript Transformer]: https://github.com/parcel-bundler/parcel
+[Calcit]: https://github.com/calcit-lang/calcit_runner.rs
 [Steel]: https://github.com/mattwparas/steel
 [ucg]: https://github.com/zaphar/ucg
 [goscript]: https://github.com/oxfeeefeee/goscript
