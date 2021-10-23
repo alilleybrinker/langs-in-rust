@@ -31,6 +31,7 @@ Then it can be included in this list!
 | [Nickel] | 538 | ☀️ Active | Cheap configuration language. |
 | [Pikelet] | 530 | ☀️ Active | A friendly little systems language with first-class types. |
 | [CSML] | 478 | ☀️ Active | Conversational Standard Meta Language. |
+| [SPWN] | 380 | ☀️ Active | A programming language that compiles to Geometry Dash levels. |
 | [Ante] | 323 |  ☀️ Active | A safe, easy systems language. |
 | [Starlight] | 306 | ☀️ Active | JS engine in Rust. |
 | [Wu] | 298 | ☀️ Active | A practical game and data language. |
@@ -165,6 +166,7 @@ presented separately here.
 [Pikelet]: https://github.com/pikelet-lang/pikelet
 [Passerine]: https://github.com/vrtbl/passerine
 [CSML]: https://github.com/CSML-by-Clevy/csml-engine
+[SPWN]: https://github.com/Spu7Nix/SPWN-language
 [Orion]: h206://github.com/orion-lang/orion
 [Wu]: https://github.com/wu-lang/wu
 
