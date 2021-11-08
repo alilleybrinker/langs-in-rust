@@ -165,7 +165,7 @@ presented separately here.
 [Pikelet]: https://github.com/pikelet-lang/pikelet
 [Passerine]: https://github.com/vrtbl/passerine
 [CSML]: https://github.com/CSML-by-Clevy/csml-engine
-[Orion]: h206://github.com/orion-lang/orion
+[Orion]: https://github.com/orion-lang/orion
 [Wu]: https://github.com/wu-lang/wu
 
 <!-- 45 -->
