@@ -57,6 +57,7 @@ Then it can be included in this list!
 | [Calcit] | 26 | ☀️ Active | ClojureScript inspired language, supports indentation-based syntax and tree editor, interprets and also compiles to JavaScript. |
 | [Steel] | 22 | ☀️ Active | An embedded scheme interpreter written in Rust. |
 | [Pr47] | 6 | ☀️ Active | An embedded script language specially designed for seemless interaction with Rust |
+| [The Force] | 5 | ☀️ Active | A fully armed and operational Star Wars themed programming language |
 | [Skate] | 1 | ☀️ Active | An experimental programming language. |
 | [Ellie] | 0 | ☀️ Active | A scripting engine that runs on embedded and sandboxed environments. |
 | [Garnet] | N/A | ☀️ Active | Experiment with a lightweight systems programming language. |
@@ -219,4 +220,7 @@ presented separately here.
 [Steel]: https://github.com/mattwparas/steel
 [ucg]: https://github.com/zaphar/ucg
 [goscript]: https://github.com/oxfeeefeee/goscript
+
+<!-- 80 -->
 [Pr47]: https://github.com/Pr47/Pr47
+[The Force]: https://github.com/mirdaki/theforce
