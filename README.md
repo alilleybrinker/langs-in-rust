@@ -59,6 +59,7 @@ Then it can be included in this list!
 | [Pr47] | 6 | ☀️ Active | An embedded script language specially designed for seemless interaction with Rust |
 | [The Force] | 5 | ☀️ Active | A fully armed and operational Star Wars themed programming language |
 | [Skate] | 1 | ☀️ Active | An experimental programming language. |
+| [🌌] | 1 | ☀️ Active | Toy language with (almost) anything allowed as an identifier. |
 | [Ellie] | 0 | ☀️ Active | A scripting engine that runs on embedded and sandboxed environments. |
 | [Garnet] | N/A | ☀️ Active | Experiment with a lightweight systems programming language. |
 | [Ketos] | 695 | 🌙 Inactive | Lisp dialect scripting and extension language for Rust programs. |
@@ -224,3 +225,4 @@ presented separately here.
 <!-- 80 -->
 [Pr47]: https://github.com/Pr47/Pr47
 [The Force]: https://github.com/mirdaki/theforce
+[🌌]: https://github.com/mrozycki/space-lang
