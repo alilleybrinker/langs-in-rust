@@ -11,7 +11,7 @@ directory of potentially interesting projects in this vein.
 
 Then it can be included in this list!
 
-## Programming Languages
+## List of Languages
 
 | Name | ⭐ Stars | ☀️ Status (updated within last year) | Description |
 |:-----|:---------|:-----------|:-----------|
