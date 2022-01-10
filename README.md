@@ -53,51 +53,18 @@ Then it can be included in this list!
 | [rtforth] | 49 | ☀️ Active | Forth implemented in Rust for realtime applications. |
 | [Crunch] | 46 | ☀️ Active | A strongly & statically typed systems level language focused on ease of use, portability and speed, built for the modern age. |
 | [Blazescript] | 34 | ☀️ Active | A basic scripting language. |
+| [crafting-interpreters-rs] | 33 | ☀️ Active | Crafting Interpreters in Rust. |
 | [Schwift] | 28 | ☀️ Active | An imperative programming language based on the show Rick and Morty. |
 | [Calcit] | 26 | ☀️ Active | ClojureScript inspired language, supports indentation-based syntax and tree editor, interprets and also compiles to JavaScript. |
+| [ucg] | 22 | ☀️ Active | A configuration compiler with multiple formats as backends written in Rust. |
 | [Steel] | 22 | ☀️ Active | An embedded scheme interpreter written in Rust. |
+| [Darksecond/lox] | 21 | ☀️ Active | A rust implementation of the lox language. |
+| [Laythe] | 18 | ☀️ Active | A dynamically typed language originally based on the crafting interpreters series. |
 | [Arn] | 13 | ☀️ Active |  A functional golfing language. |
+| [rctcwyvrn/rlox] | 9 | ☀️ Active | Rust implementation of the bytecode VM (clox) from Crafting Interpreters. |
 | [Pr47] | 6 | ☀️ Active | An embedded script language specially designed for seemless interaction with Rust |
 | [The Force] | 5 | ☀️ Active | A fully armed and operational Star Wars themed programming language |
 | [minipyth] | 5 | ☀️ Active | A minimalist programming language. |
-| [Skate] | 1 | ☀️ Active | An experimental programming language. |
-| [🌌] | 1 | ☀️ Active | Toy language with (almost) anything allowed as an identifier. |
-| [Ellie] | 0 | ☀️ Active | A scripting engine that runs on embedded and sandboxed environments. |
-| [Garnet] | N/A | ☀️ Active | Experiment with a lightweight systems programming language. |
-| [Ketos] | 695 | 🌙 Inactive | Lisp dialect scripting and extension language for Rust programs. |
-| [Astro] | 626 | 🌙 Inactive | A fun safe language for rapid prototyping and high performance applications. |
-| [Atto] | 125 | 🌙 Inactive | A simple self-hosted functional programming language. |
-| [Rust-Lisp] | 78 | 🌙 Inactive | A small Lisp interpreter written in Rust. |
-| [Iridium] | 43 | 🌙 Inactive | A register-based interpreter written in Rust. |
-| [Lisp.rs] | 24 | 🌙 Inactive | Scheme Interpreter in Rust. |
-| [Synthizer] | 19 | 🌙 Inactive | A simple, experimental functional language for real time additive audio synthesis. |
-| [Radicle] | 11 | 🌙 Inactive | An Ur-lisp interpreter written in Rust. |
-| [Lang] | 7 | 🌙 Inactive | An imperative programming language written in Rust. |
-| [Iron] | 5 | 🌙 Inactive | A Lisp-based language written in Rust. |
-
-*: Parcel is a large project of which the JavaScript transformer (written in Rust)
-is a small part. The "stars" number here reflects the whole project, which is
-broader than a programming language project.
-
-### Configuration Programming Languages
-
-| Name | ⭐ Stars | ☀️ Status (updated within last year) | Description |
-|:-----|:---------|:-----------|:-----------|
-| [ucg] | 22 | ☀️ Active | A configuration compiler with multiple formats as backends written in Rust. |
-
-### Lox Implementations
-
-Implementing the Lox language from the book Crafting Interpreters is a
-popular project for people learning programming language implementation.
-Given the similarities between the languages and implementations, they're
-presented separately here.
-
-| Name | ⭐ Stars | ☀️ Status (updated within last year) | Description |
-|:-----|:---------|:-----------|:-----------|
-| [crafting-interpreters-rs] | 33 | ☀️ Active | Crafting Interpreters in Rust. |
-| [Darksecond/lox] | 21 | ☀️ Active | A rust implementation of the lox language. |
-| [Laythe] | 18 | ☀️ Active | A dynamically typed language originally based on the crafting interpreters series. |
-| [rctcwyvrn/rlox] | 9 | ☀️ Active | Rust implementation of the bytecode VM (clox) from Crafting Interpreters. |
 | [lox-rs] | 6 | ☀️ Active | A Lox Interpreter in Rust. |
 | [cloxrs] | 5 | ☀️ Active | Lox implementation written in Rust. |
 | [sasurau4/lox-rust] | 4 | ☀️ Active | Interpreter for lox written by rust. |
@@ -107,15 +74,33 @@ presented separately here.
 | [nt591/lox-rust] | 2 | ☀️ Active | A Rust implementation of the Crafting Interpreters bytecode VM. |
 | [roxt] | 2 | ☀️ Active | A Lox interpreter written in Rust. |
 | [rox] | 0 | ☀️ Active | A Rust port of Crafting Interpreters. |
+| [Skate] | 1 | ☀️ Active | An experimental programming language. |
+| [🌌] | 1 | ☀️ Active | Toy language with (almost) anything allowed as an identifier. |
+| [Ellie] | 0 | ☀️ Active | A scripting engine that runs on embedded and sandboxed environments. |
+| [Garnet] | N/A | ☀️ Active | Experiment with a lightweight systems programming language. |
+| [Ketos] | 695 | 🌙 Inactive | Lisp dialect scripting and extension language for Rust programs. |
+| [Astro] | 626 | 🌙 Inactive | A fun safe language for rapid prototyping and high performance applications. |
+| [Atto] | 125 | 🌙 Inactive | A simple self-hosted functional programming language. |
+| [Rust-Lisp] | 78 | 🌙 Inactive | A small Lisp interpreter written in Rust. |
+| [Iridium] | 43 | 🌙 Inactive | A register-based interpreter written in Rust. |
 | [rulox] | 43 | 🌙 Inactive | Implementation in Rust of lox, the language described in Crafting Interpreters. |
 | [rodaine/rlox] | 27 | 🌙 Inactive | Lox Interpreter/REPL written in Rust. |
 | [tox] | 26 | 🌙 Inactive | Tox is a statically typed version programming language that is written in rust. |
+| [Lisp.rs] | 24 | 🌙 Inactive | Scheme Interpreter in Rust. |
+| [Synthizer] | 19 | 🌙 Inactive | A simple, experimental functional language for real time additive audio synthesis. |
+| [Radicle] | 11 | 🌙 Inactive | An Ur-lisp interpreter written in Rust. |
 | [cat-lox] | 9 | 🌙 Inactive | A tree-walk lox interpreter written in Rust. |
+| [Lang] | 7 | 🌙 Inactive | An imperative programming language written in Rust. |
+| [Iron] | 5 | 🌙 Inactive | A Lisp-based language written in Rust. |
 | [loxr] | 6 | 🌙 Inactive | A Rust interpreter for the Lox language. |
 | [relox] | 6 | 🌙 Inactive | Rust port of the jlox interpreter. |
 | [justinmayhew/lox] | 4 | 🌙 Inactive | A Rust implementation of Lox from Crafting Interpreters. |
 | [lax] | 1 | 🌙 Inactive | A lox interpreter. |
 | [yarli] | 1 | 🌙 Inactive | Yet Another Rusty Lox Interpreter. |
+
+*: Parcel is a large project of which the JavaScript transformer (written in Rust)
+is a small part. The "stars" number here reflects the whole project, which is
+broader than a programming language project.
 
 [Rust]: https://github.com/rust-lang/rust
 [Dyon]: https://github.com/pistondevelopers/dyon
