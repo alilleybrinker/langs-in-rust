@@ -56,8 +56,10 @@ Then it can be included in this list!
 | [Schwift] | 28 | ☀️ Active | An imperative programming language based on the show Rick and Morty. |
 | [Calcit] | 26 | ☀️ Active | ClojureScript inspired language, supports indentation-based syntax and tree editor, interprets and also compiles to JavaScript. |
 | [Steel] | 22 | ☀️ Active | An embedded scheme interpreter written in Rust. |
+| [Arn] | 13 | ☀️ Active |  A functional golfing language. |
 | [Pr47] | 6 | ☀️ Active | An embedded script language specially designed for seemless interaction with Rust |
 | [The Force] | 5 | ☀️ Active | A fully armed and operational Star Wars themed programming language |
+| [minipyth] | 5 | ☀️ Active | A minimalist programming language. |
 | [Skate] | 1 | ☀️ Active | An experimental programming language. |
 | [🌌] | 1 | ☀️ Active | Toy language with (almost) anything allowed as an identifier. |
 | [Ellie] | 0 | ☀️ Active | A scripting engine that runs on embedded and sandboxed environments. |
@@ -226,3 +228,5 @@ presented separately here.
 [Pr47]: https://github.com/Pr47/Pr47
 [The Force]: https://github.com/mirdaki/theforce
 [🌌]: https://github.com/mrozycki/space-lang
+[Arn]: https://github.com/ZippyMagician/Arn
+[minipyth]: https://github.com/isaacg1/minipyth
