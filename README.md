@@ -30,6 +30,7 @@ Then it can be included in this list!
 | [Passerine] | 611 | ☀️ Active | A small extensible programming language designed for concise expression with little code. |
 | [Nickel] | 538 | ☀️ Active | Cheap configuration language. |
 | [Pikelet] | 530 | ☀️ Active | A friendly little systems language with first-class types. |
+| [Parcel CSS] | 513 | ☀️ Active | A CSS parser, transformer, and minifier written in Rust. |
 | [CSML] | 478 | ☀️ Active | Conversational Standard Meta Language. |
 | [SPWN] | 380 | ☀️ Active | A programming language that compiles to Geometry Dash levels. |
 | [Ante] | 323 |  ☀️ Active | A safe, easy systems language. |
@@ -184,3 +185,4 @@ broader than a programming language project.
 [🌌]: https://github.com/mrozycki/space-lang
 [Arn]: https://github.com/ZippyMagician/Arn
 [minipyth]: https://github.com/isaacg1/minipyth
+[Parcel CSS]: https://github.com/parcel-bundler/parcel-css
