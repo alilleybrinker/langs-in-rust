@@ -22,6 +22,7 @@ Then it can be included in this list!
 | [Gluon] | 2,400+ | ☀️ Active | A static, type inferred and embeddable language written in Rust. |
 | [Boa] | 2,300+ | ☀️ Active | An embeddable and experimental Javascript engine written in Rust. |
 | [Dyon] | 1,400+ | ☀️ Active | A rusty dynamically typed scripting language. |
+| [Scryer Prolog] | 1,300+ | ☀️ Active | A modern Prolog implementation written mostly in Rust. |
 | [Rhai] | 1,200+ | ☀️ Active | An embedded scripting language for Rust. |
 | [Mun] | 1,200+ | ☀️ Active | A programming language empowering creation through iteration. |
 | [Differential Datalog] | 865 | ☀️ Active | An incremental programming language. |
@@ -186,3 +187,4 @@ broader than a programming language project.
 [Arn]: https://github.com/ZippyMagician/Arn
 [minipyth]: https://github.com/isaacg1/minipyth
 [Parcel CSS]: https://github.com/parcel-bundler/parcel-css
+[Scryer Prolog]: https://github.com/mthom/scryer-prolog
