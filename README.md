@@ -32,6 +32,7 @@ Then it can be included in this list!
 | [Nickel] | 538 | ☀️ Active | Cheap configuration language. |
 | [Pikelet] | 530 | ☀️ Active | A friendly little systems language with first-class types. |
 | [Parcel CSS] | 513 | ☀️ Active | A CSS parser, transformer, and minifier written in Rust. |
+| [frawk] | 493 | ☀️ Active | frawk is a small programming language for writing short programs processing textual data|
 | [CSML] | 478 | ☀️ Active | Conversational Standard Meta Language. |
 | [SPWN] | 380 | ☀️ Active | A programming language that compiles to Geometry Dash levels. |
 | [Ante] | 323 |  ☀️ Active | A safe, easy systems language. |
@@ -142,6 +143,7 @@ broader than a programming language project.
 [Pikelet]: https://github.com/pikelet-lang/pikelet
 [Passerine]: https://github.com/vrtbl/passerine
 [CSML]: https://github.com/CSML-by-Clevy/csml-engine
+[frawk]: https://github.com/ezrosent/frawk
 [SPWN]: https://github.com/Spu7Nix/SPWN-language
 [Orion]: h206://github.com/orion-lang/orion
 [Wu]: https://github.com/wu-lang/wu
