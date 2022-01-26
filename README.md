@@ -77,7 +77,7 @@ Then it can be included in this list!
 | [roxt] | 2 | ☀️ Active | A Lox interpreter written in Rust. |
 | [rox] | 0 | ☀️ Active | A Rust port of Crafting Interpreters. |
 | [Skate] | 1 | ☀️ Active | An experimental programming language. |
-| [🌌] | 1 | ☀️ Active | Toy language with (almost) anything allowed as an identifier. |
+| [🌌] | 2 | ☀️ Active | Toy language with (almost) anything allowed as an identifier. |
 | [Ellie] | 0 | ☀️ Active | A scripting engine that runs on embedded and sandboxed environments. |
 | [Garnet] | N/A | ☀️ Active | Experiment with a lightweight systems programming language. |
 | [Ketos] | 695 | 🌙 Inactive | Lisp dialect scripting and extension language for Rust programs. |
