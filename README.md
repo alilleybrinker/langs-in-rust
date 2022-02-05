@@ -35,6 +35,7 @@ Then it can be included in this list!
 | [frawk] | 493 | ☀️ Active | frawk is a small programming language for writing short programs processing textual data|
 | [CSML] | 478 | ☀️ Active | Conversational Standard Meta Language. |
 | [SPWN] | 380 | ☀️ Active | A programming language that compiles to Geometry Dash levels. |
+| [CalcuLaTeX] | 350 | ☀️ Active | A pretty printing calculator language with support for units. |
 | [Ante] | 323 |  ☀️ Active | A safe, easy systems language. |
 | [Starlight] | 306 | ☀️ Active | JS engine in Rust. |
 | [Wu] | 298 | ☀️ Active | A practical game and data language. |
@@ -190,3 +191,4 @@ broader than a programming language project.
 [minipyth]: https://github.com/isaacg1/minipyth
 [Parcel CSS]: https://github.com/parcel-bundler/parcel-css
 [Scryer Prolog]: https://github.com/mthom/scryer-prolog
+[CalcuLaTeX]: https://github.com/mkhan45/CalcuLaTeX
