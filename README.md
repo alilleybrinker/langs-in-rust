@@ -82,6 +82,7 @@ Then it can be included in this list!
 | [🌌] | 2 | ☀️ Active | Toy language with (almost) anything allowed as an identifier. |
 | [Ellie] | 0 | ☀️ Active | A scripting engine that runs on embedded and sandboxed environments. |
 | [Garnet] | N/A | ☀️ Active | Experiment with a lightweight systems programming language. |
+| [Sligh] | 3 | * Active | A certifying compiler from infrastructure-agnostic specification to web application code (experimental)
 | [Ketos] | 695 | 🌙 Inactive | Lisp dialect scripting and extension language for Rust programs. |
 | [Astro] | 626 | 🌙 Inactive | A fun safe language for rapid prototyping and high performance applications. |
 | [Atto] | 125 | 🌙 Inactive | A simple self-hosted functional programming language. |
@@ -177,6 +178,7 @@ broader than a programming language project.
 [roxt]: https://github.com/trevarj/roxt
 [relox]: https://github.com/yanchith/relox
 [Garnet]: https://sr.ht/~icefox/garnet/
+[Sligh]: https://github.com/amw-zero/sligh
 [Iridium]: https://gitlab.com/subnetzero/iridium
 [Monkey-Rust]: https://github.com/Rydgel/monkey-rust
 [Parcel JavaScript Transformer]: https://github.com/parcel-bundler/parcel
