@@ -75,6 +75,7 @@ Then it can be included in this list!
 | [loxrs] | 3 | ☀️ Active  | Crafting Interpreters in Rust (Part II: A tree-walk interpreter). |
 | [loxidation] | 3 | ☀️ Active | Lox bytecode compiler and VM in Rust. |
 | [radogost/rlox] | 3 | ☀️ Active | An implementation of lox from the great book Crafting Interpreters implemented in Rust. |
+| [Sligh] | 3 | ☀️ Active | A certifying compiler from infrastructure-agnostic specification to web application code (experimental)
 | [nt591/lox-rust] | 2 | ☀️ Active | A Rust implementation of the Crafting Interpreters bytecode VM. |
 | [roxt] | 2 | ☀️ Active | A Lox interpreter written in Rust. |
 | [rox] | 0 | ☀️ Active | A Rust port of Crafting Interpreters. |
@@ -82,7 +83,6 @@ Then it can be included in this list!
 | [🌌] | 2 | ☀️ Active | Toy language with (almost) anything allowed as an identifier. |
 | [Ellie] | 0 | ☀️ Active | A scripting engine that runs on embedded and sandboxed environments. |
 | [Garnet] | N/A | ☀️ Active | Experiment with a lightweight systems programming language. |
-| [Sligh] | 3 | * Active | A certifying compiler from infrastructure-agnostic specification to web application code (experimental)
 | [Ketos] | 695 | 🌙 Inactive | Lisp dialect scripting and extension language for Rust programs. |
 | [Astro] | 626 | 🌙 Inactive | A fun safe language for rapid prototyping and high performance applications. |
 | [Atto] | 125 | 🌙 Inactive | A simple self-hosted functional programming language. |
