@@ -17,6 +17,8 @@ Then it can be included in this list!
 |:-----|:---------|:-----------|:-----------|
 | [Rust] | 59,100+ | ☀️ Active | Empowering everyone to build reliable and efficient software. |
 | [Parcel JavaScript Transformer] | 39,000* | ☀️ Active | Blazing fast, zero configuration web application bundler. |
+| [RustPython] | 11,000+ | ☀️ Active | A Python Interpreter written in Rust. |
+| [Melody] | 3,500+ | ☀️ Active | A language that compiles to regular expressions and aims to be more easily readable and maintainable. |
 | [Gleam] | 3,300+ | ☀️ Active | A type safe language for the Erlang VM. |
 | [Artichoke] | 2,500+ | ☀️ Active | A Ruby made with Rust. |
 | [Gluon] | 2,400+ | ☀️ Active | A static, type inferred and embeddable language written in Rust. |
