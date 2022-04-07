@@ -196,3 +196,5 @@ broader than a programming language project.
 [Parcel CSS]: https://github.com/parcel-bundler/parcel-css
 [Scryer Prolog]: https://github.com/mthom/scryer-prolog
 [CalcuLaTeX]: https://github.com/mkhan45/CalcuLaTeX
+[RustPython]: https://github.com/RustPython/RustPython
+[Melody]: https://github.com/yoav-lavi/melody
