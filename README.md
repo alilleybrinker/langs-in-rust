@@ -17,6 +17,7 @@ Then it can be included in this list!
 |:-----|:---------|:-----------|:-----------|
 | [Rust] | 59,100+ | ☀️ Active | Empowering everyone to build reliable and efficient software. |
 | [Parcel JavaScript Transformer] | 39,000* | ☀️ Active | Blazing fast, zero configuration web application bundler. |
+| [swc] | 22,000+ | ☀️ Active | Rust-based platform for the Web |
 | [RustPython] | 11,000+ | ☀️ Active | A Python Interpreter written in Rust. |
 | [Melody] | 3,500+ | ☀️ Active | A language that compiles to regular expressions and aims to be more easily readable and maintainable. |
 | [Gleam] | 3,300+ | ☀️ Active | A type safe language for the Erlang VM. |
@@ -184,6 +185,7 @@ broader than a programming language project.
 [Iridium]: https://gitlab.com/subnetzero/iridium
 [Monkey-Rust]: https://github.com/Rydgel/monkey-rust
 [Parcel JavaScript Transformer]: https://github.com/parcel-bundler/parcel
+[swc]: https://github.com/swc-project/swc
 [Calcit]: https://github.com/calcit-lang/calcit_runner.rs
 [Steel]: https://github.com/mattwparas/steel
 [ucg]: https://github.com/zaphar/ucg
