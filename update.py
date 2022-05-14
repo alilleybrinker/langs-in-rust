@@ -79,7 +79,7 @@ def api_request(token):
                     if is_active:
                         lang_obj = {
                             'name': i["name"],
-                            'description': data["description"],
+                            'description': i["description"],
                             'url': i["url"],
                             'stars': data['stargazers_count'],
                             'active': is_active
@@ -88,7 +88,7 @@ def api_request(token):
                     if not is_active:
                         lang_obj = {
                             "name": i["name"],
-                            "description": data["description"],
+                            "description": i["description"],
                             "url": i["url"],
                             "stars": data['stargazers_count'],
                             "active": is_active
