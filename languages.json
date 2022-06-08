@@ -628,5 +628,19 @@
         "url": "https://github.com/yoav-lavi/melody",
         "stars": 3702,
         "active": true
+    },
+    {
+        "name": "Fe",
+        "description": "Emerging smart contract language for the Ethereum blockchain.",
+        "url": "https://github.com/ethereum/fe",
+        "stars": 1108,
+        "active": true
+    },
+    {
+        "name": "Sway",
+        "description": "Sway is a language developed for the Fuel blockchain.",
+        "url": "https://github.com/FuelLabs/sway",
+        "stars": 131,
+        "active": true
     }
 ]
