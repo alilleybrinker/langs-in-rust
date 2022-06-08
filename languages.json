@@ -31,8 +31,8 @@
         "name": "Inko",
         "description": "Statically-typed, safe, OO language for writing concurrent programs.",
         "url": "https://inko-lang.org/",
-        "stars": 0,
-        "active": false
+        "stars": 135,
+        "active": true
     },
     {
         "name": "Gluon",
