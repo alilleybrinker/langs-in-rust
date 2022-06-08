@@ -1,7 +1,8 @@
 # Languages Written in Rust
 
 This is a (probably incomplete) list of languages implemented in
-Rust. It is intended as a source of inspiration and comparison, and as adirectory of potentially interesting projects in this vein.
+Rust. It is intended as a source of inspiration and comparison, and as a
+directory of potentially interesting projects in this vein.
 
 ## What Can Be Included?
 
