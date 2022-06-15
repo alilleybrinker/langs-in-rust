@@ -642,5 +642,54 @@
         "url": "https://github.com/FuelLabs/sway",
         "stars": 131,
         "active": true
+    },
+    {
+        "name": "Sphinx",
+        "description": "An intepreter for a simple dynamic language written in Rust.",
+        "url": "https://github.com/mwerezak/sphinx-lang",
+        "stars": 283,
+        "active": true
+    },
+    {
+        "name": "Butter",
+        "description": "A tasty language for building efficient software.",
+        "url": "https://github.com/neverRare/butter",
+        "stars": 106,
+        "active": true
+    },
+    {
+        "name": "Calypso",
+        "description": "Calypso is a mostly imperative language with some functional influences that is focused on flexibility and simplicity.",
+        "url": "https://github.com/calypso-lang/calypso",
+        "stars": 47,
+        "active": true
+    },
+    {
+        "name": "Tethys",
+        "description": "A toy functional programming language with a System F-based core calculus.",
+        "url": "https://github.com/ThePuzzlemaker/tethys",
+        "stars": 3,
+        "active": true
+    },
+    {
+        "name": "Chili",
+        "description": "General-purpose programming language focused on productivity, expressiveness and joy of programming™.",
+        "url": "https://github.com/r0nsha/chili",
+        "stars": 24,
+        "active": true
+    },
+    {
+        "name": "Foolang",
+        "description": "A Smalltalk-inspired toy language.",
+        "url": "https://github.com/nikodemus/foolang",
+        "stars": 32,
+        "active": true
+    },
+    {
+        "name": "Jakt",
+        "description": "A memory-safe systems programming language.",
+        "url": "https://github.com/SerenityOS/jakt",
+        "stars": 1600,
+        "active": true
     }
 ]
