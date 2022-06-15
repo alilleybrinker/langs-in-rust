@@ -15,22 +15,23 @@ Then it can be included in this list!
 
 | Name | ⭐ Stars | ☀️ Status | Description |
 |:-----|:---------|:-----------|:-----------|
-| [Rust] | 66,910 | ☀️ Active | Empowering everyone to build reliable and efficient software. |
-| [Parcel JavaScript Transformer] | 40,767 | ☀️ Active | Blazing fast, zero configuration web application bundler. |
-| [swc] | 22,213 | ☀️ Active | A JavaScript/TypeScript compiler and bundler written in Rust |
-| [RustPython] | 11,296 | ☀️ Active | A Python Interpreter written in Rust. |
-| [Gleam] | 3,899 | ☀️ Active | A type safe language for the Erlang VM. |
-| [Melody] | 3,702 | ☀️ Active | A language that compiles to regular expressions and aims to be more easily readable and maintainable. |
-| [Boa] | 2,967 | ☀️ Active | An embeddable and experimental Javascript engine written in Rust. |
-| [Artichoke] | 2,721 | ☀️ Active | A Ruby made with Rust. |
-| [Gluon] | 2,565 | ☀️ Active | A static, type inferred and embeddable language written in Rust. |
-| [Parcel CSS] | 1,843 | ☀️ Active | A CSS parser, transformer, and minifier written in Rust. |
-| [Rhai] | 1,818 | ☀️ Active | An embedded scripting language for Rust. |
-| [Dyon] | 1,465 | ☀️ Active | A rusty dynamically typed scripting language. |
-| [Scryer Prolog] | 1,437 | ☀️ Active | A modern Prolog implementation written mostly in Rust. |
-| [Mun] | 1,257 | ☀️ Active | A programming language empowering creation through iteration. |
-| [goscript] | 1,257 | ☀️ Active | Go specs implemented as a script language in Rust. |
-| [Differential Datalog] | 1,000 | ☀️ Active | An incremental programming language. |
+| [Rust] | 66910 | ☀️ Active | Empowering everyone to build reliable and efficient software. |
+| [Parcel JavaScript Transformer] | 40767 | ☀️ Active | Blazing fast, zero configuration web application bundler. |
+| [swc] | 22213 | ☀️ Active | A JavaScript/TypeScript compiler and bundler written in Rust |
+| [RustPython] | 11296 | ☀️ Active | A Python Interpreter written in Rust. |
+| [Gleam] | 3899 | ☀️ Active | A type safe language for the Erlang VM. |
+| [Melody] | 3702 | ☀️ Active | A language that compiles to regular expressions and aims to be more easily readable and maintainable. |
+| [Boa] | 2967 | ☀️ Active | An embeddable and experimental Javascript engine written in Rust. |
+| [Artichoke] | 2721 | ☀️ Active | A Ruby made with Rust. |
+| [Gluon] | 2565 | ☀️ Active | A static, type inferred and embeddable language written in Rust. |
+| [Parcel CSS] | 1843 | ☀️ Active | A CSS parser, transformer, and minifier written in Rust. |
+| [Rhai] | 1818 | ☀️ Active | An embedded scripting language for Rust. |
+| [Dyon] | 1465 | ☀️ Active | A rusty dynamically typed scripting language. |
+| [Scryer Prolog] | 1437 | ☀️ Active | A modern Prolog implementation written mostly in Rust. |
+| [Mun] | 1257 | ☀️ Active | A programming language empowering creation through iteration. |
+| [goscript] | 1257 | ☀️ Active | Go specs implemented as a script language in Rust. |
+| [Fe] | 1108 | ☀️ Active | Emerging smart contract language for the Ethereum blockchain. |
+| [Differential Datalog] | 1000 | ☀️ Active | An incremental programming language. |
 | [Nickel] | 997 | ☀️ Active | Cheap configuration language. |
 | [Rune] | 953 | ☀️ Active | An embeddable dynamic programming language for Rust. |
 | [frawk] | 945 | ☀️ Active | frawk is a small programming language for writing short programs processing textual |
@@ -54,6 +55,7 @@ Then it can be included in this list!
 | [Eldiro] | 178 | ☀️ Active | A programming language to teach how to implement languages in Rust. |
 | [EndBASIC] | 174 | ☀️ Active | BASIC environment with a REPL, a web interface, and RPi support written in Rust. |
 | [atto] | 131 | ☀️ Active | A simple self-hosted functional programming language. |
+| [Sway] | 131 | ☀️ Active | Sway is a language developed for the Fuel blockchain. |
 | [Minitt] | 97 | ☀️ Active | Dependently-typed lambda calculus, Mini-TT, extended and implemented in Rust. |
 | [Voile] | 87 | ☀️ Active | Dependently-typed row-polymorphic programming language. |
 | [Jazz] | 87 | ☀️ Active | Modern and fast programming language. |
@@ -200,3 +202,5 @@ broader than a programming language project.
 [CalcuLaTeX]: https://github.com/mkhan45/CalcuLaTeX
 [RustPython]: https://github.com/RustPython/RustPython
 [Melody]: https://github.com/yoav-lavi/melody
+[Fe]: https://github.com/ethereum/fe
+[Sway]: https://github.com/FuelLabs/sway
