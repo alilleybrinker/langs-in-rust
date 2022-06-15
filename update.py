@@ -117,8 +117,10 @@ def api_request(token):
                 response = requests.get(
                     url, headers={f"Authorization": f"token {token}"}
                 )
+                # Print an error if something fails, but keep going.
                 if response.status_code != 200:
-                    raise Exception(f"API request failed for {url}")
+                    print(f"API request failed for {url}", file=sys.stderr)
+                    continue
 
                 # Get the latest data and update the list.
                 data = response.json()
