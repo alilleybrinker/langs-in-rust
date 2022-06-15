@@ -16,19 +16,16 @@ Then it can be included in this list!
 | Name | ⭐ Stars | ☀️ Status | Description |
 |:-----|:---------|:-----------|:-----------|
 | [Rust] | 67,593 | ☀️ Active | Empowering everyone to build reliable and efficient software. |
-| [Rust] | 67,593 | ☀️ Active | Empowering everyone to build reliable and efficient software. |
 | [Parcel JavaScript Transformer] | 40,861 | ☀️ Active | Blazing fast, zero configuration web application bundler. |
 | [swc] | 22,515 | ☀️ Active | A JavaScript/TypeScript compiler and bundler written in Rust |
 | [RustPython] | 11,466 | ☀️ Active | A Python Interpreter written in Rust. |
 | [Gleam] | 3,939 | ☀️ Active | A type safe language for the Erlang VM. |
 | [Melody] | 3,756 | ☀️ Active | A language that compiles to regular expressions and aims to be more easily readable and maintainable. |
 | [Boa] | 3,089 | ☀️ Active | An embeddable and experimental Javascript engine written in Rust. |
-| [Boa] | 2,967 | ☀️ Active | An embeddable and experimental Javascript engine written in Rust. |
 | [Artichoke] | 2,733 | ☀️ Active | A Ruby made with Rust. |
 | [Gluon] | 2,579 | ☀️ Active | A static, type inferred and embeddable language written in Rust. |
 | [Rhai] | 1,891 | ☀️ Active | An embedded scripting language for Rust. |
 | [Parcel CSS] | 1,883 | ☀️ Active | A CSS parser, transformer, and minifier written in Rust. |
-| [Rhai] | 1,818 | ☀️ Active | An embedded scripting language for Rust. |
 | [Scryer Prolog] | 1,466 | ☀️ Active | A modern Prolog implementation written mostly in Rust. |
 | [Dyon] | 1,465 | ☀️ Active | A rusty dynamically typed scripting language. |
 | [goscript] | 1,294 | ☀️ Active | Go specs implemented as a script language in Rust. |
@@ -92,12 +89,10 @@ Then it can be included in this list!
 | [The Force] | 11 | ☀️ Active | A fully armed and operational Star Wars themed programming language |
 | [minipyth] | 7 | ☀️ Active | A minimalist programming language. |
 | [relox] | 6 | ☀️ Active | Rust port of the jlox interpreter. |
-| [relox] | 6 | ☀️ Active | Rust port of the jlox interpreter. |
 | [rox] | 5 | ☀️ Active | A Rust port of Crafting Interpreters. |
 | [radogost/rlox] | 5 | ☀️ Active | An implementation of lox from the great book Crafting Interpreters implemented in Rust. |
 | [loxrs] | 5 | ☀️ Active | Crafting Interpreters in Rust (Part II: A tree-walk interpreter). |
 | [loxidation] | 4 | ☀️ Active | Lox bytecode compiler and VM in Rust. |
-| [Sligh] | 4 | ☀️ Active | A certifying compiler from infrastructure-agnostic specification to web application code (experimental) |
 | [Sligh] | 4 | ☀️ Active | A certifying compiler from infrastructure-agnostic specification to web application code (experimental) |
 | [🌌] | 3 | ☀️ Active | Toy language with (almost) anything allowed as an identifier. |
 | [Tethys] | 3 | ☀️ Active | A toy functional programming language with a System F-based core calculus. |
@@ -122,7 +117,6 @@ broader than a programming language project.
 [Dyon]: https://github.com/pistondevelopers/dyon
 [Ketos]: https://github.com/murarth/ketos
 [Rhai]: https://github.com/jonathandturner/rhai
-[Rhai]: https://github.com/jonathandturner/rhai
 [Gluon]: https://github.com/gluon-lang/gluon
 [Antimony]: https://github.com/antimony-lang/antimony
 [Tao]: https://github.com/zesterer/tao
@@ -143,7 +137,6 @@ broader than a programming language project.
 [Eldiro]: https://github.com/arzg/eldiro
 [Starlight]: https://github.com/Starlight-JS/Starlight
 [Differential Datalog]: https://github.com/vmware/differential-datalog
-[Boa]: https://github.com/boa-dev/boa
 [Boa]: https://github.com/boa-dev/boa
 [Nickel]: https://github.com/tweag/nickel
 [Artichoke]: https://github.com/artichoke/artichoke
@@ -188,8 +181,6 @@ broader than a programming language project.
 [crafting-interpreters-rs]: https://github.com/tdp2110/crafting-interpreters-rs
 [roxt]: https://github.com/trevarj/roxt
 [relox]: https://github.com/yanchith/relox
-[relox]: https://github.com/yanchith/relox
-[Sligh]: https://github.com/amw-zero/sligh
 [Sligh]: https://github.com/amw-zero/sligh
 [Monkey-Rust]: https://github.com/Rydgel/monkey-rust
 [Parcel JavaScript Transformer]: https://github.com/parcel-bundler/parcel
@@ -216,5 +207,4 @@ broader than a programming language project.
 [Tethys]: https://github.com/ThePuzzlemaker/tethys
 [Chili]: https://github.com/r0nsha/chili
 [Foolang]: https://github.com/nikodemus/foolang
-[Rust]: https://github.com/rust-lang/rust
 [Rust]: https://github.com/rust-lang/rust

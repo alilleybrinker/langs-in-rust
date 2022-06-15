@@ -21,13 +21,6 @@
         "active": true
     },
     {
-        "name": "Rhai",
-        "description": "An embedded scripting language for Rust.",
-        "url": "https://github.com/jonathandturner/rhai",
-        "stars": 1818,
-        "active": true
-    },
-    {
         "name": "Gluon",
         "description": "A static, type inferred and embeddable language written in Rust.",
         "url": "https://github.com/gluon-lang/gluon",
@@ -172,13 +165,6 @@
         "description": "An embeddable and experimental Javascript engine written in Rust.",
         "url": "https://github.com/boa-dev/boa",
         "stars": 3089,
-        "active": true
-    },
-    {
-        "name": "Boa",
-        "description": "An embeddable and experimental Javascript engine written in Rust.",
-        "url": "https://github.com/boa-dev/boa",
-        "stars": 2967,
         "active": true
     },
     {
@@ -483,20 +469,6 @@
         "active": true
     },
     {
-        "name": "relox",
-        "description": "Rust port of the jlox interpreter.",
-        "url": "https://github.com/yanchith/relox",
-        "stars": 6,
-        "active": true
-    },
-    {
-        "name": "Sligh",
-        "description": "A certifying compiler from infrastructure-agnostic specification to web application code (experimental)",
-        "url": "https://github.com/amw-zero/sligh",
-        "stars": 4,
-        "active": true
-    },
-    {
         "name": "Sligh",
         "description": "A certifying compiler from infrastructure-agnostic specification to web application code (experimental)",
         "url": "https://github.com/amw-zero/sligh",
@@ -676,13 +648,6 @@
         "description": "A Smalltalk-inspired toy language.",
         "url": "https://github.com/nikodemus/foolang",
         "stars": 32,
-        "active": true
-    },
-    {
-        "name": "Rust",
-        "description": "Empowering everyone to build reliable and efficient software.",
-        "url": "https://github.com/rust-lang/rust",
-        "stars": 67593,
         "active": true
     },
     {
