@@ -656,5 +656,12 @@
         "url": "https://github.com/rust-lang/rust",
         "stars": 67593,
         "active": true
+    },
+    {
+        "name": "Jakt",
+        "description": "A memory-safe systems programming language.",
+        "url": "https://github.com/SerenityOS/jakt",
+        "stars": 1629,
+        "active": true
     }
 ]
