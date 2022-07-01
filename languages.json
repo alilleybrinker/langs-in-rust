@@ -656,5 +656,12 @@
         "url": "https://github.com/rust-lang/rust",
         "stars": 67593,
         "active": true
+    },
+    {
+        "name": "Inko",
+        "description": "Inko is a statically-typed, safe, object-oriented programming language for writing concurrent programs.",
+        "url": "https://github.com/YorickPeterse/inko",
+        "stars": 170,
+        "active": true
     }
 ]
