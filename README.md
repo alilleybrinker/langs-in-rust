@@ -56,6 +56,7 @@ Then it can be included in this list!
 | [Orion] | 225 | ☀️ Active | A high level, purely functional programming language with a LISP based syntax. |
 | [EndBASIC] | 205 | ☀️ Active | BASIC environment with a REPL, a web interface, and RPi support written in Rust. |
 | [Eldiro] | 181 | ☀️ Active | A programming language to teach how to implement languages in Rust. |
+| [Inko] | 170 | ☀️ Active | Inko is a statically-typed, safe, object-oriented programming language for writing concurrent programs. |
 | [Sway] | 133 | ☀️ Active | Sway is a language developed for the Fuel blockchain. |
 | [atto] | 131 | ☀️ Active | A simple self-hosted functional programming language. |
 | [Butter] | 106 | ☀️ Active | A tasty language for building efficient software. |
@@ -210,3 +211,4 @@ broader than a programming language project.
 [Foolang]: https://github.com/nikodemus/foolang
 [Rust]: https://github.com/rust-lang/rust
 [Jakt]: https://github.com/SerenityOS/jakt
+[Inko]: https://github.com/YorickPeterse/inko

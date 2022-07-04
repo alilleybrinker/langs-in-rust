@@ -106,8 +106,9 @@ def api_request(token):
     with open("languages.json", "r+", encoding="utf-8") as file:
         # Read the current state of the file.
         languages = json.load(file)
+        new_data = []
 
-        for count, lang in enumerate(languages):
+        for lang in languages:
             # TODO: Also support requests to other APIs like GitLab to get this info.
             if "github.com" in lang["url"]:
                 # Get the URL for the proper API request.
@@ -124,17 +125,19 @@ def api_request(token):
 
                 # Get the latest data and update the list.
                 data = response.json()
-                languages[count - 1] = {
-                    "name": lang["name"],
-                    "description": lang["description"],
-                    "url": lang["url"],
-                    "stars": data["stargazers_count"],
-                    "active": is_active(data["updated_at"]),
-                }
+                new_data.append(
+                    {
+                        "name": lang["name"],
+                        "description": lang["description"],
+                        "url": lang["url"],
+                        "stars": data["stargazers_count"],
+                        "active": is_active(data["updated_at"]),
+                    }
+                )
 
         # Update the file.
         file.seek(0)
-        json.dump(languages, file, indent=4)
+        json.dump(new_data, file, indent=4)
         file.truncate()
 
 
