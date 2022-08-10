@@ -26,6 +26,7 @@ Then it can be included in this list!
 | [Gluon] | 2,579 | ☀️ Active | A static, type inferred and embeddable language written in Rust. |
 | [Rhai] | 1,891 | ☀️ Active | An embedded scripting language for Rust. |
 | [Parcel CSS] | 1,883 | ☀️ Active | A CSS parser, transformer, and minifier written in Rust. |
+| [Jakt] | 1,629 | ☀️ Active | A memory-safe systems programming language. |
 | [Scryer Prolog] | 1,466 | ☀️ Active | A modern Prolog implementation written mostly in Rust. |
 | [Dyon] | 1,465 | ☀️ Active | A rusty dynamically typed scripting language. |
 | [goscript] | 1,294 | ☀️ Active | Go specs implemented as a script language in Rust. |
@@ -209,4 +210,5 @@ broader than a programming language project.
 [Chili]: https://github.com/r0nsha/chili
 [Foolang]: https://github.com/nikodemus/foolang
 [Rust]: https://github.com/rust-lang/rust
+[Jakt]: https://github.com/SerenityOS/jakt
 [Inko]: https://github.com/YorickPeterse/inko

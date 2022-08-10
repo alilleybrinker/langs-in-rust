@@ -658,6 +658,13 @@
         "active": true
     },
     {
+        "name": "Jakt",
+        "description": "A memory-safe systems programming language.",
+        "url": "https://github.com/SerenityOS/jakt",
+        "stars": 1629,
+        "active": true
+    },
+    {
         "name": "Inko",
         "description": "Inko is a statically-typed, safe, object-oriented programming language for writing concurrent programs.",
         "url": "https://github.com/YorickPeterse/inko",
