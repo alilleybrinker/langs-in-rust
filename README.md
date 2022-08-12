@@ -55,6 +55,7 @@ Then it can be included in this list!
 | [Monkey-Rust] | 240 | ☀️ Active | An interpreter for the Monkey programming language written in Rust. |
 | [Orion] | 225 | ☀️ Active | A high level, purely functional programming language with a LISP based syntax. |
 | [EndBASIC] | 205 | ☀️ Active | BASIC environment with a REPL, a web interface, and RPi support written in Rust. |
+| [Tokay] | 182 | ☀️ Active | Tokay is a programming language designed for ad-hoc parsing, inspired by awk. |
 | [Eldiro] | 181 | ☀️ Active | A programming language to teach how to implement languages in Rust. |
 | [Inko] | 170 | ☀️ Active | Inko is a statically-typed, safe, object-oriented programming language for writing concurrent programs. |
 | [Sway] | 133 | ☀️ Active | Sway is a language developed for the Fuel blockchain. |
@@ -212,3 +213,4 @@ broader than a programming language project.
 [Rust]: https://github.com/rust-lang/rust
 [Jakt]: https://github.com/SerenityOS/jakt
 [Inko]: https://github.com/YorickPeterse/inko
+[Tokay]: https://github.com/tokay-lang/tokay

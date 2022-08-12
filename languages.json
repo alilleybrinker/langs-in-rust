@@ -670,5 +670,12 @@
         "url": "https://github.com/YorickPeterse/inko",
         "stars": 170,
         "active": true
+    },
+    {
+        "name": "Tokay",
+        "description": "Tokay is a programming language designed for ad-hoc parsing, inspired by awk.",
+        "url": "https://github.com/tokay-lang/tokay",
+        "stars": 182,
+        "active": true
     }
 ]
