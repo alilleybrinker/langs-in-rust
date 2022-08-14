@@ -658,6 +658,13 @@
         "active": true
     },
     {
+        "name": "KCLVM",
+        "description": "A constraint-based record & functional language mainly used in configuration and policy scenarios.",
+        "url": "https://github.com/KusionStack/KCLVM",
+        "stars": 72,
+        "active": true
+    },
+    {
         "name": "Jakt",
         "description": "A memory-safe systems programming language.",
         "url": "https://github.com/SerenityOS/jakt",

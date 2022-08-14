@@ -67,6 +67,7 @@ Then it can be included in this list!
 | [Antimony] | 80 | ☀️ Active | A bullshit-free programming language that gets out of your way. |
 | [Rust-lisp] | 79 | ☀️ Active | A small Lisp interpreter written in Rust. |
 | [Rust-Prolog] | 77 | ☀️ Active | Rust implementation of prolog based on miniprolog. |
+| [KCLVM] | 72 | ☀️ Active | A constraint-based record & functional language mainly used in configuration and policy scenario. |
 | [Laythe] | 57 | ☀️ Active | A dynamically typed language originally based on the crafting interpreters series. |
 | [rtforth] | 55 | ☀️ Active | Forth implemented in Rust for realtime applications. |
 | [rulox] | 52 | ☀️ Active | Implementation in Rust of lox, the language described in Crafting Interpreters. |
@@ -210,5 +211,6 @@ broader than a programming language project.
 [Chili]: https://github.com/r0nsha/chili
 [Foolang]: https://github.com/nikodemus/foolang
 [Rust]: https://github.com/rust-lang/rust
+[KCLVM]: https://github.com/KusionStack/KCLVM
 [Jakt]: https://github.com/SerenityOS/jakt
 [Inko]: https://github.com/YorickPeterse/inko
