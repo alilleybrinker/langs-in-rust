@@ -30,6 +30,7 @@ Then it can be included in this list!
 | [Scryer Prolog] | 1,466 | ☀️ Active | A modern Prolog implementation written mostly in Rust. |
 | [Dyon] | 1,465 | ☀️ Active | A rusty dynamically typed scripting language. |
 | [goscript] | 1,294 | ☀️ Active | Go specs implemented as a script language in Rust. |
+| [Erg] | 1,276 | ☀️ Active | A Python-compatible statically typed language. |
 | [Mun] | 1,274 | ☀️ Active | A programming language empowering creation through iteration. |
 | [Fe] | 1,112 | ☀️ Active | Emerging smart contract language for the Ethereum blockchain. |
 | [Nickel] | 1,022 | ☀️ Active | Cheap configuration language. |
@@ -116,6 +117,7 @@ Then it can be included in this list!
 is a small part. The "stars" number here reflects the whole project, which is
 broader than a programming language project.
 
+[Erg]: https://github.com/erg-lang/erg
 [Dyon]: https://github.com/pistondevelopers/dyon
 [Ketos]: https://github.com/murarth/ketos
 [Rhai]: https://github.com/jonathandturner/rhai

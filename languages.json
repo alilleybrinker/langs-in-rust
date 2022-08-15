@@ -1,5 +1,12 @@
 [
     {
+        "name": "Erg",
+        "description": "A Python-compatible statically typed language.",
+        "url": "https://github.com/erg-lang/erg",
+        "stars": 1276,
+        "active": true
+    },
+    {
         "name": "Dyon",
         "description": "A rusty dynamically typed scripting language.",
         "url": "https://github.com/pistondevelopers/dyon",
