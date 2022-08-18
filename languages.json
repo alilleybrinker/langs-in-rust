@@ -670,5 +670,40 @@
         "url": "https://github.com/YorickPeterse/inko",
         "stars": 178,
         "active": true
+    },
+    {
+        "name": "Erg",
+        "description": "A Python-compatible statically typed language.",
+        "url": "https://github.com/erg-lang/erg",
+        "stars": 1739,
+        "active": true
+    },
+    {
+        "name": "KCLVM",
+        "description": "A constraint-based record & functional language mainly used in configuration and policy scenarios.",
+        "url": "https://github.com/KusionStack/KCLVM",
+        "stars": 74,
+        "active": true
+    },
+    {
+        "name": "Tokay",
+        "description": "Tokay is a programming language designed for ad-hoc parsing, inspired by awk.",
+        "url": "https://github.com/tokay-lang/tokay",
+        "stars": 182,
+        "active": true
+    },
+    {
+        "name": "Deno",
+        "description": "A modern runtime for JavaScript and TypeScript.",
+        "url": "https://github.com/denoland/deno",
+        "stars": 84736,
+        "active": true
+    },
+    {
+        "name": "Lurk",
+        "description": "Statically-scoped dialect of Lisp",
+        "url": "https://github.com/lurk-lang/lurk-rs",
+        "stars": 129,
+        "active": true
     }
 ]

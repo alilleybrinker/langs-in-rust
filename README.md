@@ -15,6 +15,7 @@ Then it can be included in this list!
 
 | Name | ⭐ Stars | ☀️ Status | Description |
 |:-----|:---------|:-----------|:-----------|
+| [Deno] | 84,736 | ☀️ Active | A modern runtime for JavaScript and TypeScript. |
 | [Rust] | 70,786 | ☀️ Active | Empowering everyone to build reliable and efficient software. |
 | [Parcel JavaScript Transformer] | 41,178 | ☀️ Active | Blazing fast, zero configuration web application bundler. |
 | [swc] | 23,512 | ☀️ Active | A JavaScript/TypeScript compiler and bundler written in Rust |
@@ -27,6 +28,7 @@ Then it can be included in this list!
 | [Rhai] | 2,036 | ☀️ Active | An embedded scripting language for Rust. |
 | [Jakt] | 2,015 | ☀️ Active | A memory-safe systems programming language. |
 | [Parcel CSS] | 2,014 | ☀️ Active | A CSS parser, transformer, and minifier written in Rust. |
+| [Erg] | 1,739 | ☀️ Active | A Python-compatible statically typed language. |
 | [Scryer Prolog] | 1,500 | ☀️ Active | A modern Prolog implementation written mostly in Rust. |
 | [Dyon] | 1,474 | ☀️ Active | A rusty dynamically typed scripting language. |
 | [Ante] | 1,460 | ☀️ Active | A safe, easy systems language. |
@@ -57,8 +59,10 @@ Then it can be included in this list!
 | [Orion] | 227 | ☀️ Active | A high level, purely functional programming language with a LISP based syntax. |
 | [EndBASIC] | 218 | ☀️ Active | BASIC environment with a REPL, a web interface, and RPi support written in Rust. |
 | [Eldiro] | 189 | ☀️ Active | A programming language to teach how to implement languages in Rust. |
+| [Tokay] | 182 | ☀️ Active | Tokay is a programming language designed for ad-hoc parsing, inspired by awk. |
 | [Inko] | 178 | ☀️ Active | Inko is a statically-typed, safe, object-oriented programming language for writing concurrent programs. |
 | [atto] | 134 | ☀️ Active | A simple self-hosted functional programming language. |
+| [Lurk] | 129 | ☀️ Active | Statically-scoped dialect of Lisp |
 | [Butter] | 110 | ☀️ Active | A tasty language for building efficient software. |
 | [crafting-interpreters-rs] | 103 | ☀️ Active | Crafting Interpreters in Rust. |
 | [Minitt] | 96 | ☀️ Active | Dependently-typed lambda calculus, Mini-TT, extended and implemented in Rust. |
@@ -67,6 +71,7 @@ Then it can be included in this list!
 | [Antimony] | 84 | ☀️ Active | A bullshit-free programming language that gets out of your way. |
 | [Rust-lisp] | 80 | ☀️ Active | A small Lisp interpreter written in Rust. |
 | [Rust-Prolog] | 77 | ☀️ Active | Rust implementation of prolog based on miniprolog. |
+| [KCLVM] | 74 | ☀️ Active | A constraint-based record & functional language mainly used in configuration and policy scenarios. |
 | [Laythe] | 57 | ☀️ Active | A dynamically typed language originally based on the crafting interpreters series. |
 | [Calypso] | 57 | ☀️ Active | Calypso is a mostly imperative language with some functional influences that is focused on flexibility and simplicity. |
 | [rtforth] | 56 | ☀️ Active | Forth implemented in Rust for realtime applications. |
@@ -212,3 +217,8 @@ broader than a programming language project.
 [Rust]: https://github.com/rust-lang/rust
 [Jakt]: https://github.com/SerenityOS/jakt
 [Inko]: https://github.com/YorickPeterse/inko
+[Erg]: https://github.com/erg-lang/erg
+[KCLVM]: https://github.com/KusionStack/KCLVM
+[Tokay]: https://github.com/tokay-lang/tokay
+[Deno]: https://github.com/denoland/deno
+[Lurk]: https://github.com/lurk-lang/lurk-rs
