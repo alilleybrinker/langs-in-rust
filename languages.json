@@ -705,5 +705,12 @@
         "url": "https://github.com/lurk-lang/lurk-rs",
         "stars": 129,
         "active": true
+    },
+    {
+        "name": "Boson",
+        "description": "A dynamically typed, multithreaded, interpreted programming language written in Rust",
+        "url": "https://github.com/Narasimha1997/boson-lang",
+        "stars": 97,
+        "active": true
     }
 ]
