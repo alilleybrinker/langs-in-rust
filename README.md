@@ -65,6 +65,7 @@ Then it can be included in this list!
 | [Lurk] | 129 | ☀️ Active | Statically-scoped dialect of Lisp |
 | [Butter] | 110 | ☀️ Active | A tasty language for building efficient software. |
 | [crafting-interpreters-rs] | 103 | ☀️ Active | Crafting Interpreters in Rust. |
+| [Boson] | 97 | ☀️ Active | A dynamically typed, multithreaded, interpreted programming language written in Rust |
 | [Minitt] | 96 | ☀️ Active | Dependently-typed lambda calculus, Mini-TT, extended and implemented in Rust. |
 | [Voile] | 86 | ☀️ Active | Dependently-typed row-polymorphic programming language. |
 | [Jazz] | 86 | ☀️ Active | Modern and fast programming language. |
@@ -222,3 +223,4 @@ broader than a programming language project.
 [Tokay]: https://github.com/tokay-lang/tokay
 [Deno]: https://github.com/denoland/deno
 [Lurk]: https://github.com/lurk-lang/lurk-rs
+[Boson]: https://github.com/Narasimha1997/boson-lang
