@@ -747,5 +747,12 @@
         "url": "https://github.com/betaveros/noulith/",
         "stars": 963,
         "active": true
+    },
+    {
+        "name": "Wright",
+        "description": "A language that flies",
+        "url": "https://github.com/Alfriadox/wright-lang",
+        "stars": 18,
+        "active": true
     }
 ]

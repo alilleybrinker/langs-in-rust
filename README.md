@@ -93,6 +93,7 @@ Then it can be included in this list!
 | [ucg] | 29 | ☀️ Active | A configuration compiler with multiple formats as backends written in Rust. |
 | [lox-rs] | 26 | ☀️ Active | A Lox Interpreter in Rust. |
 | [Ellie] | 22 | ☀️ Active | A scripting engine that runs on embedded and sandboxed environments. |
+| [Wright] | 18 | ☀️ Active | A language that flies |
 | [rctcwyvrn/rlox] | 16 | ☀️ Active | Rust implementation of the bytecode VM (clox) from Crafting Interpreters. |
 | [cat-lox] | 15 | ☀️ Active | A tree-walk lox interpreter written in Rust. |
 | [The Force] | 15 | ☀️ Active | A fully armed and operational Star Wars themed programming language |
@@ -234,3 +235,4 @@ broader than a programming language project.
 [Kind]: https://github.com/HigherOrderCO/Kind
 [Whistle]: https://whistle.deno.dev
 [noulith]: https://github.com/betaveros/noulith/
+[Wright]: https://github.com/Alfriadox/wright-lang
