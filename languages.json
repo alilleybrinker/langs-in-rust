@@ -712,5 +712,40 @@
         "url": "https://github.com/Narasimha1997/boson-lang",
         "stars": 103,
         "active": true
+    },
+    {
+        "name": "duckscript",
+        "description": "Simple, extendable and embeddable scripting language.",
+        "url": "https://sagiegurari.github.io/duckscript/",
+        "stars": 374,
+        "active": true
+    },
+    {
+        "name": "Roc",
+        "description": "Roc's goal is to be a fast, friendly, functional language.",
+        "url": "https://www.roc-lang.org",
+        "stars": 1694,
+        "active": true
+    },
+    {
+        "name": "Kind",
+        "description": "A next-gen functional language",
+        "url": "https://github.com/HigherOrderCO/Kind",
+        "stars": 3009,
+        "active": true
+    },
+    {
+        "name": "Whistle",
+        "description": "One hella programming language",
+        "url": "https://whistle.deno.dev",
+        "stars": 38,
+        "active": true
+    },
+    {
+        "name": "noulith",
+        "description": "*slaps roof of [programming language]* this bad boy can fit so much [syntax sugar] into it",
+        "url": "https://github.com/betaveros/noulith/",
+        "stars": 963,
+        "active": true
     }
 ]

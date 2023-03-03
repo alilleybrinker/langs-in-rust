@@ -24,11 +24,13 @@ Then it can be included in this list!
 | [Melody] | 4,065 | ☀️ Active | A language that compiles to regular expressions and aims to be more easily readable and maintainable. |
 | [Boa] | 3,798 | ☀️ Active | An embeddable and experimental Javascript engine written in Rust. |
 | [Parcel CSS] | 3,336 | ☀️ Active | A CSS parser, transformer, and minifier written in Rust. |
+| [Kind] | 3,009 | ☀️ Active | A next-gen functional language |
 | [Artichoke] | 2,856 | ☀️ Active | A Ruby made with Rust. |
 | [Gluon] | 2,774 | ☀️ Active | A static, type inferred and embeddable language written in Rust. |
 | [Rhai] | 2,568 | ☀️ Active | An embedded scripting language for Rust. |
 | [Jakt] | 2,471 | ☀️ Active | A memory-safe systems programming language. |
 | [Erg] | 2,121 | ☀️ Active | A Python-compatible statically typed language. |
+| [Roc] | 1,694 | ☀️ Active | Roc's goal is to be a fast, friendly, functional language. |
 | [Scryer Prolog] | 1,651 | ☀️ Active | A modern Prolog implementation written mostly in Rust. |
 | [Ante] | 1,588 | ☀️ Active | A safe, easy systems language. |
 | [Dyon] | 1,552 | ☀️ Active | A rusty dynamically typed scripting language. |
@@ -40,6 +42,7 @@ Then it can be included in this list!
 | [Rune] | 1,134 | ☀️ Active | An embeddable dynamic programming language for Rust. |
 | [frawk] | 1,069 | ☀️ Active | frawk is a small programming language for writing short programs processing textual |
 | [Passerine] | 1,005 | ☀️ Active | A small extensible programming language designed for concise expression with little code. |
+| [noulith] | 963 | ☀️ Active | *slaps roof of [programming language]* this bad boy can fit so much [syntax sugar] into it |
 | [Tao] | 871 | ☀️ Active | A statically-typed functional programming language. |
 | [Ketos] | 722 | ☀️ Active | Lisp dialect scripting and extension language for Rust programs. |
 | [Astro] | 679 | ☀️ Active | A fun safe language for rapid prototyping and high performance applications. |
@@ -53,6 +56,7 @@ Then it can be included in this list!
 | [Sway] | 381 | ☀️ Active | Sway is a language developed for the Fuel blockchain. |
 | [Starlark] | 379 | ☀️ Active | A Rust implementation of the Starlark language. |
 | [CalcuLaTeX] | 379 | ☀️ Active | A pretty printing calculator language with support for units. |
+| [duckscript] | 374 | ☀️ Active | Simple, extendable and embeddable scripting language. |
 | [Wain] | 333 | ☀️ Active | WebAssembly implementation from scratch in Safe Rust with zero dependencies. |
 | [Koto] | 326 | ☀️ Active | A simple, expressive, embeddable programming language, made with Rust. |
 | [Monkey-Rust] | 296 | ☀️ Active | An interpreter for the Monkey programming language written in Rust. |
@@ -82,6 +86,7 @@ Then it can be included in this list!
 | [rulox] | 55 | ☀️ Active | Implementation in Rust of lox, the language described in Crafting Interpreters. |
 | [Blazescript] | 48 | ☀️ Active | A basic scripting language. |
 | [Chili] | 41 | ☀️ Active | General-purpose programming language focused on productivity, expressiveness and joy of programming™. |
+| [Whistle] | 38 | ☀️ Active | One hella programming language |
 | [rodaine/rlox] | 36 | ☀️ Active | Lox Interpreter/REPL written in Rust. |
 | [tox] | 35 | ☀️ Active | Tox is a statically typed version programming language that is written in rust. |
 | [Foolang] | 33 | ☀️ Active | A Smalltalk-inspired toy language. |
@@ -224,3 +229,8 @@ broader than a programming language project.
 [Deno]: https://github.com/denoland/deno
 [Lurk]: https://github.com/lurk-lang/lurk-rs
 [Boson]: https://github.com/Narasimha1997/boson-lang
+[duckscript]: https://sagiegurari.github.io/duckscript/
+[Roc]: https://www.roc-lang.org
+[Kind]: https://github.com/HigherOrderCO/Kind
+[Whistle]: https://whistle.deno.dev
+[noulith]: https://github.com/betaveros/noulith/
