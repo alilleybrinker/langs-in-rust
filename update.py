@@ -131,7 +131,7 @@ def api_request(token):
                         "description": lang["description"],
                         "url": lang["url"],
                         "stars": data["stargazers_count"],
-                        "active": is_active(data["updated_at"]),
+                        "active": is_active(data["pushed_at"]),
                     }
                 )
 
