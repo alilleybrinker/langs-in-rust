@@ -747,5 +747,12 @@
         "url": "https://github.com/dalance/veryl",
         "stars": 162,
         "active": true
+    },
+    {
+        "name": "TablaM",
+        "description": "The practical relational programing language for data-oriented applications",
+        "url": "https://github.com/Tablam/TablaM/",
+        "stars": 154,
+        "active": false
     }
 ]

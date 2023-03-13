@@ -86,6 +86,7 @@ Then it can be included in this list!
 | [Monkey-Rust] | 296 | 🌙 Inactive | An interpreter for the Monkey programming language written in Rust. |
 | [Sphinx] | 287 | 🌙 Inactive | An intepreter for a simple dynamic language written in Rust. |
 | [Eldiro] | 212 | 🌙 Inactive | A programming language to teach how to implement languages in Rust. |
+| [TablaM] | 154 | 🌙 Inactive | The practical relational programing language for data-oriented applications |
 | [atto] | 140 | 🌙 Inactive | A simple self-hosted functional programming language. |
 | [Minitt] | 102 | 🌙 Inactive | Dependently-typed lambda calculus, Mini-TT, extended and implemented in Rust. |
 | [Voile] | 89 | 🌙 Inactive | Dependently-typed row-polymorphic programming language. |
@@ -234,3 +235,4 @@ broader than a programming language project.
 [ssp16asm]: https://github.com/jdesiloniz/svpdev
 [jsparagus]: https://github.com/mozilla-spidermonkey/jsparagus
 [Veryl]: https://github.com/dalance/veryl
+[TablaM]: https://github.com/Tablam/TablaM/
