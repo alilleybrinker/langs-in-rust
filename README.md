@@ -15,20 +15,19 @@ Then it can be included in this list!
 
 | Name | ⭐ Stars | ☀️ Status | Description |
 |:-----|:---------|:-----------|:-----------|
-| [Deno] | 88,395 | ☀️ Active | A modern runtime for JavaScript and TypeScript. |
-| [Rust] | 78,829 | ☀️ Active | Empowering everyone to build reliable and efficient software. |
+| [Deno] | 88,396 | ☀️ Active | A modern runtime for JavaScript and TypeScript. |
+| [Rust] | 78,830 | ☀️ Active | Empowering everyone to build reliable and efficient software. |
 | [Parcel JavaScript Transformer] | 42,109 | ☀️ Active | Blazing fast, zero configuration web application bundler. |
-| [swc] | 26,550 | ☀️ Active | A JavaScript/TypeScript compiler and bundler written in Rust |
-| [Nushell] | 23,642 | ☀️ Active | https://github.com/nushell/nushell |
+| [swc] | 26,551 | ☀️ Active | A JavaScript/TypeScript compiler and bundler written in Rust |
 | [RustPython] | 14,414 | ☀️ Active | A Python Interpreter written in Rust. |
-| [Gleam] | 4,719 | ☀️ Active | A type safe language for the Erlang VM. |
+| [Gleam] | 4,720 | ☀️ Active | A type safe language for the Erlang VM. |
 | [Melody] | 4,072 | ☀️ Active | A language that compiles to regular expressions and aims to be more easily readable and maintainable. |
 | [Boa] | 3,813 | ☀️ Active | An embeddable and experimental Javascript engine written in Rust. |
 | [Parcel CSS] | 3,351 | ☀️ Active | A CSS parser, transformer, and minifier written in Rust. |
 | [Kind] | 3,025 | ☀️ Active | A next-gen functional language |
 | [Artichoke] | 2,863 | ☀️ Active | A Ruby made with Rust. |
 | [Gluon] | 2,783 | ☀️ Active | A static, type inferred and embeddable language written in Rust. |
-| [Rhai] | 2,586 | ☀️ Active | An embedded scripting language for Rust. |
+| [Rhai] | 2,589 | ☀️ Active | An embedded scripting language for Rust. |
 | [Jakt] | 2,484 | ☀️ Active | A memory-safe systems programming language. |
 | [Erg] | 2,130 | ☀️ Active | A Python-compatible statically typed language. |
 | [Scryer Prolog] | 1,655 | ☀️ Active | A modern Prolog implementation written mostly in Rust. |
@@ -49,6 +48,7 @@ Then it can be included in this list!
 | [Leo] | 401 | ☀️ Active | A Functional, Statically-Typed Language for Zero-Knowledge Applications. |
 | [Sway] | 389 | ☀️ Active | Sway is a language developed for the Fuel blockchain. |
 | [Starlark] | 388 | ☀️ Active | A Rust implementation of the Starlark language. |
+| [jsparagus] | 372 | ☀️ Active | Experimental JS parser-generator project. |
 | [Koto] | 326 | ☀️ Active | A simple, expressive, embeddable programming language, made with Rust. |
 | [EndBASIC] | 232 | ☀️ Active | BASIC environment with a REPL, a web interface, and RPi support written in Rust. |
 | [Orion] | 229 | ☀️ Active | A high level, purely functional programming language with a LISP based syntax. |
@@ -74,7 +74,6 @@ Then it can be included in this list!
 | [Wright] | 18 | ☀️ Active | A language that flies |
 | [The Force] | 15 | ☀️ Active | A fully armed and operational Star Wars themed programming language |
 | [Sligh] | 9 | ☀️ Active | A certifying compiler from infrastructure-agnostic specification to web application code (experimental) |
-| [Ryan] | 7 | ☀️ Active | https://github.com/tokahuke/ryan/ |
 | [Tethys] | 6 | ☀️ Active | A toy functional programming language with a System F-based core calculus. |
 | [loxidation] | 4 | ☀️ Active | Lox bytecode compiler and VM in Rust. |
 | [Passerine] | 1,013 | 🌙 Inactive | A small extensible programming language designed for concise expression with little code. |
@@ -83,7 +82,6 @@ Then it can be included in this list!
 | [Pikelet] | 590 | 🌙 Inactive | A friendly little systems language with first-class types. |
 | [Starlight] | 461 | 🌙 Inactive | JS engine in Rust. |
 | [CalcuLaTeX] | 379 | 🌙 Inactive | A pretty printing calculator language with support for units. |
-| [jsparagus] | 372 | 🌙 Inactive | Experimental JS parser-generator project. |
 | [Wain] | 333 | 🌙 Inactive | WebAssembly implementation from scratch in Safe Rust with zero dependencies. |
 | [Monkey-Rust] | 296 | 🌙 Inactive | An interpreter for the Monkey programming language written in Rust. |
 | [Sphinx] | 287 | 🌙 Inactive | An intepreter for a simple dynamic language written in Rust. |
@@ -233,8 +231,6 @@ broader than a programming language project.
 [Boson]: https://github.com/Narasimha1997/boson-lang
 [Kind]: https://github.com/HigherOrderCO/Kind
 [Wright]: https://github.com/Alfriadox/wright-lang
-[Nushell]: A new type of shell
-[Ryan]: A configuration language for the practical programmer
 [ssp16asm]: https://github.com/jdesiloniz/svpdev
 [jsparagus]: https://github.com/mozilla-spidermonkey/jsparagus
 [Veryl]: https://github.com/dalance/veryl

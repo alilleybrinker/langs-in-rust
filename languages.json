@@ -17,7 +17,7 @@
         "name": "Rhai",
         "description": "An embedded scripting language for Rust.",
         "url": "https://github.com/jonathandturner/rhai",
-        "stars": 2586,
+        "stars": 2589,
         "active": true
     },
     {
@@ -115,7 +115,7 @@
         "name": "Gleam",
         "description": "A type safe language for the Erlang VM.",
         "url": "https://github.com/gleam-lang/gleam",
-        "stars": 4719,
+        "stars": 4720,
         "active": true
     },
     {
@@ -493,7 +493,7 @@
         "name": "swc",
         "description": "A JavaScript/TypeScript compiler and bundler written in Rust",
         "url": "https://github.com/swc-project/swc",
-        "stars": 26550,
+        "stars": 26551,
         "active": true
     },
     {
@@ -654,7 +654,7 @@
         "name": "Rust",
         "description": "Empowering everyone to build reliable and efficient software.",
         "url": "https://github.com/rust-lang/rust",
-        "stars": 78829,
+        "stars": 78830,
         "active": true
     },
     {
@@ -696,7 +696,7 @@
         "name": "Deno",
         "description": "A modern runtime for JavaScript and TypeScript.",
         "url": "https://github.com/denoland/deno",
-        "stars": 88395,
+        "stars": 88396,
         "active": true
     },
     {
@@ -728,20 +728,6 @@
         "active": true
     },
     {
-        "name": "Nushell",
-        "description": "https://github.com/nushell/nushell",
-        "url": "A new type of shell",
-        "stars": 23642,
-        "active": true
-    },
-    {
-        "name": "Ryan",
-        "description": "https://github.com/tokahuke/ryan/",
-        "url": "A configuration language for the practical programmer",
-        "stars": 7,
-        "active": true
-    },
-    {
         "name": "ssp16asm",
         "description": "Repository contains an implementation of an SSP16 assembler at svpdev/tools/ssp16asm",
         "url": "https://github.com/jdesiloniz/svpdev",
@@ -753,7 +739,7 @@
         "description": "Experimental JS parser-generator project.",
         "url": "https://github.com/mozilla-spidermonkey/jsparagus",
         "stars": 372,
-        "active": false
+        "active": true
     },
     {
         "name": "Veryl",
