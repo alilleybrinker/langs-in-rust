@@ -109,8 +109,12 @@ def api_request(token):
         new_data = []
 
         for lang in languages:
+            name = lang["name"]
+
             # TODO: Also support requests to other APIs like GitLab to get this info.
             if "github.com" in lang["url"]:
+                print(f"Updating...\t{name:<30}\r", end="")
+
                 # Get the URL for the proper API request.
                 url = lang["url"].replace("github.com", "api.github.com/repos")
 
@@ -128,17 +132,23 @@ def api_request(token):
                 new_data.append(
                     {
                         "name": lang["name"],
-                        "description": lang["description"],
                         "url": lang["url"],
+                        "description": data["description"],
                         "stars": data["stargazers_count"],
                         "active": is_active(data["pushed_at"]),
                     }
                 )
+            else:
+                print(f"Skipping... {name:<30}\r", end="")
 
         # Update the file.
         file.seek(0)
         json.dump(new_data, file, indent=4)
         file.truncate()
+
+        # Print a newline at the end.
+        nothing = ""
+        print(f"Done! {nothing:>30}")
 
 
 def is_active(raw_updated_at):
