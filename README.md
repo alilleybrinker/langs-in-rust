@@ -19,6 +19,7 @@ Then it can be included in this list!
 | [Rust] | 78,829 | ☀️ Active | Empowering everyone to build reliable and efficient software. |
 | [Parcel JavaScript Transformer] | 42,109 | ☀️ Active | Blazing fast, zero configuration web application bundler. |
 | [swc] | 26,550 | ☀️ Active | A JavaScript/TypeScript compiler and bundler written in Rust |
+| [Nushell] | 23,642 | ☀️ Active | https://github.com/nushell/nushell |
 | [RustPython] | 14,414 | ☀️ Active | A Python Interpreter written in Rust. |
 | [Gleam] | 4,719 | ☀️ Active | A type safe language for the Erlang VM. |
 | [Melody] | 4,072 | ☀️ Active | A language that compiles to regular expressions and aims to be more easily readable and maintainable. |
@@ -54,6 +55,7 @@ Then it can be included in this list!
 | [Inko] | 217 | ☀️ Active | Inko is a statically-typed, safe, object-oriented programming language for writing concurrent programs. |
 | [Tokay] | 197 | ☀️ Active | Tokay is a programming language designed for ad-hoc parsing, inspired by awk. |
 | [Lurk] | 192 | ☀️ Active | Statically-scoped dialect of Lisp |
+| [Veryl] | 162 | ☀️ Active | A modern hardware description language. |
 | [crafting-interpreters-rs] | 160 | ☀️ Active | Crafting Interpreters in Rust. |
 | [Steel] | 121 | ☀️ Active | An embedded scheme interpreter written in Rust. |
 | [Butter] | 114 | ☀️ Active | A tasty language for building efficient software. |
@@ -72,6 +74,7 @@ Then it can be included in this list!
 | [Wright] | 18 | ☀️ Active | A language that flies |
 | [The Force] | 15 | ☀️ Active | A fully armed and operational Star Wars themed programming language |
 | [Sligh] | 9 | ☀️ Active | A certifying compiler from infrastructure-agnostic specification to web application code (experimental) |
+| [Ryan] | 7 | ☀️ Active | https://github.com/tokahuke/ryan/ |
 | [Tethys] | 6 | ☀️ Active | A toy functional programming language with a System F-based core calculus. |
 | [loxidation] | 4 | ☀️ Active | Lox bytecode compiler and VM in Rust. |
 | [Passerine] | 1,013 | 🌙 Inactive | A small extensible programming language designed for concise expression with little code. |
@@ -80,6 +83,7 @@ Then it can be included in this list!
 | [Pikelet] | 590 | 🌙 Inactive | A friendly little systems language with first-class types. |
 | [Starlight] | 461 | 🌙 Inactive | JS engine in Rust. |
 | [CalcuLaTeX] | 379 | 🌙 Inactive | A pretty printing calculator language with support for units. |
+| [jsparagus] | 372 | 🌙 Inactive | Experimental JS parser-generator project. |
 | [Wain] | 333 | 🌙 Inactive | WebAssembly implementation from scratch in Safe Rust with zero dependencies. |
 | [Monkey-Rust] | 296 | 🌙 Inactive | An interpreter for the Monkey programming language written in Rust. |
 | [Sphinx] | 287 | 🌙 Inactive | An intepreter for a simple dynamic language written in Rust. |
@@ -90,6 +94,7 @@ Then it can be included in this list!
 | [Jazz] | 86 | 🌙 Inactive | Modern and fast programming language. |
 | [Rust-lisp] | 83 | 🌙 Inactive | A small Lisp interpreter written in Rust. |
 | [Rust-Prolog] | 78 | 🌙 Inactive | Rust implementation of prolog based on miniprolog. |
+| [ssp16asm] | 63 | 🌙 Inactive | Repository contains an implementation of an SSP16 assembler at svpdev/tools/ssp16asm |
 | [Darksecond/lox] | 59 | 🌙 Inactive | A rust implementation of the lox language. |
 | [rulox] | 55 | 🌙 Inactive | Implementation in Rust of lox, the language described in Crafting Interpreters. |
 | [Crunch] | 51 | 🌙 Inactive | A strongly & statically typed systems level language focused on ease of use, portability and speed, built for the modern age. |
@@ -228,3 +233,8 @@ broader than a programming language project.
 [Boson]: https://github.com/Narasimha1997/boson-lang
 [Kind]: https://github.com/HigherOrderCO/Kind
 [Wright]: https://github.com/Alfriadox/wright-lang
+[Nushell]: A new type of shell
+[Ryan]: A configuration language for the practical programmer
+[ssp16asm]: https://github.com/jdesiloniz/svpdev
+[jsparagus]: https://github.com/mozilla-spidermonkey/jsparagus
+[Veryl]: https://github.com/dalance/veryl

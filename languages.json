@@ -726,5 +726,40 @@
         "url": "https://github.com/Alfriadox/wright-lang",
         "stars": 18,
         "active": true
+    },
+    {
+        "name": "Nushell",
+        "description": "https://github.com/nushell/nushell",
+        "url": "A new type of shell",
+        "stars": 23642,
+        "active": true
+    },
+    {
+        "name": "Ryan",
+        "description": "https://github.com/tokahuke/ryan/",
+        "url": "A configuration language for the practical programmer",
+        "stars": 7,
+        "active": true
+    },
+    {
+        "name": "ssp16asm",
+        "description": "Repository contains an implementation of an SSP16 assembler at svpdev/tools/ssp16asm",
+        "url": "https://github.com/jdesiloniz/svpdev",
+        "stars": 63,
+        "active": false
+    },
+    {
+        "name": "jsparagus",
+        "description": "Experimental JS parser-generator project.",
+        "url": "https://github.com/mozilla-spidermonkey/jsparagus",
+        "stars": 372,
+        "active": false
+    },
+    {
+        "name": "Veryl",
+        "description": "A modern hardware description language.",
+        "url": "https://github.com/dalance/veryl",
+        "stars": 162,
+        "active": true
     }
 ]
