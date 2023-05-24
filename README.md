@@ -77,6 +77,7 @@ Then it can be included in this list!
 | [Sligh] | 9 | ☀️ Active | A language for model transformation |
 | [Tethys] | 6 | ☀️ Active | A toy functional programming language with a System F-based core calculus |
 | [loxidation] | 4 | ☀️ Active | Lox bytecode compiler and VM in Rust |
+| [PopperLang] | 0 | ☀️ Active | Popper is an functional programming language designed to simplify the development process by providing a clear and concise syntax written in Rust |
 | [Passerine] | 1,013 | 🌙 Inactive | A small extensible programming language designed for concise expression with little code. |
 | [Ketos] | 723 | 🌙 Inactive | Lisp dialect scripting and extension language for Rust programs |
 | [Astro] | 680 | 🌙 Inactive | A fun safe language for rapid prototyping and high performance applications |
@@ -236,3 +237,4 @@ broader than a programming language project.
 [jsparagus]: https://github.com/mozilla-spidermonkey/jsparagus
 [Veryl]: https://github.com/dalance/veryl
 [TablaM]: https://github.com/Tablam/TablaM
+[PopperLang]: https://github.com/popper-lang/popper-lang

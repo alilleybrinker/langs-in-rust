@@ -754,5 +754,12 @@
         "description": "The practical relational programing language for data-oriented applications",
         "stars": 154,
         "active": true
+    },
+    {
+        "name": "PopperLang",
+        "url": "https://github.com/popper-lang/popper-lang",
+        "description":"Popper is an functional programming language designed to simplify the development process by providing a clear and concise syntax written in Rust",
+        "stars": 0,
+        "active": true
     }
 ]
