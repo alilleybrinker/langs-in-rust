@@ -19,6 +19,7 @@ Then it can be included in this list!
 | [Rust] | 78,830 | ☀️ Active | Empowering everyone to build reliable and efficient software. |
 | [Parcel JavaScript Transformer] | 42,109 | ☀️ Active | The zero configuration build tool for the web. 📦🚀 |
 | [swc] | 26,551 | ☀️ Active | Rust-based platform for the Web |
+| [nu] | 25,568 | ☀️ Active | Scripting language of [nushell](https://github.com/nushell/nushell). The goal of this project is to take the Unix philosophy of shells, where pipes connect simple commands together, and bring it to the modern style of development. Thus, rather than being either a shell, or a programming language, Nushell connects both by bringing a rich programming language and a full-featured shell together into one package. |
 | [RustPython] | 14,414 | ☀️ Active | A Python Interpreter written in Rust |
 | [Gleam] | 4,720 | ☀️ Active | ⭐️ A friendly language for building type-safe, scalable systems! |
 | [Melody] | 4,072 | ☀️ Active | Melody is a language that compiles to regular expressions and aims to be more easily readable and maintainable |
@@ -238,3 +239,4 @@ broader than a programming language project.
 [Veryl]: https://github.com/dalance/veryl
 [TablaM]: https://github.com/Tablam/TablaM
 [PopperLang]: https://github.com/popper-lang/popper-lang
+[nu]: https://www.nushell.sh/book/nu_fundamentals.html
