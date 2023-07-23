@@ -184,7 +184,7 @@
     {
         "name": "Ellie",
         "url": "https://github.com/behemehal/Ellie-Language",
-        "description": "Ellie is a type-safe programing language that runs on embedded and sandboxed environments.",
+        "description": "Ellie is a type-safe programming language that runs on embedded and sandboxed environments.",
         "stars": 21,
         "active": true
     },
@@ -611,7 +611,7 @@
     {
         "name": "Sphinx",
         "url": "https://github.com/mwerezak/sphinx-lang",
-        "description": "An intepreter for a simple dynamic language written in Rust",
+        "description": "An interpreter for a simple dynamic language written in Rust",
         "stars": 287,
         "active": false
     },
@@ -751,14 +751,14 @@
     {
         "name": "TablaM",
         "url": "https://github.com/Tablam/TablaM",
-        "description": "The practical relational programing language for data-oriented applications",
+        "description": "The practical relational programming language for data-oriented applications",
         "stars": 154,
         "active": true
     },
     {
         "name": "PopperLang",
         "url": "https://github.com/popper-lang/popper-lang",
-        "description":"Popper is an functional programming language designed to simplify the development process by providing a clear and concise syntax written in Rust",
+        "description": "Popper is an functional programming language designed to simplify the development process by providing a clear and concise syntax written in Rust",
         "stars": 0,
         "active": true
     },
@@ -767,6 +767,13 @@
         "url": "https://www.nushell.sh/book/nu_fundamentals.html",
         "description": "Scripting language of [nushell](https://github.com/nushell/nushell). The goal of this project is to take the Unix philosophy of shells, where pipes connect simple commands together, and bring it to the modern style of development. Thus, rather than being either a shell, or a programming language, Nushell connects both by bringing a rich programming language and a full-featured shell together into one package.",
         "stars": 25568,
+        "active": true
+    },
+    {
+        "name": "Roc",
+        "url": "https://github.com/roc-lang/roc",
+        "description": "A fast, friendly, functional language. Work in progress!",
+        "stars": 2263,
         "active": true
     }
 ]
