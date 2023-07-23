@@ -30,6 +30,7 @@ Then it can be included in this list!
 | [Gluon] | 2,783 | ☀️ Active | A static, type inferred and embeddable language written in Rust. |
 | [Rhai] | 2,589 | ☀️ Active | Rhai - An embedded scripting language for Rust. |
 | [Jakt] | 2,484 | ☀️ Active | The Jakt Programming Language |
+| [Roc] | 2,263 | ☀️ Active | A fast, friendly, functional language. Work in progress! |
 | [Erg] | 2,130 | ☀️ Active | A statically typed language that can deeply improve the Python ecosystem |
 | [Scryer Prolog] | 1,655 | ☀️ Active | A modern Prolog implementation written mostly in Rust. |
 | [Ante] | 1,592 | ☀️ Active | A safe, easy systems language |
@@ -58,7 +59,7 @@ Then it can be included in this list!
 | [Lurk] | 192 | ☀️ Active | None |
 | [Veryl] | 162 | ☀️ Active | Veryl: A Modern Hardware Description Language |
 | [crafting-interpreters-rs] | 160 | ☀️ Active | Crafting Interpreters in Rust |
-| [TablaM] | 154 | ☀️ Active | The practical relational programing language for data-oriented applications |
+| [TablaM] | 154 | ☀️ Active | The practical relational programming language for data-oriented applications |
 | [Steel] | 121 | ☀️ Active | An embedded scheme interpreter in Rust |
 | [Butter] | 114 | ☀️ Active | A tasty language for building efficient software. Currently work in progress! |
 | [Antimony] | 103 | ☀️ Active | The Antimony programming language |
@@ -71,7 +72,7 @@ Then it can be included in this list!
 | [tox] | 35 | ☀️ Active | Tox is a statically typed version programming language that is written in rust. |
 | [Foolang] | 33 | ☀️ Active | A toy programming language. |
 | [ucg] | 31 | ☀️ Active | A Universal Configuration Grammar |
-| [Ellie] | 21 | ☀️ Active | Ellie is a type-safe programing language that runs on embedded and sandboxed environments. |
+| [Ellie] | 21 | ☀️ Active | Ellie is a type-safe programming language that runs on embedded and sandboxed environments. |
 | [Pr47] | 21 | ☀️ Active | The formal development repository for Pr47 |
 | [Wright] | 18 | ☀️ Active | The wright programming language (WIP) |
 | [The Force] | 15 | ☀️ Active | A Star Wars themed programming language |
@@ -87,7 +88,7 @@ Then it can be included in this list!
 | [CalcuLaTeX] | 379 | 🌙 Inactive | A pretty printing calculator language with support for units. Makes calculations easier and more presentable with real time LaTeX output, along with support for units, variables, and mathematical functions. |
 | [Wain] | 333 | 🌙 Inactive | WebAssembly implementation from scratch in Safe Rust with zero dependencies |
 | [Monkey-Rust] | 296 | 🌙 Inactive | An interpreter for the Monkey programming language written in Rust |
-| [Sphinx] | 287 | 🌙 Inactive | An intepreter for a simple dynamic language written in Rust |
+| [Sphinx] | 287 | 🌙 Inactive | An interpreter for a simple dynamic language written in Rust |
 | [Eldiro] | 212 | 🌙 Inactive | Learn to make your own programming language with Rust |
 | [atto] | 140 | 🌙 Inactive | An insanely simple self-hosted functional programming language |
 | [Minitt] | 102 | 🌙 Inactive | Dependently-typed lambda calculus, Mini-TT, extended and implemented in Rust |
@@ -240,3 +241,4 @@ broader than a programming language project.
 [TablaM]: https://github.com/Tablam/TablaM
 [PopperLang]: https://github.com/popper-lang/popper-lang
 [nu]: https://www.nushell.sh/book/nu_fundamentals.html
+[Roc]: https://github.com/roc-lang/roc
