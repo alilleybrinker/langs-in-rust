@@ -69,6 +69,7 @@ Then it can be included in this list!
 | [rtforth] | 65 | ☀️ Active | Forth implemented in Rust for realtime application |
 | [Laythe] | 59 | ☀️ Active | A gradually typed language originally based on the crafting interpreters series  |
 | [Calypso] | 57 | ☀️ Active | Calypso is a mostly imperative language with some functional influences that is focused on flexibility and simplicity. |
+| [Oriel] | 45 | ☀️ Active | An interpreter for the 1991 Oriel scripting language. |
 | [Chili] | 41 | ☀️ Active | General-purpose, compiled programming language, focused on productivity, expressiveness and joy of programming™ |
 | [tox] | 35 | ☀️ Active | Tox is a statically typed version programming language that is written in rust. |
 | [Foolang] | 33 | ☀️ Active | A toy programming language. |
@@ -92,6 +93,7 @@ Then it can be included in this list!
 | [Monkey-Rust] | 296 | 🌙 Inactive | An interpreter for the Monkey programming language written in Rust |
 | [Sphinx] | 287 | 🌙 Inactive | An interpreter for a simple dynamic language written in Rust |
 | [Eldiro] | 212 | 🌙 Inactive | Learn to make your own programming language with Rust |
+| [Loxcraft] | 193 | 🌙 Inactive | Language tooling for the Lox programming language. |
 | [atto] | 140 | 🌙 Inactive | An insanely simple self-hosted functional programming language |
 | [Minitt] | 102 | 🌙 Inactive | Dependently-typed lambda calculus, Mini-TT, extended and implemented in Rust |
 | [Voile] | 89 | 🌙 Inactive | Dependently-typed row-polymorphic programming language, evolved from minitt-rs |
@@ -244,5 +246,7 @@ broader than a programming language project.
 [PopperLang]: https://github.com/popper-lang/popper-lang
 [nu]: https://www.nushell.sh/book/nu_fundamentals.html
 [Roc]: https://github.com/roc-lang/roc
+[Oriel]: https://github.com/wojciech-graj/oriel
 [Duckscript]: https://github.com/sagiegurari/duckscript
 [Terbium]: https://github.com/terbium-lang/terbium
+[Loxcraft]: https://github.com/ajeetdsouza/loxcraft
