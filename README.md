@@ -72,6 +72,7 @@ Then it can be included in this list!
 | [tox] | 35 | ☀️ Active | Tox is a statically typed version programming language that is written in rust. |
 | [Foolang] | 33 | ☀️ Active | A toy programming language. |
 | [ucg] | 31 | ☀️ Active | A Universal Configuration Grammar |
+| [Ry] | 22 | ☀️ Active | 👁‍🗨 An open source WIP programming language for web development with expressive type system that makes it easy to build reliable and efficient software. |
 | [Ellie] | 21 | ☀️ Active | Ellie is a type-safe programming language that runs on embedded and sandboxed environments. |
 | [Pr47] | 21 | ☀️ Active | The formal development repository for Pr47 |
 | [Wright] | 18 | ☀️ Active | The wright programming language (WIP) |
@@ -242,3 +243,4 @@ broader than a programming language project.
 [PopperLang]: https://github.com/popper-lang/popper-lang
 [nu]: https://www.nushell.sh/book/nu_fundamentals.html
 [Roc]: https://github.com/roc-lang/roc
+[Ry]: https://github.com/quantumatic/ry
