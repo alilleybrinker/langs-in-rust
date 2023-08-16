@@ -47,6 +47,7 @@ Then it can be included in this list!
 | [SPWN] | 627 | ☀️ Active | A language for Geometry Dash triggers |
 | [KCLVM] | 474 | ☀️ Active | A constraint-based record & functional language mainly used in configuration and policy scenarios. |
 | [Wu] | 440 | ☀️ Active | 🐉 A practical game and data language |
+| [Duckscript] | 425 | ☀️ Active | Simple, extendable and embeddable scripting language. |
 | [Leo] | 401 | ☀️ Active | 🦁 The Leo Programming Language. A Programming Language for Formally Verified, Zero-Knowledge Applications |
 | [Sway] | 389 | ☀️ Active | 🌴 Empowering everyone to build reliable and efficient smart contracts. |
 | [Starlark] | 388 | ☀️ Active | A Rust implementation of the Starlark language |
@@ -244,3 +245,4 @@ broader than a programming language project.
 [nu]: https://www.nushell.sh/book/nu_fundamentals.html
 [Roc]: https://github.com/roc-lang/roc
 [Oriel]: https://github.com/wojciech-graj/oriel
+[Duckscript]: https://github.com/sagiegurari/duckscript
