@@ -91,6 +91,7 @@ Then it can be included in this list!
 | [Monkey-Rust] | 296 | 🌙 Inactive | An interpreter for the Monkey programming language written in Rust |
 | [Sphinx] | 287 | 🌙 Inactive | An interpreter for a simple dynamic language written in Rust |
 | [Eldiro] | 212 | 🌙 Inactive | Learn to make your own programming language with Rust |
+| [Loxcraft] | 193 | 🌙 Inactive | Language tooling for the Lox programming language. |
 | [atto] | 140 | 🌙 Inactive | An insanely simple self-hosted functional programming language |
 | [Minitt] | 102 | 🌙 Inactive | Dependently-typed lambda calculus, Mini-TT, extended and implemented in Rust |
 | [Voile] | 89 | 🌙 Inactive | Dependently-typed row-polymorphic programming language, evolved from minitt-rs |
@@ -244,3 +245,4 @@ broader than a programming language project.
 [nu]: https://www.nushell.sh/book/nu_fundamentals.html
 [Roc]: https://github.com/roc-lang/roc
 [Duckscript]: https://github.com/sagiegurari/duckscript
+[Loxcraft]: https://github.com/ajeetdsouza/loxcraft
