@@ -75,6 +75,7 @@ Then it can be included in this list!
 | [ucg] | 31 | ☀️ Active | A Universal Configuration Grammar |
 | [Ellie] | 21 | ☀️ Active | Ellie is a type-safe programming language that runs on embedded and sandboxed environments. |
 | [Pr47] | 21 | ☀️ Active | The formal development repository for Pr47 |
+| [Terbium] | 18 | ☀️ Active | A high-level language that doesn't compromise in performance, made with Rust. |
 | [Wright] | 18 | ☀️ Active | The wright programming language (WIP) |
 | [The Force] | 15 | ☀️ Active | A Star Wars themed programming language |
 | [Sligh] | 9 | ☀️ Active | A language for model transformation |
@@ -244,3 +245,4 @@ broader than a programming language project.
 [nu]: https://www.nushell.sh/book/nu_fundamentals.html
 [Roc]: https://github.com/roc-lang/roc
 [Duckscript]: https://github.com/sagiegurari/duckscript
+[Terbium]: https://github.com/terbium-lang/terbium
