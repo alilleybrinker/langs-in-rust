@@ -65,6 +65,7 @@ Then it can be included in this list!
 | [Butter] | 114 | ☀️ Active | A tasty language for building efficient software. Currently work in progress! |
 | [Antimony] | 103 | ☀️ Active | The Antimony programming language |
 | [Boson] | 103 | ☀️ Active | A hybrid programming language written in Rust.  |
+| [Tvix] | 101 | ☀️ Active | An implementation of the Nix language, in Rust. |
 | [Calcit] | 71 | ☀️ Active | Lisp compiling to JavaScript ES Modules |
 | [rtforth] | 65 | ☀️ Active | Forth implemented in Rust for realtime application |
 | [Laythe] | 59 | ☀️ Active | A gradually typed language originally based on the crafting interpreters series  |
@@ -252,3 +253,4 @@ broader than a programming language project.
 [Duckscript]: https://github.com/sagiegurari/duckscript
 [Terbium]: https://github.com/terbium-lang/terbium
 [Loxcraft]: https://github.com/ajeetdsouza/loxcraft
+[Tvix]: https://code.tvl.fyi/tree/tvix/eval
