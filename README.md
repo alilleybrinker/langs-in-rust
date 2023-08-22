@@ -55,7 +55,7 @@ Then it can be included in this list!
 | [Koto] | 326 | ☀️ Active | A simple, expressive, embeddable programming language, made with Rust |
 | [EndBASIC] | 232 | ☀️ Active | BASIC environment with a REPL, a web interface, a graphical console, and RPi support written in Rust |
 | [Orion] | 229 | ☀️ Active | Orion is a high level, purely functional programming language with a LISP based syntax. |
-| [Inko] | 217 | ☀️ Active | A language for building concurrent software with confidence. This is a read-only mirror of <https://gitlab.com/inko-lang/inko> |
+| [Inko] | 217 | ☀️ Active | A language for building concurrent software with confidence. This is a read-only mirror of https://gitlab.com/inko-lang/inko |
 | [Tokay] | 197 | ☀️ Active | Tokay is a programming language designed for ad-hoc parsing, inspired by awk. |
 | [Lurk] | 192 | ☀️ Active | None |
 | [Veryl] | 162 | ☀️ Active | Veryl: A Modern Hardware Description Language |
@@ -101,7 +101,7 @@ Then it can be included in this list!
 | [Voile] | 89 | 🌙 Inactive | Dependently-typed row-polymorphic programming language, evolved from minitt-rs |
 | [Jazz] | 86 | 🌙 Inactive | Jazz - modern and fast programming language. |
 | [Rust-lisp] | 83 | 🌙 Inactive | A small Lisp interpreter written in Rust. Work in progress. |
-| [Rust-Prolog] | 78 | 🌙 Inactive | Rust implementation of prolog based on miniprolog: <http://andrej.com/plzoo/html/miniprolog.html> |
+| [Rust-Prolog] | 78 | 🌙 Inactive | Rust implementation of prolog based on miniprolog: http://andrej.com/plzoo/html/miniprolog.html |
 | [ssp16asm] | 63 | 🌙 Inactive | A collection of development tools targetting SEGA's SVP chip found in the Mega Drive/Genesis version of Virtua Racing. |
 | [Darksecond/lox] | 59 | 🌙 Inactive | A rust implementation of the lox language |
 | [rulox] | 55 | 🌙 Inactive | Implementation in Rust of lox, the language described in Crafting Interpreters |
@@ -112,7 +112,7 @@ Then it can be included in this list!
 | [lox-rs] | 27 | 🌙 Inactive | A Lox Interpreter in Rust |
 | [Lisp.rs] | 26 | 🌙 Inactive | Scheme Interpreter in Rust |
 | [Synthizer] | 20 | 🌙 Inactive | A simple, experimental functional language for real time additive audio synthesis. |
-| [rctcwyvrn/rlox] | 16 | 🌙 Inactive | Rust implementation of the bytecode VM (clox) from <https://craftinginterpreters.com/> |
+| [rctcwyvrn/rlox] | 16 | 🌙 Inactive | Rust implementation of the bytecode VM (clox) from https://craftinginterpreters.com/ |
 | [cat-lox] | 15 | 🌙 Inactive | A tree-walk lox interpreter written in Rust. |
 | [Arn] | 13 | 🌙 Inactive | A functional golfing language |
 | [Radicle] | 11 | 🌙 Inactive | an ur-lisp interpreter written in Rust |
@@ -120,7 +120,7 @@ Then it can be included in this list!
 | [loxr] | 7 | 🌙 Inactive | A Rust interpreter for the Lox language |
 | [minipyth] | 7 | 🌙 Inactive | A minimalist programming language |
 | [Iron] | 6 | 🌙 Inactive | A Lisp-based language written in Rust |
-| [radogost/rlox] | 6 | 🌙 Inactive | An implementation of lox from the great book <http://craftinginterpreters.com> implemented in Rust |
+| [radogost/rlox] | 6 | 🌙 Inactive | An implementation of lox from the great book http://craftinginterpreters.com implemented in Rust |
 | [loxrs] | 6 | 🌙 Inactive | [old] Crafting Interpreters in Rust (Part II: A tree-walk interpreter) |
 | [relox] | 6 | 🌙 Inactive | Rust port of the jlox interpreter |
 | [rox] | 5 | 🌙 Inactive | A Rust port of Crafting Interpreters |
