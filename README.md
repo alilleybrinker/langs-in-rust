@@ -132,6 +132,7 @@ Then it can be included in this list!
 | [cloxrs] | 2 | 🌙 Inactive | Lox implementation written in Rust |
 | [nt591/lox-rust] | 2 | 🌙 Inactive | A Rust implementation of the Crafting Interpreters bytecode VM |
 | [roxt] | 2 | 🌙 Inactive | A Lox interpreter written in Rust |
+| [rusch] | 1 | 🌙 Inactive | Minimal Scheme interpreter implemented in Rust |
 
 *: Parcel is a large project of which the JavaScript transformer (written in Rust)
 is a small part. The "stars" number here reflects the whole project, which is
@@ -254,3 +255,4 @@ broader than a programming language project.
 [Terbium]: https://github.com/terbium-lang/terbium
 [Loxcraft]: https://github.com/ajeetdsouza/loxcraft
 [Tvix]: https://code.tvl.fyi/tree/tvix/eval
+[rusch]: https://github.com/twolodzko/rusch
