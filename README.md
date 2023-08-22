@@ -32,6 +32,7 @@ Then it can be included in this list!
 | [Jakt] | 2,484 | ☀️ Active | The Jakt Programming Language |
 | [Roc] | 2,263 | ☀️ Active | A fast, friendly, functional language. Work in progress! |
 | [Erg] | 2,130 | ☀️ Active | A statically typed language that can deeply improve the Python ecosystem |
+| [Move] | 302 | ☀️ Active | A programming language for writing safe and smart contracts in blockchain. |
 | [Scryer Prolog] | 1,655 | ☀️ Active | A modern Prolog implementation written mostly in Rust. |
 | [Ante] | 1,592 | ☀️ Active | A safe, easy systems language |
 | [Dyon] | 1,555 | ☀️ Active | A rusty dynamically typed scripting language |
@@ -254,3 +255,4 @@ broader than a programming language project.
 [Terbium]: https://github.com/terbium-lang/terbium
 [Loxcraft]: https://github.com/ajeetdsouza/loxcraft
 [Tvix]: https://code.tvl.fyi/tree/tvix/eval
+[Move]: https://github.com/move-language/move
