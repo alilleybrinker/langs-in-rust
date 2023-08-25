@@ -87,6 +87,7 @@ Then it can be included in this list!
 | [loxidation] | 4 | ☀️ Active | Lox bytecode compiler and VM in Rust |
 | [PopperLang] | 0 | ☀️ Active | Popper is an functional programming language designed to simplify the development process by providing a clear and concise syntax written in Rust |
 | [Passerine] | 1,013 | 🌙 Inactive | A small extensible programming language designed for concise expression with little code. |
+| [ClojureRS] | 909 | 🌙 Inactive | Clojure, implemented atop Rust (unofficial) |
 | [Ketos] | 723 | 🌙 Inactive | Lisp dialect scripting and extension language for Rust programs |
 | [Astro] | 680 | 🌙 Inactive | A fun safe language for rapid prototyping and high performance applications |
 | [Pikelet] | 590 | 🌙 Inactive | A friendly little systems language with first-class types. Very WIP! 🚧 🚧 🚧 |
@@ -258,3 +259,4 @@ broader than a programming language project.
 [Tvix]: https://code.tvl.fyi/tree/tvix/eval
 [Move]: https://github.com/move-language/move
 [rusch]: https://github.com/twolodzko/rusch
+[ClojureRS]: https://github.com/clojure-rs/ClojureRS
