@@ -76,6 +76,7 @@ Then it can be included in this list!
 | [tox] | 35 | ☀️ Active | Tox is a statically typed version programming language that is written in rust. |
 | [Foolang] | 33 | ☀️ Active | A toy programming language. |
 | [ucg] | 31 | ☀️ Active | A Universal Configuration Grammar |
+| [darklua] | 28 | ☀️ Active | Transform Lua 5.1 and Roblox Lua scripts using rules. |
 | [Ry] | 22 | ☀️ Active | 👁‍🗨 An open source WIP programming language for web development with expressive type system that makes it easy to build reliable and efficient software. |
 | [Ellie] | 21 | ☀️ Active | Ellie is a type-safe programming language that runs on embedded and sandboxed environments. |
 | [Pr47] | 21 | ☀️ Active | The formal development repository for Pr47 |
@@ -104,6 +105,7 @@ Then it can be included in this list!
 | [Jazz] | 86 | 🌙 Inactive | Jazz - modern and fast programming language. |
 | [Rust-lisp] | 83 | 🌙 Inactive | A small Lisp interpreter written in Rust. Work in progress. |
 | [Rust-Prolog] | 78 | 🌙 Inactive | Rust implementation of prolog based on miniprolog: http://andrej.com/plzoo/html/miniprolog.html |
+| [diatom] | 72 | 🌙 Inactive | A dynamic typed scripting language for embedded use in applications. This project is yet another attempt of being a "better" lua. |
 | [ssp16asm] | 63 | 🌙 Inactive | A collection of development tools targetting SEGA's SVP chip found in the Mega Drive/Genesis version of Virtua Racing. |
 | [Darksecond/lox] | 59 | 🌙 Inactive | A rust implementation of the lox language |
 | [rulox] | 55 | 🌙 Inactive | Implementation in Rust of lox, the language described in Crafting Interpreters |
@@ -260,3 +262,5 @@ broader than a programming language project.
 [Move]: https://github.com/move-language/move
 [rusch]: https://github.com/twolodzko/rusch
 [ClojureRS]: https://github.com/clojure-rs/ClojureRS
+[diatom]: https://github.com/diatom-lang/diatom
+[darklua]: https://github.com/seaofvoices/darklua
