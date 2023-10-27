@@ -47,7 +47,6 @@ Then it can be included in this list!
 | [CSML] | 660 | ☀️ Active | CSML is an easy-to-use chatbot programming language and framework. |
 | [SPWN] | 627 | ☀️ Active | A language for Geometry Dash triggers |
 | [KCLVM] | 474 | ☀️ Active | A constraint-based record & functional language mainly used in configuration and policy scenarios. |
-
 | [Duckscript] | 442 | ☀️ Active | Simple, extendable and embeddable scripting language. |
 | [Leo] | 571 | ☀️ Active | 🦁 The Leo Programming Language. A Programming Language for Formally Verified, Zero-Knowledge Applications |
 | [Sway] | 389 | ☀️ Active | 🌴 Empowering everyone to build reliable and efficient smart contracts. |
