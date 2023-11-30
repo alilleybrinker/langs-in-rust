@@ -18,6 +18,7 @@ Then it can be included in this list!
 | [Deno] | 88,397 | ☀️ Active | A modern runtime for JavaScript and TypeScript. |
 | [Rust] | 78,830 | ☀️ Active | Empowering everyone to build reliable and efficient software. |
 | [Parcel JavaScript Transformer] | 42,109 | ☀️ Active | The zero configuration build tool for the web. 📦🚀 |
+| [skylang] | 0 | ☀️ Active | The compiler for AbleOS |
 | [swc] | 26,551 | ☀️ Active | Rust-based platform for the Web |
 | [nu] | 25,568 | ☀️ Active | Scripting language of [nushell](https://github.com/nushell/nushell). The goal of this project is to take the Unix philosophy of shells, where pipes connect simple commands together, and bring it to the modern style of development. Thus, rather than being either a shell, or a programming language, Nushell connects both by bringing a rich programming language and a full-featured shell together into one package. |
 | [RustPython] | 14,414 | ☀️ Active | A Python Interpreter written in Rust |
@@ -137,11 +138,11 @@ Then it can be included in this list!
 | [nt591/lox-rust] | 2 | 🌙 Inactive | A Rust implementation of the Crafting Interpreters bytecode VM |
 | [roxt] | 2 | 🌙 Inactive | A Lox interpreter written in Rust |
 | [rusch] | 1 | 🌙 Inactive | Minimal Scheme interpreter implemented in Rust |
-
 *: Parcel is a large project of which the JavaScript transformer (written in Rust)
 is a small part. The "stars" number here reflects the whole project, which is
 broader than a programming language project.
 
+[skylang]: https://git.ablecorp.us/goren/skylang
 [Dyon]: https://github.com/pistondevelopers/dyon
 [Ketos]: https://github.com/murarth/ketos
 [Rhai]: https://github.com/jonathandturner/rhai
