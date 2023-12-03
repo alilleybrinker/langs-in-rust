@@ -21,6 +21,13 @@
         "active": true
     },
     {
+	"name": "SkyLang",
+	"url": "https://git.ablecorp.us/goren/skylang",
+	"description": "The language for the AbleOS operating system",
+	"stars": 0,
+	"active": true
+    },
+    {
         "name": "Gluon",
         "url": "https://github.com/gluon-lang/gluon",
         "description": "A static, type inferred and embeddable language written in Rust.",
