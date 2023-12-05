@@ -789,5 +789,53 @@
         "description": "A new markup-based typesetting system that is powerful and easy to learn.",
         "stars": 23742,
         "active": true
+    },
+    {
+        "name": "Stellar",
+        "url": "https://github.com/quantumatic/stellar"
+    },
+    {
+        "name": "Oriel",
+        "url": "https://github.com/wojciech-graj/oriel"
+    },
+    {
+        "name": "Duckscript",
+        "url": "https://github.com/sagiegurari/duckscript"
+    },
+    {
+        "name": "Terbium",
+        "url": "https://github.com/terbium-lang/terbium"
+    },
+    {
+        "name": "Loxcraft",
+        "url": "https://github.com/ajeetdsouza/loxcraft"
+    },
+    {
+        "name": "Tvix",
+        "url": "https://code.tvl.fyi/tree/tvix/eval"
+    },
+    {
+        "name": "Move",
+        "url": "https://github.com/move-language/move"
+    },
+    {
+        "name": "rusch",
+        "url": "https://github.com/twolodzko/rusch"
+    },
+    {
+        "name": "ClojureRS",
+        "url": "https://github.com/clojure-rs/ClojureRS"
+    },
+    {
+        "name": "diatom",
+        "url": "https://github.com/diatom-lang/diatom"
+    },
+    {
+        "name": "darklua",
+        "url": "https://github.com/seaofvoices/darklua"
+    },
+    {
+        "name": "Tvix",
+        "url": "https://github.com/tvlfyi/tvix"
     }
 ]
