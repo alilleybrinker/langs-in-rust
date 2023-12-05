@@ -782,5 +782,12 @@
         "description": "A programming language for writing safe and smart contracts in blockchain.",
         "stars": 1989,
         "active": true
+    },
+    {
+        "name": "Typst",
+        "url": "https://github.com/typst/typst",
+        "description": "A new markup-based typesetting system that is powerful and easy to learn.",
+        "stars": 23742,
+        "active": true
     }
 ]
