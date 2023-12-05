@@ -99,8 +99,6 @@ def extract_languages():
 def api_request(token):
     """
     Update `languages.json` based on the latest API data for each language.
-
-    Note that this only updates the 'activity' and 'stars' values.
     """
 
     with open("languages.json", "r+", encoding="utf-8") as file:
