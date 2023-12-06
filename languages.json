@@ -763,6 +763,13 @@
         "active": true
     },
     {
+        "name": "nu",
+        "url": "https://github.com/nushell/nushell",
+        "description": "A new type of shell",
+        "stars": 27446,
+        "active": true
+    },
+    {
         "name": "Roc",
         "url": "https://github.com/roc-lang/roc",
         "description": "A fast, friendly, functional language. Work in progress!",
