@@ -859,5 +859,12 @@
         "description": "Tvix - A Rust implementation of Nix. Read-only mirror of https://cs.tvl.fyi/depot/-/tree/tvix",
         "stars": 186,
         "active": true
+    },
+    {
+        "name": "Tron",
+        "url": "https://github.com/418e/Tron",
+        "description": "Open source programming language written in Rust.",
+        "stars": 5,
+        "active": true
     }
 ]
