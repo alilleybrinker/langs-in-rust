@@ -20,6 +20,7 @@ Then it can be included in this list!
 | [Parcel JavaScript Transformer] | 42,819 | ☀️ Active | The zero configuration build tool for the web. 📦🚀 |
 | [Sway] | 37,683 | ☀️ Active | 🌴 Empowering everyone to build reliable and efficient smart contracts. |
 | [swc] | 29,050 | ☀️ Active | Rust-based platform for the Web |
+| [nu] | 27,446 | ☀️ Active | A new type of shell |
 | [Typst] | 23,742 | ☀️ Active | A new markup-based typesetting system that is powerful and easy to learn. |
 | [RustPython] | 15,920 | ☀️ Active | A Python Interpreter written in Rust |
 | [Gleam] | 5,580 | ☀️ Active | ⭐️ A friendly language for building type-safe, scalable systems! |
