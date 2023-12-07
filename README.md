@@ -81,6 +81,7 @@ Then it can be included in this list!
 | [Terbium] | 19 | ☀️ Active | A high-level language that doesn't compromise in performance, made with Rust. |
 | [Tethys] | 11 | ☀️ Active | A toy functional programming language with a System F-based core calculus |
 | [Sligh] | 10 | ☀️ Active | A language for certifying specification |
+| [Tron] | 5 | ☀️ Active | Open source programming language written in Rust. |
 | [loxidation] | 4 | ☀️ Active | Lox bytecode compiler and VM in Rust |
 | [PopperLang] | 1 | ☀️ Active | The CLI that group all project to one to finally make the Popper-lang  |
 | [rusch] | 1 | ☀️ Active | Minimal Scheme implemented in Rust |
