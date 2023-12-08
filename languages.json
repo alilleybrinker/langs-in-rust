@@ -17,14 +17,14 @@
         "name": "Rhai",
         "url": "https://github.com/jonathandturner/rhai",
         "description": "Rhai - An embedded scripting language for Rust.",
-        "stars": 3180,
+        "stars": 3192,
         "active": true
     },
     {
         "name": "Gluon",
         "url": "https://github.com/gluon-lang/gluon",
         "description": "A static, type inferred and embeddable language written in Rust.",
-        "stars": 3019,
+        "stars": 3020,
         "active": true
     },
     {
@@ -115,7 +115,7 @@
         "name": "Gleam",
         "url": "https://github.com/gleam-lang/gleam",
         "description": "\u2b50\ufe0f A friendly language for building type-safe, scalable systems!",
-        "stars": 5580,
+        "stars": 5583,
         "active": true
     },
     {
@@ -129,7 +129,7 @@
         "name": "Starlark",
         "url": "https://github.com/facebookexperimental/starlark-rust",
         "description": "A Rust implementation of the Starlark language",
-        "stars": 537,
+        "stars": 538,
         "active": true
     },
     {
@@ -150,7 +150,7 @@
         "name": "Starlight",
         "url": "https://github.com/Starlight-JS/Starlight",
         "description": "JS engine in Rust",
-        "stars": 480,
+        "stars": 484,
         "active": false
     },
     {
@@ -164,7 +164,7 @@
         "name": "Boa",
         "url": "https://github.com/boa-dev/boa",
         "description": "Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.",
-        "stars": 4345,
+        "stars": 4348,
         "active": true
     },
     {
@@ -178,7 +178,7 @@
         "name": "Artichoke",
         "url": "https://github.com/artichoke/artichoke",
         "description": "\ud83d\udc8e Artichoke is a Ruby made with Rust",
-        "stars": 2955,
+        "stars": 2956,
         "active": true
     },
     {
@@ -192,7 +192,7 @@
         "name": "Mun",
         "url": "https://github.com/mun-lang/mun",
         "description": "Source code for the Mun language and runtime.",
-        "stars": 1644,
+        "stars": 1645,
         "active": true
     },
     {
@@ -206,14 +206,14 @@
         "name": "Ante",
         "url": "https://github.com/jfecher/ante",
         "description": "A safe, easy systems language",
-        "stars": 1693,
+        "stars": 1694,
         "active": true
     },
     {
         "name": "Astro",
         "url": "https://github.com/astrolang/astro",
         "description": "A fun safe language for rapid prototyping and high performance applications",
-        "stars": 712,
+        "stars": 713,
         "active": true
     },
     {
@@ -255,7 +255,7 @@
         "name": "SPWN",
         "url": "https://github.com/Spu7Nix/SPWN-language",
         "description": "A language for Geometry Dash triggers",
-        "stars": 766,
+        "stars": 765,
         "active": true
     },
     {
@@ -283,14 +283,14 @@
         "name": "Leo",
         "url": "https://github.com/AleoHQ/leo",
         "description": "\ud83e\udd81 The Leo Programming Language. A Programming Language for Formally Verified, Zero-Knowledge Applications",
-        "stars": 3222,
+        "stars": 3464,
         "active": true
     },
     {
         "name": "EndBASIC",
         "url": "https://github.com/jmmv/endbasic",
         "description": "BASIC environment with a REPL, a web interface, a graphical console, and RPi support written in Rust",
-        "stars": 288,
+        "stars": 289,
         "active": true
     },
     {
@@ -368,7 +368,7 @@
         "url": "https://github.com/Laythe-lang/Laythe",
         "description": "A gradually typed language originally based on the crafting interpreters series ",
         "stars": 63,
-        "active": true
+        "active": false
     },
     {
         "name": "tox",
@@ -451,7 +451,7 @@
         "name": "crafting-interpreters-rs",
         "url": "https://github.com/tdp2110/crafting-interpreters-rs",
         "description": "Crafting Interpreters in Rust",
-        "stars": 206,
+        "stars": 205,
         "active": false
     },
     {
@@ -485,15 +485,15 @@
     {
         "name": "Lightning CSS",
         "url": "https://github.com/parcel-bundler/lightningcss",
-        "description": "The zero configuration build tool for the web. \ud83d\udce6\ud83d\ude80",
-        "stars": 42819,
+        "description": "An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.",
+        "stars": 5114,
         "active": true
     },
     {
         "name": "swc",
         "url": "https://github.com/swc-project/swc",
         "description": "Rust-based platform for the Web",
-        "stars": 29050,
+        "stars": 29067,
         "active": true
     },
     {
@@ -507,7 +507,7 @@
         "name": "Steel",
         "url": "https://github.com/mattwparas/steel",
         "description": "An embedded scheme interpreter in Rust",
-        "stars": 602,
+        "stars": 641,
         "active": true
     },
     {
@@ -521,7 +521,7 @@
         "name": "goscript",
         "url": "https://github.com/oxfeeefeee/goscript",
         "description": "An alternative implementation of Golang specs, written in Rust for embedding or wrapping.",
-        "stars": 1497,
+        "stars": 1498,
         "active": true
     },
     {
@@ -563,14 +563,14 @@
         "name": "Parcel CSS",
         "url": "https://github.com/parcel-bundler/parcel-css",
         "description": "An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.",
-        "stars": 5109,
+        "stars": 5114,
         "active": true
     },
     {
         "name": "Scryer Prolog",
         "url": "https://github.com/mthom/scryer-prolog",
         "description": "A modern Prolog implementation written mostly in Rust.",
-        "stars": 1799,
+        "stars": 1802,
         "active": true
     },
     {
@@ -584,7 +584,7 @@
         "name": "RustPython",
         "url": "https://github.com/RustPython/RustPython",
         "description": "A Python Interpreter written in Rust",
-        "stars": 15920,
+        "stars": 15929,
         "active": true
     },
     {
@@ -598,14 +598,14 @@
         "name": "Fe",
         "url": "https://github.com/ethereum/fe",
         "description": "Emerging smart contract language for the Ethereum blockchain.",
-        "stars": 1518,
+        "stars": 1520,
         "active": true
     },
     {
         "name": "Sway",
         "url": "https://github.com/FuelLabs/sway",
         "description": "\ud83c\udf34 Empowering everyone to build reliable and efficient smart contracts.",
-        "stars": 37683,
+        "stars": 37838,
         "active": true
     },
     {
@@ -647,49 +647,49 @@
         "name": "Rust",
         "url": "https://github.com/rust-lang/rust",
         "description": "Empowering everyone to build reliable and efficient software.",
-        "stars": 87702,
+        "stars": 87773,
         "active": true
     },
     {
         "name": "Inko",
         "url": "https://github.com/YorickPeterse/inko",
         "description": "A language for building concurrent software with confidence",
-        "stars": 620,
+        "stars": 624,
         "active": true
     },
     {
         "name": "Erg",
         "url": "https://github.com/erg-lang/erg",
         "description": "A statically typed language that can deeply improve the Python ecosystem",
-        "stars": 2369,
+        "stars": 2370,
         "active": true
     },
     {
         "name": "KCL",
         "url": "https://github.com/kcl-lang/kcl",
-        "description": "A constraint-based record & functional language mainly used in configuration and policy scenarios.",
-        "stars": 474,
+        "description": "KCL Language Core. KCL is a constraint-based record & functional language mainly used in configuration and policy scenarios. (CNCF Sandbox Project). https://kcl-lang.io",
+        "stars": 951,
         "active": true
     },
     {
         "name": "Tokay",
         "url": "https://github.com/tokay-lang/tokay",
         "description": "Tokay is a programming language designed for ad-hoc parsing, inspired by awk.",
-        "stars": 220,
+        "stars": 222,
         "active": true
     },
     {
         "name": "Deno",
         "url": "https://github.com/denoland/deno",
         "description": "A modern runtime for JavaScript and TypeScript.",
-        "stars": 91548,
+        "stars": 91583,
         "active": true
     },
     {
         "name": "Lurk",
         "url": "https://github.com/lurk-lang/lurk-rs",
         "description": "Lurk is a Turing-complete programming language for recursive zk-SNARKs.  It is a statically scoped dialect of Lisp, influenced by Scheme and Common Lisp.",
-        "stars": 348,
+        "stars": 349,
         "active": true
     },
     {
@@ -703,7 +703,7 @@
         "name": "Kind",
         "url": "https://github.com/HigherOrderCO/Kind",
         "description": "A next-gen functional language",
-        "stars": 3321,
+        "stars": 3324,
         "active": true
     },
     {
@@ -731,7 +731,7 @@
         "name": "Veryl",
         "url": "https://github.com/dalance/veryl",
         "description": "Veryl: A Modern Hardware Description Language",
-        "stars": 216,
+        "stars": 218,
         "active": true
     },
     {
@@ -752,28 +752,28 @@
         "name": "nu",
         "url": "https://github.com/nushell/nushell",
         "description": "A new type of shell",
-        "stars": 27446,
+        "stars": 27483,
         "active": true
     },
     {
         "name": "Roc",
         "url": "https://github.com/roc-lang/roc",
         "description": "A fast, friendly, functional language. Work in progress!",
-        "stars": 3003,
+        "stars": 3018,
         "active": true
     },
     {
         "name": "Move",
         "url": "https://github.com/move-language/move",
         "description": null,
-        "stars": 2064,
+        "stars": 2065,
         "active": true
     },
     {
         "name": "Typst",
         "url": "https://github.com/typst/typst",
         "description": "A new markup-based typesetting system that is powerful and easy to learn.",
-        "stars": 23742,
+        "stars": 23831,
         "active": true
     },
     {
@@ -794,7 +794,7 @@
         "name": "Duckscript",
         "url": "https://github.com/sagiegurari/duckscript",
         "description": "Simple, extendable and embeddable scripting language.",
-        "stars": 460,
+        "stars": 462,
         "active": true
     },
     {
@@ -822,7 +822,7 @@
         "name": "ClojureRS",
         "url": "https://github.com/clojure-rs/ClojureRS",
         "description": "Clojure, implemented atop Rust (unofficial)",
-        "stars": 922,
+        "stars": 921,
         "active": false
     },
     {
@@ -836,7 +836,7 @@
         "name": "darklua",
         "url": "https://github.com/seaofvoices/darklua",
         "description": "A command line tool that transforms Lua code",
-        "stars": 36,
+        "stars": 37,
         "active": true
     },
     {
@@ -850,19 +850,28 @@
         "name": "Tron",
         "url": "https://github.com/418e/Tron",
         "description": "Open source programming language written in Rust.",
-        "stars": 5,
+        "stars": 4,
         "active": true
     },
     {
         "name": "Nukleus",
-        "url": "https://github.com/Nukleus-Language/nukleus"
+        "url": "https://github.com/Nukleus-Language/nukleus",
+        "description": "Simple and fast Dynamic Modular Structure-based AI, GUI, Cross-Platform  Programming Language ",
+        "stars": 13,
+        "active": true
     },
     {
         "name": "snow-lang",
-        "url": "https://github.com/cowboy8625/snow-lang"
+        "url": "https://github.com/cowboy8625/snow-lang",
+        "description": "A functional programming language",
+        "stars": 7,
+        "active": true
     },
     {
         "name": "candy",
-        "url": "https://github.com/candy-lang/candy"
+        "url": "https://github.com/candy-lang/candy",
+        "description": "\ud83c\udf6d A sweet programming language that is robust, minimalistic, and expressive.",
+        "stars": 105,
+        "active": true
     }
 ]
