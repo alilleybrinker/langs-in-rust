@@ -483,8 +483,8 @@
         "active": false
     },
     {
-        "name": "Parcel JavaScript Transformer",
-        "url": "https://github.com/parcel-bundler/parcel",
+        "name": "Lightning CSS",
+        "url": "https://github.com/parcel-bundler/lightningcss",
         "description": "The zero configuration build tool for the web. \ud83d\udce6\ud83d\ude80",
         "stars": 42819,
         "active": true
@@ -644,24 +644,10 @@
         "active": false
     },
     {
-        "name": "Foolang",
-        "url": "https://github.com/nikodemus/foolang",
-        "description": "A toy programming language.",
-        "stars": 36,
-        "active": false
-    },
-    {
         "name": "Rust",
         "url": "https://github.com/rust-lang/rust",
         "description": "Empowering everyone to build reliable and efficient software.",
         "stars": 87702,
-        "active": true
-    },
-    {
-        "name": "Jakt",
-        "url": "https://github.com/SerenityOS/jakt",
-        "description": "The Jakt Programming Language",
-        "stars": 2693,
         "active": true
     },
     {
@@ -679,10 +665,10 @@
         "active": true
     },
     {
-        "name": "KCLVM",
-        "url": "https://github.com/KusionStack/KCLVM",
-        "description": "KCL Language Core. KCL is a constraint-based record & functional language mainly used in configuration and policy scenarios. (CNCF Sandbox Project). https://kcl-lang.io",
-        "stars": 948,
+        "name": "KCL",
+        "url": "https://github.com/kcl-lang/kcl",
+        "description": "A constraint-based record & functional language mainly used in configuration and policy scenarios.",
+        "stars": 474,
         "active": true
     },
     {
@@ -826,13 +812,6 @@
         "active": false
     },
     {
-        "name": "Move",
-        "url": "https://github.com/move-language/move",
-        "description": null,
-        "stars": 2064,
-        "active": true
-    },
-    {
         "name": "rusch",
         "url": "https://github.com/twolodzko/rusch",
         "description": "Minimal Scheme implemented in Rust",
@@ -873,5 +852,17 @@
         "description": "Open source programming language written in Rust.",
         "stars": 5,
         "active": true
+    },
+    {
+        "name": "Nukleus",
+        "url": "https://github.com/Nukleus-Language/nukleus"
+    },
+    {
+        "name": "snow-lang",
+        "url": "https://github.com/cowboy8625/snow-lang"
+    },
+    {
+        "name": "candy",
+        "url": "https://github.com/candy-lang/candy"
     }
 ]
