@@ -30,6 +30,7 @@ Then it can be included in this list!
 | [Leo] | 3,464 | ☀️ Active | 🦁 The Leo Programming Language. A Programming Language for Formally Verified, Zero-Knowledge Applications |
 | [Kind] | 3,324 | ☀️ Active | A next-gen functional language |
 | [Rhai] | 3,192 | ☀️ Active | Rhai - An embedded scripting language for Rust. |
+| [Winglang] | 3,021 | ☀️ Active | A cloud-oriented programming language that compiles programs into infrastructure and application code. |
 | [Gluon] | 3,020 | ☀️ Active | A static, type inferred and embeddable language written in Rust. |
 | [Roc] | 3,018 | ☀️ Active | A fast, friendly, functional language. Work in progress! |
 | [Artichoke] | 2,956 | ☀️ Active | 💎 Artichoke is a Ruby made with Rust |
@@ -270,3 +271,4 @@ broader than a programming language project.
 [Nukleus]: https://github.com/Nukleus-Language/nukleus
 [snow-lang]: https://github.com/cowboy8625/snow-lang
 [candy]: https://github.com/candy-lang/candy
+[Winglang]: https://github.com/winglang/wing
