@@ -247,7 +247,7 @@ broader than a programming language project.
 [Lurk]: https://github.com/lurk-lang/lurk-rs
 [Boson]: https://github.com/Narasimha1997/boson-lang
 [Kind]: https://github.com/HigherOrderCO/Kind
-[Wright]: https://github.com/Alfriadox/wright-lang
+[Wright]: https://github.com/vcfxb/wright-lang
 [ssp16asm]: https://github.com/jdesiloniz/svpdev
 [jsparagus]: https://github.com/mozilla-spidermonkey/jsparagus
 [Veryl]: https://github.com/dalance/veryl
