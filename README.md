@@ -44,6 +44,7 @@ Then it can be included in this list!
 | [Fe] | 1,520 | ☀️ Active | Emerging smart contract language for the Ethereum blockchain. |
 | [goscript] | 1,498 | ☀️ Active | An alternative implementation of Golang specs, written in Rust for embedding or wrapping. |
 | [Rune] | 1,387 | ☀️ Active | An embeddable dynamic programming language for Rust. |
+| [Uiua] | 1,294 | ☀️ Active | A stack-based array programming language. |
 | [Differential Datalog] | 1,293 | ☀️ Active | DDlog is a programming language for incremental computation. It is well suited for writing programs that continuously update their output in response to input changes. A DDlog programmer does not write incremental algorithms; instead they specify the desired input-output mapping in a declarative manner. |
 | [frawk] | 1,144 | ☀️ Active | an efficient awk-like language |
 | [Tao] | 1,030 | ☀️ Active | A statically-typed functional language with generics, typeclasses, sum types, pattern-matching, first-class functions, currying, algebraic effects, associated types, good diagnostics, etc. |
@@ -272,3 +273,4 @@ broader than a programming language project.
 [snow-lang]: https://github.com/cowboy8625/snow-lang
 [candy]: https://github.com/candy-lang/candy
 [Winglang]: https://github.com/winglang/wing
+[Uiua]: https://github.com/uiua-lang/uiua
