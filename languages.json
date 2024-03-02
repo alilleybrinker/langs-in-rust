@@ -880,5 +880,12 @@
         "description": "A cloud-oriented programming language that compiles programs into infrastructure and application code.",
         "stars": 3021,
         "active": true
+    },
+    {
+        "name": "Uiua",
+        "url": "https://github.com/uiua-lang/uiua",
+        "description": "A stack-based array programming language.",
+        "stars": 1294,
+        "active": true
     }
 ]
