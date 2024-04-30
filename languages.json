@@ -887,5 +887,12 @@
         "description": "A stack-based array programming language.",
         "stars": 1294,
         "active": true
+    },
+    {
+        "name": "RayQL",
+        "url": "https://github.com/harshdoesdev/rayql",
+        "description": "A schema definition and query language for SQLite.",
+        "stars": 8,
+        "active": true
     }
 ]
