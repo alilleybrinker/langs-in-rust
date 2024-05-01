@@ -82,6 +82,7 @@ Then it can be included in this list!
 | [Nukleus] | 13 | ☀️ Active | Simple and fast Dynamic Modular Structure-based AI, GUI, Cross-Platform  Programming Language  |
 | [Tethys] | 11 | ☀️ Active | A toy functional programming language with a System F-based core calculus |
 | [Sligh] | 10 | ☀️ Active | A language for certifying specification |
+| [RayQL] | 8 | ☀️ Active | A schema definition and query language for SQLite. |
 | [snow-lang] | 7 | ☀️ Active | A functional programming language |
 | [loxidation] | 4 | ☀️ Active | Lox bytecode compiler and VM in Rust |
 | [Tron] | 4 | ☀️ Active | Open source programming language written in Rust. |
@@ -274,3 +275,4 @@ broader than a programming language project.
 [candy]: https://github.com/candy-lang/candy
 [Winglang]: https://github.com/winglang/wing
 [Uiua]: https://github.com/uiua-lang/uiua
+[RayQL]: https://github.com/harshdoesdev/rayql
