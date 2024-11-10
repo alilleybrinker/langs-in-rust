@@ -894,5 +894,12 @@
         "description": "A custom programming language which compiles to the well-known esolang \"Brainfuck\".",
         "stars": 5,
         "active": true
+    },
+    {
+        "name": "tpl-lang",
+        "url": "https://github.com/mealet/tpl-lang",
+        "description": "Stupid Programming Language based on LLVM in Rust",
+        "stars": 8,
+        "active": true
     }
 ]
