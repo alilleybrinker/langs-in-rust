@@ -73,6 +73,7 @@ Then it can be included in this list!
 | [Wright] | 19 | ☀️ Active | The wright programming language (WIP) |
 | [Nukleus] | 15 | ☀️ Active | Simple and fast Dynamic Modular Structure-based AI, GUI, Cross-Platform  Programming Language  |
 | [snow-lang] | 11 | ☀️ Active | A functional programming language |
+| [tpl-lang] | 8 | ☀️ Active | Stupid Programming Language based on LLVM in Rust |
 | [Mastermind] | 5 | ☀️ Active | A custom programming language which compiles to the well-known esolang "Brainfuck". |
 | [loxidation] | 4 | ☀️ Active | Lox bytecode compiler and VM in Rust |
 | [Melody] | 4,627 | 🌙 Inactive | Melody is a language that compiles to regular expressions and aims to be more readable and maintainable |
@@ -276,3 +277,4 @@ broader than a programming language project.
 [Uiua]: https://github.com/uiua-lang/uiua
 [RayQL]: https://github.com/harshdoesdev/rayql
 [Mastermind]: https://github.com/Heathcorp/Mastermind
+[tpl-lang]: https://github.com/mealet/tpl-lang
