@@ -901,5 +901,12 @@
         "description": "Stupid Programming Language based on LLVM in Rust",
         "stars": 8,
         "active": true
+    },
+    {
+        "name": "Scrypto",
+        "url": "https://github.com/radixdlt/radixdlt-scrypto",
+        "description": "Scrypto is the asset-oriented smart contract programming language of the Radix network. It allows you to quickly build secure and composable dApps.",
+        "stars": 409,
+        "active": true
     }
 ]
