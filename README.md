@@ -55,6 +55,7 @@ Then it can be included in this list!
 | [jsparagus] | 439 | ☀️ Active | Experimental JS parser-generator project. |
 | [Wain] | 430 | ☀️ Active | WebAssembly implementation from scratch in Safe Rust with zero dependencies |
 | [Lurk] | 427 | ☀️ Active | Lurk is a Turing-complete programming language for recursive zk-SNARKs.  It is a statically scoped dialect of Lisp, influenced by Scheme and Common Lisp. (contact: @porcuquine) |
+| [Scrypto] | 409 | ☀️ Active | Scrypto is the asset-oriented smart contract programming language of the Radix network. It allows you to quickly build secure and composable dApps. |
 | [Monkey-Rust] | 360 | ☀️ Active | An interpreter for the Monkey programming language written in Rust |
 | [candy] | 319 | ☀️ Active | 🍭 A sweet, functional programming language that is robust, minimalistic, and expressive. |
 | [EndBASIC] | 312 | ☀️ Active | BASIC environment with a REPL, a web interface, a graphical console, and RPi support written in Rust |
@@ -278,3 +279,4 @@ broader than a programming language project.
 [RayQL]: https://github.com/harshdoesdev/rayql
 [Mastermind]: https://github.com/Heathcorp/Mastermind
 [tpl-lang]: https://github.com/mealet/tpl-lang
+[Scrypto]: https://github.com/radixdlt/radixdlt-scrypto
