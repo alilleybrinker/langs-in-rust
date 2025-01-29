@@ -76,6 +76,7 @@ Then it can be included in this list!
 | [tpl-lang] | 8 | ☀️ Active | Stupid Programming Language based on LLVM in Rust |
 | [Mastermind] | 5 | ☀️ Active | A custom programming language which compiles to the well-known esolang "Brainfuck". |
 | [loxidation] | 4 | ☀️ Active | Lox bytecode compiler and VM in Rust |
+| [Cyrus Lang] | 19 | ☀️ Active | A high-performance, statically-typed, manually memory-managed and procedural programming language empowered by GCCJIT. |
 | [Melody] | 4,627 | 🌙 Inactive | Melody is a language that compiles to regular expressions and aims to be more readable and maintainable |
 | [Gluon] | 3,201 | 🌙 Inactive | A static, type inferred and embeddable language written in Rust. |
 | [Dyon] | 1,758 | 🌙 Inactive | A rusty dynamically typed scripting language |
@@ -278,3 +279,4 @@ broader than a programming language project.
 [RayQL]: https://github.com/harshdoesdev/rayql
 [Mastermind]: https://github.com/Heathcorp/Mastermind
 [tpl-lang]: https://github.com/mealet/tpl-lang
+[Cyrus Lang]: https://github.com/cyrus-lang/Cyrus-Lang
