@@ -1,905 +1,912 @@
 [
-    {
-        "name": "Dyon",
-        "url": "https://github.com/pistondevelopers/dyon",
-        "description": "A rusty dynamically typed scripting language",
-        "stars": 1758,
-        "active": false
-    },
-    {
-        "name": "Ketos",
-        "url": "https://github.com/murarth/ketos",
-        "description": "Lisp dialect scripting and extension language for Rust programs",
-        "stars": 750,
-        "active": false
-    },
-    {
-        "name": "Rhai",
-        "url": "https://github.com/jonathandturner/rhai",
-        "description": "Rhai - An embedded scripting language for Rust.",
-        "stars": 3744,
-        "active": true
-    },
-    {
-        "name": "Gluon",
-        "url": "https://github.com/gluon-lang/gluon",
-        "description": "A static, type inferred and embeddable language written in Rust.",
-        "stars": 3201,
-        "active": false
-    },
-    {
-        "name": "Antimony",
-        "url": "https://github.com/antimony-lang/antimony",
-        "description": "The Antimony programming language",
-        "stars": 136,
-        "active": true
-    },
-    {
-        "name": "Tao",
-        "url": "https://github.com/zesterer/tao",
-        "description": "A statically-typed functional language with generics, typeclasses, sum types, pattern-matching, first-class functions, currying, algebraic effects, associated types, good diagnostics, etc.",
-        "stars": 1089,
-        "active": false
-    },
-    {
-        "name": "Lang",
-        "url": "https://github.com/gsingh93/lang",
-        "description": "An imperative programming language written in Rust",
-        "stars": 7,
-        "active": false
-    },
-    {
-        "name": "Iron",
-        "url": "https://github.com/Arcterus/iron-lang",
-        "description": "A Lisp-based language written in Rust",
-        "stars": 6,
-        "active": false
-    },
-    {
-        "name": "atto",
-        "url": "https://github.com/zesterer/atto",
-        "description": "An insanely simple self-hosted functional programming language",
-        "stars": 147,
-        "active": false
-    },
-    {
-        "name": "Rust-lisp",
-        "url": "https://github.com/swgillespie/rust-lisp",
-        "description": "A small Lisp interpreter written in Rust. Work in progress.",
-        "stars": 85,
-        "active": false
-    },
-    {
-        "name": "Lisp.rs",
-        "url": "https://github.com/jsdf/lisp.rs",
-        "description": "Scheme Interpreter in Rust",
-        "stars": 25,
-        "active": false
-    },
-    {
-        "name": "Radicle",
-        "url": "https://github.com/nham/radicle",
-        "description": "an ur-lisp interpreter written in Rust",
-        "stars": 11,
-        "active": false
-    },
-    {
-        "name": "Rust-Prolog",
-        "url": "https://github.com/dagit/rust-prolog",
-        "description": "Rust implementation of prolog based on miniprolog: http://andrej.com/plzoo/html/miniprolog.html",
-        "stars": 81,
-        "active": false
-    },
-    {
-        "name": "Synthizer",
-        "url": "https://github.com/nwoeanhinnogaehr/synthizer",
-        "description": "A simple, experimental functional language for real time additive audio synthesis.",
-        "stars": 21,
-        "active": false
-    },
-    {
-        "name": "rtforth",
-        "url": "https://github.com/chengchangwu/rtforth",
-        "description": "Forth implemented in Rust for realtime application",
-        "stars": 1,
-        "active": false
-    },
-    {
-        "name": "Schwift",
-        "url": "https://github.com/natemara/schwift",
-        "description": "An actual programming language for some reason",
-        "stars": 30,
-        "active": false
-    },
-    {
-        "name": "Gleam",
-        "url": "https://github.com/gleam-lang/gleam",
-        "description": "\u2b50\ufe0f A friendly language for building type-safe, scalable systems!",
-        "stars": 17560,
-        "active": true
-    },
-    {
-        "name": "Blazescript",
-        "url": "https://github.com/BlazifyOrg/blazescript",
-        "description": "AOT compiled object oriented programming language",
-        "stars": 48,
-        "active": false
-    },
-    {
-        "name": "Starlark",
-        "url": "https://github.com/facebookexperimental/starlark-rust",
-        "description": "A Rust implementation of the Starlark language",
-        "stars": 696,
-        "active": true
-    },
-    {
-        "name": "Crunch",
-        "url": "https://github.com/Kixiron/crunch-lang",
-        "description": "A strongly & statically typed systems level language focused on ease of use, portability and speed, built for the modern age.",
-        "stars": 52,
-        "active": false
-    },
-    {
-        "name": "Eldiro",
-        "url": "https://github.com/arzg/eldiro",
-        "description": "Learn to make your own programming language with Rust",
-        "stars": 251,
-        "active": false
-    },
-    {
-        "name": "Starlight",
-        "url": "https://github.com/Starlight-JS/Starlight",
-        "description": "JS engine in Rust",
-        "stars": 511,
-        "active": false
-    },
-    {
-        "name": "Differential Datalog",
-        "url": "https://github.com/vmware/differential-datalog",
-        "description": "DDlog is a programming language for incremental computation. It is well suited for writing programs that continuously update their output in response to input changes. A DDlog programmer does not write incremental algorithms; instead they specify the desired input-output mapping in a declarative manner.",
-        "stars": 1369,
-        "active": false
-    },
-    {
-        "name": "Boa",
-        "url": "https://github.com/boa-dev/boa",
-        "description": "Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.",
-        "stars": 5023,
-        "active": true
-    },
-    {
-        "name": "Nickel",
-        "url": "https://github.com/tweag/nickel",
-        "description": "Better configuration for less",
-        "stars": 2357,
-        "active": true
-    },
-    {
-        "name": "Artichoke",
-        "url": "https://github.com/artichoke/artichoke",
-        "description": "\ud83d\udc8e Artichoke is a Ruby made with Rust",
-        "stars": 3037,
-        "active": true
-    },
-    {
-        "name": "Ellie",
-        "url": "https://github.com/behemehal/Ellie-Language",
-        "description": "Ellie is a type-safe programing language that runs on embedded and sandboxed environments.",
-        "stars": 41,
-        "active": true
-    },
-    {
-        "name": "Mun",
-        "url": "https://github.com/mun-lang/mun",
-        "description": "Source code for the Mun language and runtime.",
-        "stars": 1843,
-        "active": true
-    },
-    {
-        "name": "Koto",
-        "url": "https://github.com/koto-lang/koto",
-        "description": "A simple, expressive, embeddable programming language, made with Rust",
-        "stars": 513,
-        "active": true
-    },
-    {
-        "name": "Ante",
-        "url": "https://github.com/jfecher/ante",
-        "description": "A safe, easy systems language",
-        "stars": 1898,
-        "active": true
-    },
-    {
-        "name": "Astro",
-        "url": "https://github.com/astrolang/astro",
-        "description": "A fun safe language for rapid prototyping and high performance applications",
-        "stars": 752,
-        "active": false
-    },
-    {
-        "name": "Rune",
-        "url": "https://github.com/rune-rs/rune",
-        "description": "An embeddable dynamic programming language for Rust.",
-        "stars": 1714,
-        "active": true
-    },
-    {
-        "name": "Pikelet",
-        "url": "https://github.com/pikelet-lang/pikelet",
-        "description": "A friendly little systems language with first-class types. Very WIP! \ud83d\udea7 \ud83d\udea7 \ud83d\udea7",
-        "stars": 610,
-        "active": false
-    },
-    {
-        "name": "Passerine",
-        "url": "https://github.com/vrtbl/passerine",
-        "description": "A small extensible programming language designed for concise expression with little code.",
-        "stars": 1040,
-        "active": true
-    },
-    {
-        "name": "CSML",
-        "url": "https://github.com/CSML-by-Clevy/csml-engine",
-        "description": "CSML is an easy-to-use chatbot programming language and framework.",
-        "stars": 712,
-        "active": false
-    },
-    {
-        "name": "frawk",
-        "url": "https://github.com/ezrosent/frawk",
-        "description": "an efficient awk-like language",
-        "stars": 1247,
-        "active": true
-    },
-    {
-        "name": "SPWN",
-        "url": "https://github.com/Spu7Nix/SPWN-language",
-        "description": "A language for Geometry Dash triggers",
-        "stars": 1035,
-        "active": true
-    },
-    {
-        "name": "Orion",
-        "url": "https://github.com/orion-lang/orion",
-        "description": "Orion is a high level, purely functional programming language with a LISP based syntax.",
-        "stars": 238,
-        "active": false
-    },
-    {
-        "name": "Wu",
-        "url": "https://github.com/wu-lang/wu",
-        "description": "\ud83d\udc09 A practical game and data language",
-        "stars": 472,
-        "active": false
-    },
-    {
-        "name": "Wain",
-        "url": "https://github.com/rhysd/wain",
-        "description": "WebAssembly implementation from scratch in Safe Rust with zero dependencies",
-        "stars": 430,
-        "active": true
-    },
-    {
-        "name": "Leo",
-        "url": "https://github.com/AleoHQ/leo",
-        "description": "\ud83e\udd81 The Leo Programming Language. A Programming Language for Formally Verified, Zero-Knowledge Applications",
-        "stars": 4798,
-        "active": true
-    },
-    {
-        "name": "EndBASIC",
-        "url": "https://github.com/jmmv/endbasic",
-        "description": "BASIC environment with a REPL, a web interface, a graphical console, and RPi support written in Rust",
-        "stars": 312,
-        "active": true
-    },
-    {
-        "name": "Voile",
-        "url": "https://github.com/owo-lang/voile-rs",
-        "description": "Dependently-typed row-polymorphic programming language, evolved from minitt-rs",
-        "stars": 95,
-        "active": false
-    },
-    {
-        "name": "Jazz",
-        "url": "https://github.com/jazz-lang/Jazz",
-        "description": "Jazz - modern and fast programming language.",
-        "stars": 89,
-        "active": false
-    },
-    {
-        "name": "Minitt",
-        "url": "https://github.com/owo-lang/minitt-rs",
-        "description": "Dependently-typed lambda calculus, Mini-TT, extended and implemented in Rust",
-        "stars": 114,
-        "active": false
-    },
-    {
-        "name": "cat-lox",
-        "url": "https://github.com/AaronStGeorge/cat-lox",
-        "description": "A tree-walk lox interpreter written in Rust.",
-        "stars": 19,
-        "active": false
-    },
-    {
-        "name": "lax",
-        "url": "https://github.com/alisww/lax",
-        "description": "a lox interpreter",
-        "stars": 4,
-        "active": false
-    },
-    {
-        "name": "cloxrs",
-        "url": "https://github.com/anellie/cloxrs",
-        "description": "Lox implementation written in Rust",
-        "stars": 3,
-        "active": false
-    },
-    {
-        "name": "rox",
-        "url": "https://github.com/brightly-salty/rox",
-        "description": "A Rust port of Crafting Interpreters",
-        "stars": 5,
-        "active": false
-    },
-    {
-        "name": "Darksecond/lox",
-        "url": "https://github.com/darksecond/lox",
-        "description": "A rust implementation of the lox language",
-        "stars": 98,
-        "active": true
-    },
-    {
-        "name": "loxr",
-        "url": "https://github.com/HarveyHunt/loxr",
-        "description": "A Rust interpreter for the Lox language",
-        "stars": 9,
-        "active": false
-    },
-    {
-        "name": "lox-rs",
-        "url": "https://github.com/jeschkies/lox-rs",
-        "description": "A Lox Interpreter in Rust",
-        "stars": 37,
-        "active": false
-    },
-    {
-        "name": "Laythe",
-        "url": "https://github.com/Laythe-lang/Laythe",
-        "description": "A gradually typed language originally based on the crafting interpreters series ",
-        "stars": 64,
-        "active": true
-    },
-    {
-        "name": "tox",
-        "url": "https://github.com/Lapz/tox",
-        "description": "Tox is a statically typed version programming language that is written in rust.",
-        "stars": 36,
-        "active": false
-    },
-    {
-        "name": "loxidation",
-        "url": "https://github.com/LevitatingBusinessMan/Loxidation",
-        "description": "Lox bytecode compiler and VM in Rust",
-        "stars": 4,
-        "active": true
-    },
-    {
-        "name": "rulox",
-        "url": "https://github.com/mariosangiorgio/rulox",
-        "description": "Implementation in Rust of lox, the language described in Crafting Interpreters",
-        "stars": 62,
-        "active": false
-    },
-    {
-        "name": "justinmayhew/lox",
-        "url": "https://github.com/justinmayhew/lox",
-        "description": "A Rust implementation of Lox from Crafting Interpreters",
-        "stars": 5,
-        "active": false
-    },
-    {
-        "name": "nt591/lox-rust",
-        "url": "https://github.com/nt591/lox-rust",
-        "description": "A Rust implementation of the Crafting Interpreters bytecode VM",
-        "stars": 1,
-        "active": false
-    },
-    {
-        "name": "radogost/rlox",
-        "url": "https://github.com/radogost/rlox",
-        "description": "An implementation of lox from the great book http://craftinginterpreters.com implemented in Rust",
-        "stars": 8,
-        "active": false
-    },
-    {
-        "name": "rctcwyvrn/rlox",
-        "url": "https://github.com/rctcwyvrn/rlox",
-        "description": "Rust implementation of the bytecode VM (clox) from https://craftinginterpreters.com/",
-        "stars": 19,
-        "active": false
-    },
-    {
-        "name": "rodaine/rlox",
-        "url": "https://github.com/rodaine/rlox",
-        "description": "Lox Interpreter/REPL written in Rust",
-        "stars": 37,
-        "active": false
-    },
-    {
-        "name": "sasurau4/lox-rust",
-        "url": "https://github.com/sasurau4/lox-rust",
-        "description": "Interpreter for lox written by rust",
-        "stars": 7,
-        "active": false
-    },
-    {
-        "name": "yarli",
-        "url": "https://github.com/silmeth/yarli",
-        "description": "Yet Another Rusty Lox Interpreter",
-        "stars": 3,
-        "active": false
-    },
-    {
-        "name": "loxrs",
-        "url": "https://github.com/toyboot4e/loxrs",
-        "description": "[old] Crafting Interpreters in Rust (Part II: A tree-walk interpreter)",
-        "stars": 6,
-        "active": false
-    },
-    {
-        "name": "crafting-interpreters-rs",
-        "url": "https://github.com/tdp2110/crafting-interpreters-rs",
-        "description": "Crafting Interpreters in Rust",
-        "stars": 263,
-        "active": false
-    },
-    {
-        "name": "roxt",
-        "url": "https://github.com/trevarj/roxt",
-        "description": "A Lox interpreter written in Rust",
-        "stars": 3,
-        "active": false
-    },
-    {
-        "name": "relox",
-        "url": "https://github.com/yanchith/relox",
-        "description": "Rust port of the jlox interpreter",
-        "stars": 6,
-        "active": false
-    },
-    {
-        "name": "Sligh",
-        "url": "https://github.com/amw-zero/sligh",
-        "description": "A language for certifying specification",
-        "stars": 10,
-        "active": false
-    },
-    {
-        "name": "Monkey-Rust",
-        "url": "https://github.com/Rydgel/monkey-rust",
-        "description": "An interpreter for the Monkey programming language written in Rust",
-        "stars": 360,
-        "active": true
-    },
-    {
-        "name": "Lightning CSS",
-        "url": "https://github.com/parcel-bundler/lightningcss",
-        "description": "An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.",
-        "stars": 6342,
-        "active": true
-    },
-    {
-        "name": "swc",
-        "url": "https://github.com/swc-project/swc",
-        "description": "Rust-based platform for the Web",
-        "stars": 30984,
-        "active": true
-    },
-    {
-        "name": "Calcit",
-        "url": "https://github.com/calcit-lang/calcit_runner.rs",
-        "description": "Indentation-based ClojureScript dialect in Rust and compiling to JavaScript ES Modules",
-        "stars": 113,
-        "active": true
-    },
-    {
-        "name": "Steel",
-        "url": "https://github.com/mattwparas/steel",
-        "description": "An embedded scheme interpreter in Rust",
-        "stars": 1113,
-        "active": true
-    },
-    {
-        "name": "ucg",
-        "url": "https://github.com/zaphar/ucg",
-        "description": "A Universal Configuration Grammar",
-        "stars": 36,
-        "active": false
-    },
-    {
-        "name": "goscript",
-        "url": "https://github.com/oxfeeefeee/goscript",
-        "description": "An alternative implementation of Golang specs, written in Rust for embedding or wrapping.",
-        "stars": 1530,
-        "active": false
-    },
-    {
-        "name": "Pr47",
-        "url": "https://github.com/Pr47/Pr47",
-        "description": "The formal development repository for Pr47",
-        "stars": 21,
-        "active": false
-    },
-    {
-        "name": "The Force",
-        "url": "https://github.com/mirdaki/theforce",
-        "description": "A Star Wars themed programming language",
-        "stars": 22,
-        "active": false
-    },
-    {
-        "name": "\ud83c\udf0c",
-        "url": "https://github.com/mrozycki/space-lang",
-        "description": "What if identifiers could be anything? Langjam submission",
-        "stars": 6,
-        "active": false
-    },
-    {
-        "name": "Arn",
-        "url": "https://github.com/ZippyMagician/Arn",
-        "description": "A functional golfing language",
-        "stars": 15,
-        "active": false
-    },
-    {
-        "name": "minipyth",
-        "url": "https://github.com/isaacg1/minipyth",
-        "description": "A minimalist programming language",
-        "stars": 7,
-        "active": false
-    },
-    {
-        "name": "Parcel CSS",
-        "url": "https://github.com/parcel-bundler/parcel-css",
-        "description": "An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.",
-        "stars": 6342,
-        "active": true
-    },
-    {
-        "name": "Scryer Prolog",
-        "url": "https://github.com/mthom/scryer-prolog",
-        "description": "A modern Prolog implementation written mostly in Rust.",
-        "stars": 2013,
-        "active": true
-    },
-    {
-        "name": "CalcuLaTeX",
-        "url": "https://github.com/mkhan45/CalcuLaTeX",
-        "description": "A pretty printing calculator language with support for units. Makes calculations easier and more presentable with real time LaTeX output, along with support for units, variables, and mathematical functions.",
-        "stars": 396,
-        "active": false
-    },
-    {
-        "name": "RustPython",
-        "url": "https://github.com/RustPython/RustPython",
-        "description": "A Python Interpreter written in Rust",
-        "stars": 18820,
-        "active": true
-    },
-    {
-        "name": "Melody",
-        "url": "https://github.com/yoav-lavi/melody",
-        "description": "Melody is a language that compiles to regular expressions and aims to be more readable and maintainable",
-        "stars": 4627,
-        "active": false
-    },
-    {
-        "name": "Fe",
-        "url": "https://github.com/ethereum/fe",
-        "description": "Emerging smart contract language for the Ethereum blockchain.",
-        "stars": 1602,
-        "active": true
-    },
-    {
-        "name": "Sway",
-        "url": "https://github.com/FuelLabs/sway",
-        "description": "\ud83c\udf34 Empowering everyone to build reliable and efficient smart contracts.",
-        "stars": 62765,
-        "active": true
-    },
-    {
-        "name": "Sphinx",
-        "url": "https://github.com/mwerezak/sphinx-lang",
-        "description": "An intepreter for a simple dynamic language written in Rust",
-        "stars": 290,
-        "active": true
-    },
-    {
-        "name": "Calypso",
-        "url": "https://github.com/calypso-lang/calypso",
-        "description": "Calypso is a mostly imperative language with some functional influences that is focused on flexibility and simplicity.",
-        "stars": 66,
-        "active": true
-    },
-    {
-        "name": "Tethys",
-        "url": "https://github.com/ThePuzzlemaker/tethys",
-        "description": "A toy functional programming language with a System F-based core calculus - Read-only mirror from sr.ht",
-        "stars": 14,
-        "active": false
-    },
-    {
-        "name": "Chili",
-        "url": "https://github.com/r0nsha/chili",
-        "description": "General-purpose, compiled programming language, focused on productivity, expressiveness and joy of programming\u2122",
-        "stars": 42,
-        "active": false
-    },
-    {
-        "name": "Rust",
-        "url": "https://github.com/rust-lang/rust",
-        "description": "Empowering everyone to build reliable and efficient software.",
-        "stars": 97129,
-        "active": true
-    },
-    {
-        "name": "Inko",
-        "url": "https://github.com/YorickPeterse/inko",
-        "description": "A language for building concurrent software with confidence",
-        "stars": 877,
-        "active": true
-    },
-    {
-        "name": "Erg",
-        "url": "https://github.com/erg-lang/erg",
-        "description": "A statically typed language compatible with Python",
-        "stars": 2667,
-        "active": true
-    },
-    {
-        "name": "KCL",
-        "url": "https://github.com/kcl-lang/kcl",
-        "description": "KCL Programming Language (CNCF Sandbox Project). https://kcl-lang.io",
-        "stars": 1604,
-        "active": true
-    },
-    {
-        "name": "Tokay",
-        "url": "https://github.com/tokay-lang/tokay",
-        "description": "Tokay is a programming language designed for ad-hoc parsing, inspired by awk.",
-        "stars": 238,
-        "active": true
-    },
-    {
-        "name": "Deno",
-        "url": "https://github.com/denoland/deno",
-        "description": "A modern runtime for JavaScript and TypeScript.",
-        "stars": 94339,
-        "active": true
-    },
-    {
-        "name": "Lurk",
-        "url": "https://github.com/lurk-lang/lurk-rs",
-        "description": "Lurk is a Turing-complete programming language for recursive zk-SNARKs.  It is a statically scoped dialect of Lisp, influenced by Scheme and Common Lisp. (contact: @porcuquine)",
-        "stars": 427,
-        "active": true
-    },
-    {
-        "name": "Boson",
-        "url": "https://github.com/Narasimha1997/boson-lang",
-        "description": "A hybrid programming language written in Rust. ",
-        "stars": 116,
-        "active": true
-    },
-    {
-        "name": "Kind",
-        "url": "https://github.com/HigherOrderCO/Kind",
-        "description": "A modern proof language",
-        "stars": 3540,
-        "active": true
-    },
-    {
-        "name": "Wright",
-        "url": "https://github.com/vcfxb/wright-lang",
-        "description": "The wright programming language (WIP)",
-        "stars": 19,
-        "active": true
-    },
-    {
-        "name": "ssp16asm",
-        "url": "https://github.com/jdesiloniz/svpdev",
-        "description": "A collection of development tools targetting SEGA's SVP chip found in the Mega Drive/Genesis version of Virtua Racing.",
-        "stars": 80,
-        "active": false
-    },
-    {
-        "name": "jsparagus",
-        "url": "https://github.com/mozilla-spidermonkey/jsparagus",
-        "description": "Experimental JS parser-generator project.",
-        "stars": 439,
-        "active": true
-    },
-    {
-        "name": "Veryl",
-        "url": "https://github.com/dalance/veryl",
-        "description": "Veryl: A Modern Hardware Description Language",
-        "stars": 478,
-        "active": true
-    },
-    {
-        "name": "TablaM",
-        "url": "https://github.com/Tablam/TablaM",
-        "description": "The practical relational programing language for data-oriented applications",
-        "stars": 189,
-        "active": false
-    },
-    {
-        "name": "PopperLang",
-        "url": "https://github.com/popper-lang/popper-lang",
-        "description": "The CLI that group all project to one to finally make the Popper-lang ",
-        "stars": 2,
-        "active": false
-    },
-    {
-        "name": "nu",
-        "url": "https://github.com/nushell/nushell",
-        "description": "A new type of shell",
-        "stars": 31759,
-        "active": true
-    },
-    {
-        "name": "Roc",
-        "url": "https://github.com/roc-lang/roc",
-        "description": "A fast, friendly, functional language.",
-        "stars": 4150,
-        "active": true
-    },
-    {
-        "name": "Move",
-        "url": "https://github.com/move-language/move",
-        "description": null,
-        "stars": 2251,
-        "active": true
-    },
-    {
-        "name": "Typst",
-        "url": "https://github.com/typst/typst",
-        "description": "A new markup-based typesetting system that is powerful and easy to learn.",
-        "stars": 32893,
-        "active": true
-    },
-    {
-        "name": "Stellar",
-        "url": "https://github.com/quantumatic/stellar",
-        "description": "\u2728 An open source WIP general programming language for web development built using Rust. \u2728",
-        "stars": 41,
-        "active": false
-    },
-    {
-        "name": "Oriel",
-        "url": "https://github.com/wojciech-graj/oriel",
-        "description": "An interpreter for the 1991 Oriel scripting language",
-        "stars": 56,
-        "active": false
-    },
-    {
-        "name": "Duckscript",
-        "url": "https://github.com/sagiegurari/duckscript",
-        "description": "Simple, extendable and embeddable scripting language.",
-        "stars": 509,
-        "active": true
-    },
-    {
-        "name": "Terbium",
-        "url": "https://github.com/terbium-lang/terbium",
-        "description": "A high-level language that doesn't compromise in performance, made with Rust.",
-        "stars": 22,
-        "active": false
-    },
-    {
-        "name": "Loxcraft",
-        "url": "https://github.com/ajeetdsouza/loxcraft",
-        "description": "Language tooling for the Lox programming language.",
-        "stars": 262,
-        "active": true
-    },
-    {
-        "name": "rusch",
-        "url": "https://github.com/twolodzko/rusch",
-        "description": "Minimal Scheme implemented in Rust",
-        "stars": 2,
-        "active": false
-    },
-    {
-        "name": "ClojureRS",
-        "url": "https://github.com/clojure-rs/ClojureRS",
-        "description": "Clojure, implemented atop Rust (unofficial)",
-        "stars": 951,
-        "active": false
-    },
-    {
-        "name": "diatom",
-        "url": "https://github.com/diatom-lang/diatom",
-        "description": "The diatom programming language",
-        "stars": 72,
-        "active": false
-    },
-    {
-        "name": "darklua",
-        "url": "https://github.com/seaofvoices/darklua",
-        "description": "A command line tool that transforms Lua code",
-        "stars": 79,
-        "active": true
-    },
-    {
-        "name": "Tvix",
-        "url": "https://github.com/tvlfyi/tvix",
-        "description": "Tvix - A Rust implementation of Nix. Read-only mirror of https://cs.tvl.fyi/depot/-/tree/tvix",
-        "stars": 507,
-        "active": true
-    },
-    {
-        "name": "Tron",
-        "url": "https://github.com/418e/Tron",
-        "description": "Statically typed general purpose programming language",
-        "stars": 0,
-        "active": false
-    },
-    {
-        "name": "Nukleus",
-        "url": "https://github.com/Nukleus-Language/nukleus",
-        "description": "Simple and fast Dynamic Modular Structure-based AI, GUI, Cross-Platform  Programming Language ",
-        "stars": 15,
-        "active": true
-    },
-    {
-        "name": "snow-lang",
-        "url": "https://github.com/cowboy8625/snow-lang",
-        "description": "A functional programming language",
-        "stars": 11,
-        "active": true
-    },
-    {
-        "name": "candy",
-        "url": "https://github.com/candy-lang/candy",
-        "description": "\ud83c\udf6d A sweet, functional programming language that is robust, minimalistic, and expressive.",
-        "stars": 319,
-        "active": true
-    },
-    {
-        "name": "Winglang",
-        "url": "https://github.com/winglang/wing",
-        "description": "A programming language for the cloud \u2601\ufe0f A unified programming model, combining infrastructure and runtime code into one language \u26a1",
-        "stars": 4964,
-        "active": true
-    },
-    {
-        "name": "Uiua",
-        "url": "https://github.com/uiua-lang/uiua",
-        "description": "A stack-based array programming language",
-        "stars": 1542,
-        "active": true
-    },
-    {
-        "name": "RayQL",
-        "url": "https://github.com/harshdoesdev/rayql",
-        "description": "RayQL is a schema definition and query language for SQLite",
-        "stars": 48,
-        "active": true
-    },
-    {
-        "name": "Mastermind",
-        "url": "https://github.com/Heathcorp/Mastermind",
-        "description": "A custom programming language which compiles to the well-known esolang \"Brainfuck\".",
-        "stars": 5,
-        "active": true
-    },
-    {
-        "name": "tpl-lang",
-        "url": "https://github.com/mealet/tpl-lang",
-        "description": "Stupid Programming Language based on LLVM in Rust",
-        "stars": 8,
-        "active": true
-    }
+  {
+    "name": "Dyon",
+    "url": "https://github.com/pistondevelopers/dyon",
+    "description": "A rusty dynamically typed scripting language",
+    "stars": 1758,
+    "active": false
+  },
+  {
+    "name": "Ketos",
+    "url": "https://github.com/murarth/ketos",
+    "description": "Lisp dialect scripting and extension language for Rust programs",
+    "stars": 750,
+    "active": false
+  },
+  {
+    "name": "Rhai",
+    "url": "https://github.com/jonathandturner/rhai",
+    "description": "Rhai - An embedded scripting language for Rust.",
+    "stars": 3744,
+    "active": true
+  },
+  {
+    "name": "Gluon",
+    "url": "https://github.com/gluon-lang/gluon",
+    "description": "A static, type inferred and embeddable language written in Rust.",
+    "stars": 3201,
+    "active": false
+  },
+  {
+    "name": "Cyrus Lang",
+    "url": "https://github.com/cyrus-lang/Cyrus-Lang",
+    "description": "A high-performance, statically-typed, manually memory-managed and procedural programming language empowered by GCCJIT.",
+    "stars": 19,
+    "active": true
+  },
+  {
+    "name": "Antimony",
+    "url": "https://github.com/antimony-lang/antimony",
+    "description": "The Antimony programming language",
+    "stars": 136,
+    "active": true
+  },
+  {
+    "name": "Tao",
+    "url": "https://github.com/zesterer/tao",
+    "description": "A statically-typed functional language with generics, typeclasses, sum types, pattern-matching, first-class functions, currying, algebraic effects, associated types, good diagnostics, etc.",
+    "stars": 1089,
+    "active": false
+  },
+  {
+    "name": "Lang",
+    "url": "https://github.com/gsingh93/lang",
+    "description": "An imperative programming language written in Rust",
+    "stars": 7,
+    "active": false
+  },
+  {
+    "name": "Iron",
+    "url": "https://github.com/Arcterus/iron-lang",
+    "description": "A Lisp-based language written in Rust",
+    "stars": 6,
+    "active": false
+  },
+  {
+    "name": "atto",
+    "url": "https://github.com/zesterer/atto",
+    "description": "An insanely simple self-hosted functional programming language",
+    "stars": 147,
+    "active": false
+  },
+  {
+    "name": "Rust-lisp",
+    "url": "https://github.com/swgillespie/rust-lisp",
+    "description": "A small Lisp interpreter written in Rust. Work in progress.",
+    "stars": 85,
+    "active": false
+  },
+  {
+    "name": "Lisp.rs",
+    "url": "https://github.com/jsdf/lisp.rs",
+    "description": "Scheme Interpreter in Rust",
+    "stars": 25,
+    "active": false
+  },
+  {
+    "name": "Radicle",
+    "url": "https://github.com/nham/radicle",
+    "description": "an ur-lisp interpreter written in Rust",
+    "stars": 11,
+    "active": false
+  },
+  {
+    "name": "Rust-Prolog",
+    "url": "https://github.com/dagit/rust-prolog",
+    "description": "Rust implementation of prolog based on miniprolog: http://andrej.com/plzoo/html/miniprolog.html",
+    "stars": 81,
+    "active": false
+  },
+  {
+    "name": "Synthizer",
+    "url": "https://github.com/nwoeanhinnogaehr/synthizer",
+    "description": "A simple, experimental functional language for real time additive audio synthesis.",
+    "stars": 21,
+    "active": false
+  },
+  {
+    "name": "rtforth",
+    "url": "https://github.com/chengchangwu/rtforth",
+    "description": "Forth implemented in Rust for realtime application",
+    "stars": 1,
+    "active": false
+  },
+  {
+    "name": "Schwift",
+    "url": "https://github.com/natemara/schwift",
+    "description": "An actual programming language for some reason",
+    "stars": 30,
+    "active": false
+  },
+  {
+    "name": "Gleam",
+    "url": "https://github.com/gleam-lang/gleam",
+    "description": "\u2b50\ufe0f A friendly language for building type-safe, scalable systems!",
+    "stars": 17560,
+    "active": true
+  },
+  {
+    "name": "Blazescript",
+    "url": "https://github.com/BlazifyOrg/blazescript",
+    "description": "AOT compiled object oriented programming language",
+    "stars": 48,
+    "active": false
+  },
+  {
+    "name": "Starlark",
+    "url": "https://github.com/facebookexperimental/starlark-rust",
+    "description": "A Rust implementation of the Starlark language",
+    "stars": 696,
+    "active": true
+  },
+  {
+    "name": "Crunch",
+    "url": "https://github.com/Kixiron/crunch-lang",
+    "description": "A strongly & statically typed systems level language focused on ease of use, portability and speed, built for the modern age.",
+    "stars": 52,
+    "active": false
+  },
+  {
+    "name": "Eldiro",
+    "url": "https://github.com/arzg/eldiro",
+    "description": "Learn to make your own programming language with Rust",
+    "stars": 251,
+    "active": false
+  },
+  {
+    "name": "Starlight",
+    "url": "https://github.com/Starlight-JS/Starlight",
+    "description": "JS engine in Rust",
+    "stars": 511,
+    "active": false
+  },
+  {
+    "name": "Differential Datalog",
+    "url": "https://github.com/vmware/differential-datalog",
+    "description": "DDlog is a programming language for incremental computation. It is well suited for writing programs that continuously update their output in response to input changes. A DDlog programmer does not write incremental algorithms; instead they specify the desired input-output mapping in a declarative manner.",
+    "stars": 1369,
+    "active": false
+  },
+  {
+    "name": "Boa",
+    "url": "https://github.com/boa-dev/boa",
+    "description": "Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language.",
+    "stars": 5023,
+    "active": true
+  },
+  {
+    "name": "Nickel",
+    "url": "https://github.com/tweag/nickel",
+    "description": "Better configuration for less",
+    "stars": 2357,
+    "active": true
+  },
+  {
+    "name": "Artichoke",
+    "url": "https://github.com/artichoke/artichoke",
+    "description": "\ud83d\udc8e Artichoke is a Ruby made with Rust",
+    "stars": 3037,
+    "active": true
+  },
+  {
+    "name": "Ellie",
+    "url": "https://github.com/behemehal/Ellie-Language",
+    "description": "Ellie is a type-safe programing language that runs on embedded and sandboxed environments.",
+    "stars": 41,
+    "active": true
+  },
+  {
+    "name": "Mun",
+    "url": "https://github.com/mun-lang/mun",
+    "description": "Source code for the Mun language and runtime.",
+    "stars": 1843,
+    "active": true
+  },
+  {
+    "name": "Koto",
+    "url": "https://github.com/koto-lang/koto",
+    "description": "A simple, expressive, embeddable programming language, made with Rust",
+    "stars": 513,
+    "active": true
+  },
+  {
+    "name": "Ante",
+    "url": "https://github.com/jfecher/ante",
+    "description": "A safe, easy systems language",
+    "stars": 1898,
+    "active": true
+  },
+  {
+    "name": "Astro",
+    "url": "https://github.com/astrolang/astro",
+    "description": "A fun safe language for rapid prototyping and high performance applications",
+    "stars": 752,
+    "active": false
+  },
+  {
+    "name": "Rune",
+    "url": "https://github.com/rune-rs/rune",
+    "description": "An embeddable dynamic programming language for Rust.",
+    "stars": 1714,
+    "active": true
+  },
+  {
+    "name": "Pikelet",
+    "url": "https://github.com/pikelet-lang/pikelet",
+    "description": "A friendly little systems language with first-class types. Very WIP! \ud83d\udea7 \ud83d\udea7 \ud83d\udea7",
+    "stars": 610,
+    "active": false
+  },
+  {
+    "name": "Passerine",
+    "url": "https://github.com/vrtbl/passerine",
+    "description": "A small extensible programming language designed for concise expression with little code.",
+    "stars": 1040,
+    "active": true
+  },
+  {
+    "name": "CSML",
+    "url": "https://github.com/CSML-by-Clevy/csml-engine",
+    "description": "CSML is an easy-to-use chatbot programming language and framework.",
+    "stars": 712,
+    "active": false
+  },
+  {
+    "name": "frawk",
+    "url": "https://github.com/ezrosent/frawk",
+    "description": "an efficient awk-like language",
+    "stars": 1247,
+    "active": true
+  },
+  {
+    "name": "SPWN",
+    "url": "https://github.com/Spu7Nix/SPWN-language",
+    "description": "A language for Geometry Dash triggers",
+    "stars": 1035,
+    "active": true
+  },
+  {
+    "name": "Orion",
+    "url": "https://github.com/orion-lang/orion",
+    "description": "Orion is a high level, purely functional programming language with a LISP based syntax.",
+    "stars": 238,
+    "active": false
+  },
+  {
+    "name": "Wu",
+    "url": "https://github.com/wu-lang/wu",
+    "description": "\ud83d\udc09 A practical game and data language",
+    "stars": 472,
+    "active": false
+  },
+  {
+    "name": "Wain",
+    "url": "https://github.com/rhysd/wain",
+    "description": "WebAssembly implementation from scratch in Safe Rust with zero dependencies",
+    "stars": 430,
+    "active": true
+  },
+  {
+    "name": "Leo",
+    "url": "https://github.com/AleoHQ/leo",
+    "description": "\ud83e\udd81 The Leo Programming Language. A Programming Language for Formally Verified, Zero-Knowledge Applications",
+    "stars": 4798,
+    "active": true
+  },
+  {
+    "name": "EndBASIC",
+    "url": "https://github.com/jmmv/endbasic",
+    "description": "BASIC environment with a REPL, a web interface, a graphical console, and RPi support written in Rust",
+    "stars": 312,
+    "active": true
+  },
+  {
+    "name": "Voile",
+    "url": "https://github.com/owo-lang/voile-rs",
+    "description": "Dependently-typed row-polymorphic programming language, evolved from minitt-rs",
+    "stars": 95,
+    "active": false
+  },
+  {
+    "name": "Jazz",
+    "url": "https://github.com/jazz-lang/Jazz",
+    "description": "Jazz - modern and fast programming language.",
+    "stars": 89,
+    "active": false
+  },
+  {
+    "name": "Minitt",
+    "url": "https://github.com/owo-lang/minitt-rs",
+    "description": "Dependently-typed lambda calculus, Mini-TT, extended and implemented in Rust",
+    "stars": 114,
+    "active": false
+  },
+  {
+    "name": "cat-lox",
+    "url": "https://github.com/AaronStGeorge/cat-lox",
+    "description": "A tree-walk lox interpreter written in Rust.",
+    "stars": 19,
+    "active": false
+  },
+  {
+    "name": "lax",
+    "url": "https://github.com/alisww/lax",
+    "description": "a lox interpreter",
+    "stars": 4,
+    "active": false
+  },
+  {
+    "name": "cloxrs",
+    "url": "https://github.com/anellie/cloxrs",
+    "description": "Lox implementation written in Rust",
+    "stars": 3,
+    "active": false
+  },
+  {
+    "name": "rox",
+    "url": "https://github.com/brightly-salty/rox",
+    "description": "A Rust port of Crafting Interpreters",
+    "stars": 5,
+    "active": false
+  },
+  {
+    "name": "Darksecond/lox",
+    "url": "https://github.com/darksecond/lox",
+    "description": "A rust implementation of the lox language",
+    "stars": 98,
+    "active": true
+  },
+  {
+    "name": "loxr",
+    "url": "https://github.com/HarveyHunt/loxr",
+    "description": "A Rust interpreter for the Lox language",
+    "stars": 9,
+    "active": false
+  },
+  {
+    "name": "lox-rs",
+    "url": "https://github.com/jeschkies/lox-rs",
+    "description": "A Lox Interpreter in Rust",
+    "stars": 37,
+    "active": false
+  },
+  {
+    "name": "Laythe",
+    "url": "https://github.com/Laythe-lang/Laythe",
+    "description": "A gradually typed language originally based on the crafting interpreters series ",
+    "stars": 64,
+    "active": true
+  },
+  {
+    "name": "tox",
+    "url": "https://github.com/Lapz/tox",
+    "description": "Tox is a statically typed version programming language that is written in rust.",
+    "stars": 36,
+    "active": false
+  },
+  {
+    "name": "loxidation",
+    "url": "https://github.com/LevitatingBusinessMan/Loxidation",
+    "description": "Lox bytecode compiler and VM in Rust",
+    "stars": 4,
+    "active": true
+  },
+  {
+    "name": "rulox",
+    "url": "https://github.com/mariosangiorgio/rulox",
+    "description": "Implementation in Rust of lox, the language described in Crafting Interpreters",
+    "stars": 62,
+    "active": false
+  },
+  {
+    "name": "justinmayhew/lox",
+    "url": "https://github.com/justinmayhew/lox",
+    "description": "A Rust implementation of Lox from Crafting Interpreters",
+    "stars": 5,
+    "active": false
+  },
+  {
+    "name": "nt591/lox-rust",
+    "url": "https://github.com/nt591/lox-rust",
+    "description": "A Rust implementation of the Crafting Interpreters bytecode VM",
+    "stars": 1,
+    "active": false
+  },
+  {
+    "name": "radogost/rlox",
+    "url": "https://github.com/radogost/rlox",
+    "description": "An implementation of lox from the great book http://craftinginterpreters.com implemented in Rust",
+    "stars": 8,
+    "active": false
+  },
+  {
+    "name": "rctcwyvrn/rlox",
+    "url": "https://github.com/rctcwyvrn/rlox",
+    "description": "Rust implementation of the bytecode VM (clox) from https://craftinginterpreters.com/",
+    "stars": 19,
+    "active": false
+  },
+  {
+    "name": "rodaine/rlox",
+    "url": "https://github.com/rodaine/rlox",
+    "description": "Lox Interpreter/REPL written in Rust",
+    "stars": 37,
+    "active": false
+  },
+  {
+    "name": "sasurau4/lox-rust",
+    "url": "https://github.com/sasurau4/lox-rust",
+    "description": "Interpreter for lox written by rust",
+    "stars": 7,
+    "active": false
+  },
+  {
+    "name": "yarli",
+    "url": "https://github.com/silmeth/yarli",
+    "description": "Yet Another Rusty Lox Interpreter",
+    "stars": 3,
+    "active": false
+  },
+  {
+    "name": "loxrs",
+    "url": "https://github.com/toyboot4e/loxrs",
+    "description": "[old] Crafting Interpreters in Rust (Part II: A tree-walk interpreter)",
+    "stars": 6,
+    "active": false
+  },
+  {
+    "name": "crafting-interpreters-rs",
+    "url": "https://github.com/tdp2110/crafting-interpreters-rs",
+    "description": "Crafting Interpreters in Rust",
+    "stars": 263,
+    "active": false
+  },
+  {
+    "name": "roxt",
+    "url": "https://github.com/trevarj/roxt",
+    "description": "A Lox interpreter written in Rust",
+    "stars": 3,
+    "active": false
+  },
+  {
+    "name": "relox",
+    "url": "https://github.com/yanchith/relox",
+    "description": "Rust port of the jlox interpreter",
+    "stars": 6,
+    "active": false
+  },
+  {
+    "name": "Sligh",
+    "url": "https://github.com/amw-zero/sligh",
+    "description": "A language for certifying specification",
+    "stars": 10,
+    "active": false
+  },
+  {
+    "name": "Monkey-Rust",
+    "url": "https://github.com/Rydgel/monkey-rust",
+    "description": "An interpreter for the Monkey programming language written in Rust",
+    "stars": 360,
+    "active": true
+  },
+  {
+    "name": "Lightning CSS",
+    "url": "https://github.com/parcel-bundler/lightningcss",
+    "description": "An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.",
+    "stars": 6342,
+    "active": true
+  },
+  {
+    "name": "swc",
+    "url": "https://github.com/swc-project/swc",
+    "description": "Rust-based platform for the Web",
+    "stars": 30984,
+    "active": true
+  },
+  {
+    "name": "Calcit",
+    "url": "https://github.com/calcit-lang/calcit_runner.rs",
+    "description": "Indentation-based ClojureScript dialect in Rust and compiling to JavaScript ES Modules",
+    "stars": 113,
+    "active": true
+  },
+  {
+    "name": "Steel",
+    "url": "https://github.com/mattwparas/steel",
+    "description": "An embedded scheme interpreter in Rust",
+    "stars": 1113,
+    "active": true
+  },
+  {
+    "name": "ucg",
+    "url": "https://github.com/zaphar/ucg",
+    "description": "A Universal Configuration Grammar",
+    "stars": 36,
+    "active": false
+  },
+  {
+    "name": "goscript",
+    "url": "https://github.com/oxfeeefeee/goscript",
+    "description": "An alternative implementation of Golang specs, written in Rust for embedding or wrapping.",
+    "stars": 1530,
+    "active": false
+  },
+  {
+    "name": "Pr47",
+    "url": "https://github.com/Pr47/Pr47",
+    "description": "The formal development repository for Pr47",
+    "stars": 21,
+    "active": false
+  },
+  {
+    "name": "The Force",
+    "url": "https://github.com/mirdaki/theforce",
+    "description": "A Star Wars themed programming language",
+    "stars": 22,
+    "active": false
+  },
+  {
+    "name": "\ud83c\udf0c",
+    "url": "https://github.com/mrozycki/space-lang",
+    "description": "What if identifiers could be anything? Langjam submission",
+    "stars": 6,
+    "active": false
+  },
+  {
+    "name": "Arn",
+    "url": "https://github.com/ZippyMagician/Arn",
+    "description": "A functional golfing language",
+    "stars": 15,
+    "active": false
+  },
+  {
+    "name": "minipyth",
+    "url": "https://github.com/isaacg1/minipyth",
+    "description": "A minimalist programming language",
+    "stars": 7,
+    "active": false
+  },
+  {
+    "name": "Parcel CSS",
+    "url": "https://github.com/parcel-bundler/parcel-css",
+    "description": "An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.",
+    "stars": 6342,
+    "active": true
+  },
+  {
+    "name": "Scryer Prolog",
+    "url": "https://github.com/mthom/scryer-prolog",
+    "description": "A modern Prolog implementation written mostly in Rust.",
+    "stars": 2013,
+    "active": true
+  },
+  {
+    "name": "CalcuLaTeX",
+    "url": "https://github.com/mkhan45/CalcuLaTeX",
+    "description": "A pretty printing calculator language with support for units. Makes calculations easier and more presentable with real time LaTeX output, along with support for units, variables, and mathematical functions.",
+    "stars": 396,
+    "active": false
+  },
+  {
+    "name": "RustPython",
+    "url": "https://github.com/RustPython/RustPython",
+    "description": "A Python Interpreter written in Rust",
+    "stars": 18820,
+    "active": true
+  },
+  {
+    "name": "Melody",
+    "url": "https://github.com/yoav-lavi/melody",
+    "description": "Melody is a language that compiles to regular expressions and aims to be more readable and maintainable",
+    "stars": 4627,
+    "active": false
+  },
+  {
+    "name": "Fe",
+    "url": "https://github.com/ethereum/fe",
+    "description": "Emerging smart contract language for the Ethereum blockchain.",
+    "stars": 1602,
+    "active": true
+  },
+  {
+    "name": "Sway",
+    "url": "https://github.com/FuelLabs/sway",
+    "description": "\ud83c\udf34 Empowering everyone to build reliable and efficient smart contracts.",
+    "stars": 62765,
+    "active": true
+  },
+  {
+    "name": "Sphinx",
+    "url": "https://github.com/mwerezak/sphinx-lang",
+    "description": "An intepreter for a simple dynamic language written in Rust",
+    "stars": 290,
+    "active": true
+  },
+  {
+    "name": "Calypso",
+    "url": "https://github.com/calypso-lang/calypso",
+    "description": "Calypso is a mostly imperative language with some functional influences that is focused on flexibility and simplicity.",
+    "stars": 66,
+    "active": true
+  },
+  {
+    "name": "Tethys",
+    "url": "https://github.com/ThePuzzlemaker/tethys",
+    "description": "A toy functional programming language with a System F-based core calculus - Read-only mirror from sr.ht",
+    "stars": 14,
+    "active": false
+  },
+  {
+    "name": "Chili",
+    "url": "https://github.com/r0nsha/chili",
+    "description": "General-purpose, compiled programming language, focused on productivity, expressiveness and joy of programming\u2122",
+    "stars": 42,
+    "active": false
+  },
+  {
+    "name": "Rust",
+    "url": "https://github.com/rust-lang/rust",
+    "description": "Empowering everyone to build reliable and efficient software.",
+    "stars": 97129,
+    "active": true
+  },
+  {
+    "name": "Inko",
+    "url": "https://github.com/YorickPeterse/inko",
+    "description": "A language for building concurrent software with confidence",
+    "stars": 877,
+    "active": true
+  },
+  {
+    "name": "Erg",
+    "url": "https://github.com/erg-lang/erg",
+    "description": "A statically typed language compatible with Python",
+    "stars": 2667,
+    "active": true
+  },
+  {
+    "name": "KCL",
+    "url": "https://github.com/kcl-lang/kcl",
+    "description": "KCL Programming Language (CNCF Sandbox Project). https://kcl-lang.io",
+    "stars": 1604,
+    "active": true
+  },
+  {
+    "name": "Tokay",
+    "url": "https://github.com/tokay-lang/tokay",
+    "description": "Tokay is a programming language designed for ad-hoc parsing, inspired by awk.",
+    "stars": 238,
+    "active": true
+  },
+  {
+    "name": "Deno",
+    "url": "https://github.com/denoland/deno",
+    "description": "A modern runtime for JavaScript and TypeScript.",
+    "stars": 94339,
+    "active": true
+  },
+  {
+    "name": "Lurk",
+    "url": "https://github.com/lurk-lang/lurk-rs",
+    "description": "Lurk is a Turing-complete programming language for recursive zk-SNARKs.  It is a statically scoped dialect of Lisp, influenced by Scheme and Common Lisp. (contact: @porcuquine)",
+    "stars": 427,
+    "active": true
+  },
+  {
+    "name": "Boson",
+    "url": "https://github.com/Narasimha1997/boson-lang",
+    "description": "A hybrid programming language written in Rust. ",
+    "stars": 116,
+    "active": true
+  },
+  {
+    "name": "Kind",
+    "url": "https://github.com/HigherOrderCO/Kind",
+    "description": "A modern proof language",
+    "stars": 3540,
+    "active": true
+  },
+  {
+    "name": "Wright",
+    "url": "https://github.com/vcfxb/wright-lang",
+    "description": "The wright programming language (WIP)",
+    "stars": 19,
+    "active": true
+  },
+  {
+    "name": "ssp16asm",
+    "url": "https://github.com/jdesiloniz/svpdev",
+    "description": "A collection of development tools targetting SEGA's SVP chip found in the Mega Drive/Genesis version of Virtua Racing.",
+    "stars": 80,
+    "active": false
+  },
+  {
+    "name": "jsparagus",
+    "url": "https://github.com/mozilla-spidermonkey/jsparagus",
+    "description": "Experimental JS parser-generator project.",
+    "stars": 439,
+    "active": true
+  },
+  {
+    "name": "Veryl",
+    "url": "https://github.com/dalance/veryl",
+    "description": "Veryl: A Modern Hardware Description Language",
+    "stars": 478,
+    "active": true
+  },
+  {
+    "name": "TablaM",
+    "url": "https://github.com/Tablam/TablaM",
+    "description": "The practical relational programing language for data-oriented applications",
+    "stars": 189,
+    "active": false
+  },
+  {
+    "name": "PopperLang",
+    "url": "https://github.com/popper-lang/popper-lang",
+    "description": "The CLI that group all project to one to finally make the Popper-lang ",
+    "stars": 2,
+    "active": false
+  },
+  {
+    "name": "nu",
+    "url": "https://github.com/nushell/nushell",
+    "description": "A new type of shell",
+    "stars": 31759,
+    "active": true
+  },
+  {
+    "name": "Roc",
+    "url": "https://github.com/roc-lang/roc",
+    "description": "A fast, friendly, functional language.",
+    "stars": 4150,
+    "active": true
+  },
+  {
+    "name": "Move",
+    "url": "https://github.com/move-language/move",
+    "description": null,
+    "stars": 2251,
+    "active": true
+  },
+  {
+    "name": "Typst",
+    "url": "https://github.com/typst/typst",
+    "description": "A new markup-based typesetting system that is powerful and easy to learn.",
+    "stars": 32893,
+    "active": true
+  },
+  {
+    "name": "Stellar",
+    "url": "https://github.com/quantumatic/stellar",
+    "description": "\u2728 An open source WIP general programming language for web development built using Rust. \u2728",
+    "stars": 41,
+    "active": false
+  },
+  {
+    "name": "Oriel",
+    "url": "https://github.com/wojciech-graj/oriel",
+    "description": "An interpreter for the 1991 Oriel scripting language",
+    "stars": 56,
+    "active": false
+  },
+  {
+    "name": "Duckscript",
+    "url": "https://github.com/sagiegurari/duckscript",
+    "description": "Simple, extendable and embeddable scripting language.",
+    "stars": 509,
+    "active": true
+  },
+  {
+    "name": "Terbium",
+    "url": "https://github.com/terbium-lang/terbium",
+    "description": "A high-level language that doesn't compromise in performance, made with Rust.",
+    "stars": 22,
+    "active": false
+  },
+  {
+    "name": "Loxcraft",
+    "url": "https://github.com/ajeetdsouza/loxcraft",
+    "description": "Language tooling for the Lox programming language.",
+    "stars": 262,
+    "active": true
+  },
+  {
+    "name": "rusch",
+    "url": "https://github.com/twolodzko/rusch",
+    "description": "Minimal Scheme implemented in Rust",
+    "stars": 2,
+    "active": false
+  },
+  {
+    "name": "ClojureRS",
+    "url": "https://github.com/clojure-rs/ClojureRS",
+    "description": "Clojure, implemented atop Rust (unofficial)",
+    "stars": 951,
+    "active": false
+  },
+  {
+    "name": "diatom",
+    "url": "https://github.com/diatom-lang/diatom",
+    "description": "The diatom programming language",
+    "stars": 72,
+    "active": false
+  },
+  {
+    "name": "darklua",
+    "url": "https://github.com/seaofvoices/darklua",
+    "description": "A command line tool that transforms Lua code",
+    "stars": 79,
+    "active": true
+  },
+  {
+    "name": "Tvix",
+    "url": "https://github.com/tvlfyi/tvix",
+    "description": "Tvix - A Rust implementation of Nix. Read-only mirror of https://cs.tvl.fyi/depot/-/tree/tvix",
+    "stars": 507,
+    "active": true
+  },
+  {
+    "name": "Tron",
+    "url": "https://github.com/418e/Tron",
+    "description": "Statically typed general purpose programming language",
+    "stars": 0,
+    "active": false
+  },
+  {
+    "name": "Nukleus",
+    "url": "https://github.com/Nukleus-Language/nukleus",
+    "description": "Simple and fast Dynamic Modular Structure-based AI, GUI, Cross-Platform  Programming Language ",
+    "stars": 15,
+    "active": true
+  },
+  {
+    "name": "snow-lang",
+    "url": "https://github.com/cowboy8625/snow-lang",
+    "description": "A functional programming language",
+    "stars": 11,
+    "active": true
+  },
+  {
+    "name": "candy",
+    "url": "https://github.com/candy-lang/candy",
+    "description": "\ud83c\udf6d A sweet, functional programming language that is robust, minimalistic, and expressive.",
+    "stars": 319,
+    "active": true
+  },
+  {
+    "name": "Winglang",
+    "url": "https://github.com/winglang/wing",
+    "description": "A programming language for the cloud \u2601\ufe0f A unified programming model, combining infrastructure and runtime code into one language \u26a1",
+    "stars": 4964,
+    "active": true
+  },
+  {
+    "name": "Uiua",
+    "url": "https://github.com/uiua-lang/uiua",
+    "description": "A stack-based array programming language",
+    "stars": 1542,
+    "active": true
+  },
+  {
+    "name": "RayQL",
+    "url": "https://github.com/harshdoesdev/rayql",
+    "description": "RayQL is a schema definition and query language for SQLite",
+    "stars": 48,
+    "active": true
+  },
+  {
+    "name": "Mastermind",
+    "url": "https://github.com/Heathcorp/Mastermind",
+    "description": "A custom programming language which compiles to the well-known esolang \"Brainfuck\".",
+    "stars": 5,
+    "active": true
+  },
+  {
+    "name": "tpl-lang",
+    "url": "https://github.com/mealet/tpl-lang",
+    "description": "Stupid Programming Language based on LLVM in Rust",
+    "stars": 8,
+    "active": true
+  }
 ]
