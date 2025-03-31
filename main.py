@@ -203,7 +203,7 @@ if __name__ == "__main__":
 
     try:
         if len(sys.argv) != 2:
-            print("usage: python update.py [api] [readme]")
+            print("usage: uv run main.py [api] [readme]")
             exit(1)
         elif sys.argv[1] == "readme":
             write_readme()
@@ -218,3 +218,4 @@ if __name__ == "__main__":
     except Exception as ex:
         print(f"error: {ex}")
         exit(1)
+

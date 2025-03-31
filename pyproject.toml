@@ -1,0 +1,11 @@
+[project]
+name = "langs-in-rust"
+version = "0.1.0"
+description = "Update list of languages"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "python-dotenv>=1.1.0",
+    "requests>=2.32.3",
+]
+

@@ -24,7 +24,6 @@ Then it can be included in this list!
 | [RustPython] | 19,534 | ☀️ Active | A Python Interpreter written in Rust |
 | [Gleam] | 18,641 | ☀️ Active | ⭐️ A friendly language for building type-safe, scalable systems! |
 | [Lightning CSS] | 6,751 | ☀️ Active | An extremely fast CSS parser, transformer, bundler, and minifier written in Rust. |
-| [Parcel CSS] | 6,751 | ☀️ Active | An extremely fast CSS parser, transformer, bundler, and minifier written in Rust. |
 | [Boa] | 5,397 | ☀️ Active | Boa is an embeddable and experimental Javascript engine written in Rust. Currently, it has support for some of the language. |
 | [Winglang] | 5,117 | ☀️ Active | A programming language for the cloud ☁️ A unified programming model, combining infrastructure and runtime code into one language ⚡ |
 | [Leo] | 4,802 | ☀️ Active | 🦁 The Leo Programming Language. A Programming Language for Formally Verified, Zero-Knowledge Applications |
@@ -37,6 +36,7 @@ Then it can be included in this list!
 | [Erg] | 2,734 | ☀️ Active | A statically typed language compatible with Python |
 | [Nickel] | 2,479 | ☀️ Active | Better configuration for less |
 | [Scryer Prolog] | 2,133 | ☀️ Active | A modern Prolog implementation written mostly in Rust. |
+| [Chap] | 2,017 | ☀️ Active | A Left to right keywordless dynamically typed scripting language |
 | [Mun] | 1,933 | ☀️ Active | Source code for the Mun language and runtime. |
 | [Ante] | 1,932 | ☀️ Active | A safe, easy systems language |
 | [KCL] | 1,841 | ☀️ Active | KCL Programming Language (CNCF Sandbox Project). https://kcl-lang.io |
@@ -229,7 +229,6 @@ broader than a programming language project.
 [🌌]: https://github.com/mrozycki/space-lang
 [Arn]: https://github.com/ZippyMagician/Arn
 [minipyth]: https://github.com/isaacg1/minipyth
-[Parcel CSS]: https://github.com/parcel-bundler/parcel-css
 [Scryer Prolog]: https://github.com/mthom/scryer-prolog
 [CalcuLaTeX]: https://github.com/mkhan45/CalcuLaTeX
 [RustPython]: https://github.com/RustPython/RustPython
@@ -278,3 +277,4 @@ broader than a programming language project.
 [RayQL]: https://github.com/harshdoesdev/rayql
 [Mastermind]: https://github.com/Heathcorp/Mastermind
 [tpl-lang]: https://github.com/mealet/tpl-lang
+[Chap]: https://github.com/ali77gh/Chap

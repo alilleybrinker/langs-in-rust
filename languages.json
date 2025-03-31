@@ -894,5 +894,12 @@
         "description": "\ud83e\udd80 Toy Language based on LLVM",
         "stars": 21,
         "active": true
+    },
+    {
+        "name": "Chap",
+        "url": "https://github.com/ali77gh/Chap",
+        "description": "A Left to right keywordless dynamically typed scripting language",
+        "stars": 2017,
+        "active": true
     }
 ]

@@ -1,2 +1,0 @@
-python_dotenv == 0.19.2
-requests == 2.31.0
