@@ -560,13 +560,6 @@
         "active": false
     },
     {
-        "name": "Parcel CSS",
-        "url": "https://github.com/parcel-bundler/parcel-css",
-        "description": "An extremely fast CSS parser, transformer, bundler, and minifier written in Rust.",
-        "stars": 6751,
-        "active": true
-    },
-    {
         "name": "Scryer Prolog",
         "url": "https://github.com/mthom/scryer-prolog",
         "description": "A modern Prolog implementation written mostly in Rust.",
