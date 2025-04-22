@@ -52,6 +52,7 @@ Then it can be included in this list!
 | [Koto] | 578 | ☀️ Active | A simple, expressive, embeddable programming language |
 | [Veryl] | 564 | ☀️ Active | Veryl: A Modern Hardware Description Language |
 | [Duckscript] | 537 | ☀️ Active | Simple, extendable and embeddable scripting language. |
+| [fastn] | 471 | ☀️ Active | An easy-to-learn, open-source solution for building modern content-centric and database-driven websites. |
 | [jsparagus] | 451 | ☀️ Active | Experimental JS parser-generator project. |
 | [Lurk] | 438 | ☀️ Active | Lurk is a Turing-complete programming language for recursive zk-SNARKs. This is the prior, elliptic curve based variant of Lurk (contact: @porcuquine) |
 | [EndBASIC] | 331 | ☀️ Active | BASIC environment with a REPL, a web interface, a graphical console, and RPi support written in Rust |
@@ -149,6 +150,7 @@ Then it can be included in this list!
 is a small part. The "stars" number here reflects the whole project, which is
 broader than a programming language project.
 
+[fastn]: https://github.com/fastn-stack/fastn
 [Dyon]: https://github.com/pistondevelopers/dyon
 [Ketos]: https://github.com/murarth/ketos
 [Rhai]: https://github.com/jonathandturner/rhai
