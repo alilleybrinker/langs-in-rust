@@ -1,5 +1,12 @@
 [
     {
+        "name": "fastn",
+        "url": "https://github.com/fastn-stack/fastn",
+        "description": "An easy-to-learn, open-source solution for building modern content-centric and database-driven websites.",
+        "stars": 471,
+        "active": true
+    },
+    {
         "name": "Dyon",
         "url": "https://github.com/pistondevelopers/dyon",
         "description": "A rusty dynamically typed scripting language",
