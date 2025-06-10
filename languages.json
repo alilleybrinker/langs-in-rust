@@ -908,5 +908,12 @@
         "description": "A Left to right keywordless dynamically typed scripting language",
         "stars": 2017,
         "active": true
+    },
+    {
+        "name": "Xylo",
+        "url": "https://github.com/giraffekey/xylo",
+        "description": "Xylo is a functional programming language for procedural art",
+        "stars": 47,
+        "active": true
     }
 ]
