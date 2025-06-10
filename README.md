@@ -64,6 +64,7 @@ Then it can be included in this list!
 | [darklua] | 107 | ☀️ Active | A command line tool that transforms Lua code |
 | [Laythe] | 64 | ☀️ Active | A gradually typed language originally based on the crafting interpreters series  |
 | [RayQL] | 53 | ☀️ Active | RayQL is a schema definition and query language for SQLite |
+| [Xylo] | 47 | ☀️ Active | Xylo is a functional programming language for procedural art |
 | [Ellie] | 44 | ☀️ Active | Ellie is a type-safe programing language that runs on embedded and sandboxed environments. |
 | [tpl-lang] | 21 | ☀️ Active | 🦀 Toy Language based on LLVM |
 | [Cyrus Lang] | 20 | ☀️ Active | Cyrus: A high-performance, statically-typed, manually memory-managed and procedural programming language empowered by GCCJIT. |
@@ -280,3 +281,4 @@ broader than a programming language project.
 [Mastermind]: https://github.com/Heathcorp/Mastermind
 [tpl-lang]: https://github.com/mealet/tpl-lang
 [Chap]: https://github.com/ali77gh/Chap
+[Xylo]: https://github.com/giraffekey/xylo
