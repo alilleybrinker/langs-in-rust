@@ -915,5 +915,12 @@
         "description": "Xylo is a functional programming language for procedural art",
         "stars": 47,
         "active": true
+    },
+    {
+        "name": "Roto",
+        "url": "https://github.com/NLnetLabs/roto",
+        "description": "The strongly-typed, compiled embedded scripting language for Rust, used by Rotonda.",
+        "stars": 318,
+        "active": true
     }
 ]

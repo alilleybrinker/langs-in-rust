@@ -57,6 +57,7 @@ Then it can be included in this list!
 | [Lurk] | 438 | ☀️ Active | Lurk is a Turing-complete programming language for recursive zk-SNARKs. This is the prior, elliptic curve based variant of Lurk (contact: @porcuquine) |
 | [EndBASIC] | 331 | ☀️ Active | BASIC environment with a REPL, a web interface, a graphical console, and RPi support written in Rust |
 | [candy] | 327 | ☀️ Active | 🍭 A sweet, functional programming language that is robust, minimalistic, and expressive. |
+| [Roto] | 318 | ☀️ Active | The strongly-typed, compiled embedded scripting language for Rust, used by Rotonda. |
 | [Loxcraft] | 287 | ☀️ Active | Language tooling for the Lox programming language. |
 | [Tokay] | 242 | ☀️ Active | Tokay is a programming language designed for ad-hoc parsing, inspired by awk. |
 | [Antimony] | 146 | ☀️ Active | The Antimony programming language |
@@ -282,3 +283,4 @@ broader than a programming language project.
 [tpl-lang]: https://github.com/mealet/tpl-lang
 [Chap]: https://github.com/ali77gh/Chap
 [Xylo]: https://github.com/giraffekey/xylo
+[Roto]: https://github.com/NLnetLabs/roto
