@@ -74,6 +74,7 @@ Then it can be included in this list!
 | [snow-lang] | 12 | ☀️ Active | A functional programming language |
 | [Mastermind] | 8 | ☀️ Active | A custom programming language which compiles to the well-known esolang "Brainfuck". |
 | [rusch] | 2 | ☀️ Active | Minimal Scheme implemented in Rust |
+| [GLang] | 0 | ☀️ Active | 🐶 Dog based, easy to learn language for complete beginners |
 | [Move] | 2,284 | 🌙 Inactive | None |
 | [Dyon] | 1,798 | 🌙 Inactive | A rusty dynamically typed scripting language |
 | [goscript] | 1,534 | 🌙 Inactive | An alternative implementation of Golang specs, written in Rust for embedding or wrapping. |
@@ -284,3 +285,4 @@ broader than a programming language project.
 [Chap]: https://github.com/ali77gh/Chap
 [Xylo]: https://github.com/giraffekey/xylo
 [Roto]: https://github.com/NLnetLabs/roto
+[GLang]: https://github.com/mpsoftwarefoundation/GeorgeLanguage

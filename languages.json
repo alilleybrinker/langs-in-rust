@@ -922,5 +922,12 @@
         "description": "The strongly-typed, compiled embedded scripting language for Rust, used by Rotonda.",
         "stars": 318,
         "active": true
+    },
+    {
+        "name": "GLang",
+        "url": "https://github.com/mpsoftwarefoundation/GeorgeLanguage",
+        "description": "🐶 Dog based, easy to learn language for complete beginners.",
+        "stars": 0,
+        "active": true
     }
 ]
