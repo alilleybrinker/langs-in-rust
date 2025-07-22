@@ -929,5 +929,12 @@
         "description": "🐶 Dog based, easy to learn language for complete beginners.",
         "stars": 0,
         "active": true
+    },
+    {
+        "name": "Watt",
+        "url": "https://github.com/vyacheslavhere/watt",
+        "description": "🍹 Lightweight, dynamically typed, simple scripting programming language."
+        "stars": 18,
+        "active": true
     }
 ]
