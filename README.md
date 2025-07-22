@@ -70,6 +70,7 @@ Then it can be included in this list!
 | [tpl-lang] | 21 | ☀️ Active | 🦀 Toy Language based on LLVM |
 | [Cyrus Lang] | 20 | ☀️ Active | Cyrus: A high-performance, statically-typed, manually memory-managed and procedural programming language empowered by GCCJIT. |
 | [Wright] | 19 | ☀️ Active | The wright programming language (WIP) |
+| [Watt] | 18 | ☀️ Active | 🍹 Lightweight, dynamically typed, simple scripting programming language. | 
 | [Nukleus] | 16 | ☀️ Active | Simple and fast Dynamic Modular Structure-based AI, GUI, Cross-Platform  Programming Language  |
 | [snow-lang] | 12 | ☀️ Active | A functional programming language |
 | [Mastermind] | 8 | ☀️ Active | A custom programming language which compiles to the well-known esolang "Brainfuck". |
@@ -273,6 +274,7 @@ broader than a programming language project.
 [diatom]: https://github.com/diatom-lang/diatom
 [darklua]: https://github.com/seaofvoices/darklua
 [Tvix]: https://github.com/tvlfyi/tvix
+[Watt]: https://github.com/vyacheslavhere/watt
 [Tron]: https://github.com/418e/Tron
 [Nukleus]: https://github.com/Nukleus-Language/nukleus
 [snow-lang]: https://github.com/cowboy8625/snow-lang
