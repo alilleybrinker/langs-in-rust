@@ -936,5 +936,12 @@
         "description": "🍹 Lightweight, dynamically typed, simple scripting programming language."
         "stars": 18,
         "active": true
+    },
+    {
+        "name": "Adept3x",
+        "url": "https://github.com/IsaacShelton/Adept3x",
+        "description": "A language designed to help maximize developer productivity and safety"
+        "stars": 7,
+        "active": true
     }
 ]
