@@ -933,14 +933,21 @@
     {
         "name": "Watt",
         "url": "https://github.com/vyacheslavhere/watt",
-        "description": "🍹 Lightweight, dynamically typed, simple scripting programming language."
+        "description": "🍹 Lightweight, dynamically typed, simple scripting programming language.",
         "stars": 18,
+        "active": true
+    },
+    {
+        "name": "Skillet",
+        "url": "https://github.com/zenbakiak/skillet",
+        "description": "🥘 Blazing-fast formula language & engine to perform calculations with familiar Excel formula syntax.",
+        "stars": 5,
         "active": true
     },
     {
         "name": "Adept3x",
         "url": "https://github.com/IsaacShelton/Adept3x",
-        "description": "A language designed to help maximize developer productivity and safety"
+        "description": "A language designed to help maximize developer productivity and safety",
         "stars": 7,
         "active": true
     }
