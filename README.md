@@ -70,13 +70,14 @@ Then it can be included in this list!
 | [tpl-lang] | 21 | ☀️ Active | 🦀 Toy Language based on LLVM |
 | [Cyrus Lang] | 20 | ☀️ Active | Cyrus: A high-performance, statically-typed, manually memory-managed and procedural programming language empowered by GCCJIT. |
 | [Wright] | 19 | ☀️ Active | The wright programming language (WIP) |
-| [Watt] | 18 | ☀️ Active | 🍹 Lightweight, dynamically typed, simple scripting programming language. | 
-| [Adept3x] | 7 | ☀️ Active | A language designed to help maximize developer productivity and safety | 
+| [Watt] | 18 | ☀️ Active | 🍹 Lightweight, dynamically typed, simple scripting programming language. |
+| [Adept3x] | 7 | ☀️ Active | A language designed to help maximize developer productivity and safety |
 | [Nukleus] | 16 | ☀️ Active | Simple and fast Dynamic Modular Structure-based AI, GUI, Cross-Platform  Programming Language  |
 | [snow-lang] | 12 | ☀️ Active | A functional programming language |
 | [Mastermind] | 8 | ☀️ Active | A custom programming language which compiles to the well-known esolang "Brainfuck". |
 | [rusch] | 2 | ☀️ Active | Minimal Scheme implemented in Rust |
 | [GLang] | 0 | ☀️ Active | 🐶 Dog based, easy to learn language for complete beginners |
+| [Skillet] | 5 | ☀️ Active | 🥘 Blazing-fast formula language & engine to perform calculations with familiar Excel formula syntax. |
 | [Move] | 2,284 | 🌙 Inactive | None |
 | [Dyon] | 1,798 | 🌙 Inactive | A rusty dynamically typed scripting language |
 | [goscript] | 1,534 | 🌙 Inactive | An alternative implementation of Golang specs, written in Rust for embedding or wrapping. |
@@ -290,3 +291,4 @@ broader than a programming language project.
 [Xylo]: https://github.com/giraffekey/xylo
 [Roto]: https://github.com/NLnetLabs/roto
 [GLang]: https://github.com/mpsoftwarefoundation/GeorgeLanguage
+[Skillet]: https://github.com/zenbakiak/skillet
