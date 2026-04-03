@@ -47,9 +47,9 @@ Then it can be included in this list!
 | [frawk] | 1,261 | ☀️ Active | an efficient awk-like language |
 | [Passerine] | 1,065 | ☀️ Active | A small extensible programming language designed for concise expression with little code. |
 | [Inko] | 933 | ☀️ Active | A language for building concurrent software with confidence |
+| [Koto] | 817 | ☀️ Active | A simple, expressive, embeddable programming language |
 | [Tvix] | 754 | ☀️ Active | Tvix - A Rust implementation of Nix. Read-only mirror of https://code.tvl.fyi/tree/tvix |
 | [Starlark] | 750 | ☀️ Active | A Rust implementation of the Starlark language |
-| [Koto] | 578 | ☀️ Active | A simple, expressive, embeddable programming language |
 | [Veryl] | 564 | ☀️ Active | Veryl: A Modern Hardware Description Language |
 | [Duckscript] | 537 | ☀️ Active | Simple, extendable and embeddable scripting language. |
 | [fastn] | 471 | ☀️ Active | An easy-to-learn, open-source solution for building modern content-centric and database-driven websites. |
