@@ -76,6 +76,7 @@ Then it can be included in this list!
 | [snow-lang] | 12 | ☀️ Active | A functional programming language |
 | [Mastermind] | 8 | ☀️ Active | A custom programming language which compiles to the well-known esolang "Brainfuck". |
 | [rusch] | 2 | ☀️ Active | Minimal Scheme implemented in Rust |
+| [Lateralus] | 2 | ☀️ Active | A pipeline-native programming language with pattern matching, ADTs, type inference, borrow checking, and multiple backends (C, LLVM, WASM). |
 | [GLang] | 0 | ☀️ Active | 🐶 Dog based, easy to learn language for complete beginners |
 | [Skillet] | 5 | ☀️ Active | 🥘 Blazing-fast formula language & engine to perform calculations with familiar Excel formula syntax. |
 | [Move] | 2,284 | 🌙 Inactive | None |
@@ -210,6 +211,7 @@ broader than a programming language project.
 [loxr]: https://github.com/HarveyHunt/loxr
 [lox-rs]: https://github.com/jeschkies/lox-rs
 [Laythe]: https://github.com/Laythe-lang/Laythe
+[Lateralus]: https://github.com/bad-antics/lateralus-lang
 [tox]: https://github.com/Lapz/tox
 [loxidation]: https://github.com/LevitatingBusinessMan/Loxidation
 [rulox]: https://github.com/mariosangiorgio/rulox
