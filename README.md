@@ -61,6 +61,7 @@ Then it can be included in this list!
 | [Loxcraft] | 287 | ☀️ Active | Language tooling for the Lox programming language. |
 | [Tokay] | 242 | ☀️ Active | Tokay is a programming language designed for ad-hoc parsing, inspired by awk. |
 | [Antimony] | 146 | ☀️ Active | The Antimony programming language |
+| [Duck] | 145 | ☀️ Active | The duck programming language for webdev |
 | [Calcit] | 119 | ☀️ Active | Indentation-based ClojureScript dialect in Rust and compiling to JavaScript ES Modules |
 | [darklua] | 107 | ☀️ Active | A command line tool that transforms Lua code |
 | [Laythe] | 64 | ☀️ Active | A gradually typed language originally based on the crafting interpreters series  |
@@ -294,3 +295,4 @@ broader than a programming language project.
 [Roto]: https://github.com/NLnetLabs/roto
 [GLang]: https://github.com/mpsoftwarefoundation/GeorgeLanguage
 [Skillet]: https://github.com/zenbakiak/skillet
+[Duck]: https://github.com/duck-compiler/duckc
