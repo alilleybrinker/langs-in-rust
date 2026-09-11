@@ -950,5 +950,12 @@
         "description": "A language designed to help maximize developer productivity and safety",
         "stars": 7,
         "active": true
+    },
+    {
+        "name": "mimas",
+        "url": "https://github.com/imlazyeye/mimas",
+        "description": "A flexible, statically typed scripting language for Rust.",
+        "stars": 26,
+        "active": true
     }
 ]

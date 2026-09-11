@@ -80,6 +80,7 @@ Then it can be included in this list!
 | [GLang] | 0 | ☀️ Active | 🐶 Dog based, easy to learn language for complete beginners |
 | [Skillet] | 5 | ☀️ Active | 🥘 Blazing-fast formula language & engine to perform calculations with familiar Excel formula syntax. |
 | [Rak] | 0 | ☀️ Active | A general purpose programming language mainly made for cyber security usage. |
+| [mimas] | 26 | ☀️ Active | A flexible, statically typed scripting language for Rust. |
 | [Move] | 2,284 | 🌙 Inactive | None |
 | [Dyon] | 1,798 | 🌙 Inactive | A rusty dynamically typed scripting language |
 | [goscript] | 1,534 | 🌙 Inactive | An alternative implementation of Golang specs, written in Rust for embedding or wrapping. |
@@ -296,3 +297,4 @@ broader than a programming language project.
 [GLang]: https://github.com/mpsoftwarefoundation/GeorgeLanguage
 [Skillet]: https://github.com/zenbakiak/skillet
 [Rak]: https://github.com/louiml/rak
+[mimas]: https://github.com/imlazyeye/mimas
