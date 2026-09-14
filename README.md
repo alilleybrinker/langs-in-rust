@@ -60,6 +60,7 @@ Then it can be included in this list!
 | [Roto] | 318 | ☀️ Active | The strongly-typed, compiled embedded scripting language for Rust, used by Rotonda. |
 | [Loxcraft] | 287 | ☀️ Active | Language tooling for the Lox programming language. |
 | [Tokay] | 242 | ☀️ Active | Tokay is a programming language designed for ad-hoc parsing, inspired by awk. |
+| [Whispem] | 147 | ☀️ Active | A small self-hosted language: the compiler is written in Whispem, compiles itself, and runs on a standalone C VM. Rust is the reference implementation. |
 | [Antimony] | 146 | ☀️ Active | The Antimony programming language |
 | [Calcit] | 119 | ☀️ Active | Indentation-based ClojureScript dialect in Rust and compiling to JavaScript ES Modules |
 | [darklua] | 107 | ☀️ Active | A command line tool that transforms Lua code |
@@ -159,6 +160,7 @@ Then it can be included in this list!
 is a small part. The "stars" number here reflects the whole project, which is
 broader than a programming language project.
 
+[Whispem]: https://github.com/whispem/whispem-lang
 [fastn]: https://github.com/fastn-stack/fastn
 [Dyon]: https://github.com/pistondevelopers/dyon
 [Ketos]: https://github.com/murarth/ketos
