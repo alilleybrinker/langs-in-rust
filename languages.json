@@ -971,5 +971,68 @@
         "description": "A flexible, statically typed scripting language for Rust.",
         "stars": 26,
         "active": true
+    },
+    {
+        "name": "KASM",
+        "url": "https://github.com/newcomb-luke/kOS-KASM",
+        "description": "Kerbal Assembler, for use with Kerbal OS mod for Kerbal Space Program. Using this tool one can program their KSP rockets in assembly code, or generate this assembly code from a compiler. Assembles directly to kRISC with no need for KerboScript.",
+        "stars": 20,
+        "active": true
+    },
+    {
+        "name": "moor",
+        "url": "https://github.com/timbran-project/moor",
+        "description": " A system for building shared, programmable, online spaces. Compatible with LambdaMOO. Built for the future.",
+        "stars": 219,
+        "active": true
+    },
+    {
+        "name": "sage",
+        "url": "https://github.com/adam-mcdaniel/sage",
+        "description": "A programming language that's wise beyond its bytes!\ud83c\udf31\ud83c\udf3f\ud83e\udeb4",
+        "stars": 554,
+        "active": true
+    },
+    {
+        "name": "Wander",
+        "url": "https://github.com/almibe/wander-rs",
+        "description": "The Wander programming language implemented in Rust.",
+        "stars": 0,
+        "active": false
+    },
+    {
+        "name": "Lisette",
+        "url": "https://github.com/ivov/lisette",
+        "description": "A little language inspired by Rust that compiles to Go",
+        "stars": 1499,
+        "active": true
+    },
+    {
+        "name": "Lunacy",
+        "url": "https://github.com/chc4/lunacy",
+        "description": "Lua 5.1 LBBV bytecode interpreter + JIT in Rust",
+        "stars": 25,
+        "active": true
+    },
+    {
+        "name": "Goblin",
+        "url": "https://github.com/ddonche/goblin-lang",
+        "description": "Goblin programming language",
+        "stars": 2,
+        "active": true
+    },
+    {
+        "name": "Bun",
+        "url": "https://github.com/oven-sh/bun",
+        "description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager \u2013 all in one",
+        "stars": 95980,
+        "active": true
+    },
+    {
+        "name": "Lust",
+        "url": "https://github.com/ArchangelJTW/lust-lang",
+        "description": "A Lua-like strictly typed scripting language written in Rust",
+        "stars": 5,
+        "active": true
     }
 ]
