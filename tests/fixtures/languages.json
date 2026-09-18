@@ -1,0 +1,51 @@
+[
+    {
+        "name": "Sway",
+        "url": "https://github.com/FuelLabs/sway",
+        "description": "\ud83c\udf34 Empowering everyone to build reliable and efficient smart contracts.",
+        "stars": 62462,
+        "active": true
+    },
+    {
+        "name": "Gleam",
+        "url": "https://github.com/gleam-lang/gleam",
+        "description": "\u2b50\ufe0f A friendly language for building type-safe, scalable systems!",
+        "stars": 18641,
+        "active": true
+    },
+    {
+        "name": "Move",
+        "url": "https://github.com/move-language/move",
+        "description": null,
+        "stars": 2284,
+        "active": false
+    },
+    {
+        "name": "tie",
+        "url": "https://github.com/example/tie",
+        "description": "Same star count as the next one, listed first.",
+        "stars": 7,
+        "active": true
+    },
+    {
+        "name": "tied",
+        "url": "https://github.com/example/tied",
+        "description": "Same star count as the previous one, listed second.",
+        "stars": 7,
+        "active": true
+    },
+    {
+        "name": "Dyon",
+        "url": "https://github.com/pistondevelopers/dyon",
+        "description": "A rusty dynamically typed scripting language",
+        "stars": 1798,
+        "active": false
+    },
+    {
+        "name": "elsewhere",
+        "url": "https://gitlab.com/example/elsewhere",
+        "description": "Not hosted on GitHub, so the API step leaves it alone.",
+        "stars": 0,
+        "active": false
+    }
+]

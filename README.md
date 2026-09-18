@@ -17,6 +17,7 @@ Then it can be included in this list!
 |:-----|:---------|:-----------|:-----------|
 | [Deno] | 101,364 | ☀️ Active | A modern runtime for JavaScript and TypeScript. |
 | [Rust] | 100,852 | ☀️ Active | Empowering everyone to build reliable and efficient software. |
+| [Bun] | 95,980 | ☀️ Active | Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one |
 | [Sway] | 62,462 | ☀️ Active | 🌴 Empowering everyone to build reliable and efficient smart contracts. |
 | [Typst] | 37,086 | ☀️ Active | A new markup-based typesetting system that is powerful and easy to learn. |
 | [nu] | 33,643 | ☀️ Active | A new type of shell |
@@ -43,6 +44,7 @@ Then it can be included in this list!
 | [Rune] | 1,836 | ☀️ Active | An embeddable dynamic programming language for Rust. |
 | [Uiua] | 1,725 | ☀️ Active | A stack-based array programming language |
 | [Fe] | 1,643 | ☀️ Active | Emerging smart contract language for the Ethereum blockchain. |
+| [Lisette] | 1,499 | ☀️ Active | A little language inspired by Rust that compiles to Go |
 | [Steel] | 1,456 | ☀️ Active | An embedded scheme interpreter in Rust |
 | [frawk] | 1,261 | ☀️ Active | an efficient awk-like language |
 | [Passerine] | 1,065 | ☀️ Active | A small extensible programming language designed for concise expression with little code. |
@@ -51,6 +53,7 @@ Then it can be included in this list!
 | [Tvix] | 754 | ☀️ Active | Tvix - A Rust implementation of Nix. Read-only mirror of https://code.tvl.fyi/tree/tvix |
 | [Starlark] | 750 | ☀️ Active | A Rust implementation of the Starlark language |
 | [Veryl] | 564 | ☀️ Active | Veryl: A Modern Hardware Description Language |
+| [sage] | 554 | ☀️ Active | A programming language that's wise beyond its bytes!🌱🌿🪴 |
 | [Duckscript] | 537 | ☀️ Active | Simple, extendable and embeddable scripting language. |
 | [fastn] | 471 | ☀️ Active | An easy-to-learn, open-source solution for building modern content-centric and database-driven websites. |
 | [jsparagus] | 451 | ☀️ Active | Experimental JS parser-generator project. |
@@ -60,6 +63,7 @@ Then it can be included in this list!
 | [Roto] | 318 | ☀️ Active | The strongly-typed, compiled embedded scripting language for Rust, used by Rotonda. |
 | [Loxcraft] | 287 | ☀️ Active | Language tooling for the Lox programming language. |
 | [Tokay] | 242 | ☀️ Active | Tokay is a programming language designed for ad-hoc parsing, inspired by awk. |
+| [moor] | 219 | ☀️ Active |  A system for building shared, programmable, online spaces. Compatible with LambdaMOO. Built for the future. |
 | [Antimony] | 146 | ☀️ Active | The Antimony programming language |
 | [Calcit] | 119 | ☀️ Active | Indentation-based ClojureScript dialect in Rust and compiling to JavaScript ES Modules |
 | [darklua] | 107 | ☀️ Active | A command line tool that transforms Lua code |
@@ -67,20 +71,24 @@ Then it can be included in this list!
 | [RayQL] | 53 | ☀️ Active | RayQL is a schema definition and query language for SQLite |
 | [Xylo] | 47 | ☀️ Active | Xylo is a functional programming language for procedural art |
 | [Ellie] | 44 | ☀️ Active | Ellie is a type-safe programing language that runs on embedded and sandboxed environments. |
+| [mimas] | 26 | ☀️ Active | A flexible, statically typed scripting language for Rust. |
+| [Lunacy] | 25 | ☀️ Active | Lua 5.1 LBBV bytecode interpreter + JIT in Rust |
 | [tpl-lang] | 21 | ☀️ Active | 🦀 Toy Language based on LLVM |
 | [Cyrus Lang] | 20 | ☀️ Active | Cyrus: A high-performance, statically-typed, manually memory-managed and procedural programming language empowered by GCCJIT. |
+| [KASM] | 20 | ☀️ Active | Kerbal Assembler, for use with Kerbal OS mod for Kerbal Space Program. Using this tool one can program their KSP rockets in assembly code, or generate this assembly code from a compiler. Assembles directly to kRISC with no need for KerboScript. |
 | [Wright] | 19 | ☀️ Active | The wright programming language (WIP) |
 | [Watt] | 18 | ☀️ Active | 🍹 Lightweight, dynamically typed, simple scripting programming language. |
-| [Adept3x] | 7 | ☀️ Active | A language designed to help maximize developer productivity and safety |
 | [Nukleus] | 16 | ☀️ Active | Simple and fast Dynamic Modular Structure-based AI, GUI, Cross-Platform  Programming Language  |
 | [snow-lang] | 12 | ☀️ Active | A functional programming language |
 | [Mastermind] | 8 | ☀️ Active | A custom programming language which compiles to the well-known esolang "Brainfuck". |
-| [rusch] | 2 | ☀️ Active | Minimal Scheme implemented in Rust |
-| [Lateralus] | 2 | ☀️ Active | A pipeline-native programming language with pattern matching, ADTs, type inference, borrow checking, and multiple backends (C, LLVM, WASM). |
-| [GLang] | 0 | ☀️ Active | 🐶 Dog based, easy to learn language for complete beginners |
+| [Adept3x] | 7 | ☀️ Active | A language designed to help maximize developer productivity and safety |
 | [Skillet] | 5 | ☀️ Active | 🥘 Blazing-fast formula language & engine to perform calculations with familiar Excel formula syntax. |
+| [Lust] | 5 | ☀️ Active | A Lua-like strictly typed scripting language written in Rust |
+| [Lateralus] | 2 | ☀️ Active | A pipeline-native programming language with pattern matching, ADTs, type inference, borrow checking, and multiple backends (C, LLVM, WASM). |
+| [rusch] | 2 | ☀️ Active | Minimal Scheme implemented in Rust |
+| [Goblin] | 2 | ☀️ Active | Goblin programming language |
+| [GLang] | 0 | ☀️ Active | 🐶 Dog based, easy to learn language for complete beginners. |
 | [Rak] | 0 | ☀️ Active | A general purpose programming language mainly made for cyber security usage. |
-| [mimas] | 26 | ☀️ Active | A flexible, statically typed scripting language for Rust. |
 | [Move] | 2,284 | 🌙 Inactive | None |
 | [Dyon] | 1,798 | 🌙 Inactive | A rusty dynamically typed scripting language |
 | [goscript] | 1,534 | 🌙 Inactive | An alternative implementation of Golang specs, written in Rust for embedding or wrapping. |
@@ -154,6 +162,7 @@ Then it can be included in this list!
 | [rtforth] | 1 | 🌙 Inactive | Forth implemented in Rust for realtime application |
 | [nt591/lox-rust] | 1 | 🌙 Inactive | A Rust implementation of the Crafting Interpreters bytecode VM |
 | [Tron] | 0 | 🌙 Inactive | Statically typed general purpose programming language |
+| [Wander] | 0 | 🌙 Inactive | The Wander programming language implemented in Rust. |
 
 *: Parcel is a large project of which the JavaScript transformer (written in Rust)
 is a small part. The "stars" number here reflects the whole project, which is
@@ -280,8 +289,6 @@ broader than a programming language project.
 [diatom]: https://github.com/diatom-lang/diatom
 [darklua]: https://github.com/seaofvoices/darklua
 [Tvix]: https://github.com/tvlfyi/tvix
-[Watt]: https://github.com/vyacheslavhere/watt
-[Adept3x]: https://github.com/IsaacShelton/Adept3x
 [Tron]: https://github.com/418e/Tron
 [Nukleus]: https://github.com/Nukleus-Language/nukleus
 [snow-lang]: https://github.com/cowboy8625/snow-lang
@@ -295,6 +302,17 @@ broader than a programming language project.
 [Xylo]: https://github.com/giraffekey/xylo
 [Roto]: https://github.com/NLnetLabs/roto
 [GLang]: https://github.com/mpsoftwarefoundation/GeorgeLanguage
+[Watt]: https://github.com/vyacheslavhere/watt
 [Skillet]: https://github.com/zenbakiak/skillet
+[Adept3x]: https://github.com/IsaacShelton/Adept3x
 [Rak]: https://github.com/louiml/rak
 [mimas]: https://github.com/imlazyeye/mimas
+[KASM]: https://github.com/newcomb-luke/kOS-KASM
+[moor]: https://github.com/timbran-project/moor
+[sage]: https://github.com/adam-mcdaniel/sage
+[Wander]: https://github.com/almibe/wander-rs
+[Lisette]: https://github.com/ivov/lisette
+[Lunacy]: https://github.com/chc4/lunacy
+[Goblin]: https://github.com/ddonche/goblin-lang
+[Bun]: https://github.com/oven-sh/bun
+[Lust]: https://github.com/ArchangelJTW/lust-lang
