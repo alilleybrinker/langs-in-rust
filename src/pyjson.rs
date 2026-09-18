@@ -1,10 +1,10 @@
 //! Serializing JSON the way Python's `json` module does.
 //!
-//! `languages.json` is checked in, so the Rust tool has to write it exactly
-//! the way `main.py` did: four-space indentation (`json.dump(..., indent=4)`)
-//! and non-ASCII characters escaped as `\uXXXX` (`ensure_ascii=True`, which is
-//! the default). Without the second part, every emoji in a description would
-//! show up as a diff the first time the Rust tool ran.
+//! `languages.json` is checked in, and for years it was written by a Python
+//! tool: four-space indentation (`json.dump(..., indent=4)`) with non-ASCII
+//! characters escaped as `\uXXXX` (`ensure_ascii=True`, the default). Keeping
+//! that format is what makes rewriting the file show only the entries that
+//! actually changed, instead of every line holding an emoji.
 
 use std::io::{self, Write};
 
