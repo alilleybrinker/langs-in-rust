@@ -1,0 +1,14 @@
+[package]
+name = "langs-in-rust"
+version = "0.1.0"
+edition = "2021"
+description = "Update the list of languages written in Rust"
+readme = "README.md"
+publish = false
+
+[dependencies]
+chrono = { version = "0.4", default-features = false, features = ["std", "clock", "serde"] }
+dotenvy = "0.15"
+serde = { version = "1", features = ["derive"] }
+serde_json = "1"
+ureq = { version = "3", features = ["json", "platform-verifier"] }
