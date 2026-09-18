@@ -213,7 +213,7 @@
         "name": "Koto",
         "url": "https://github.com/koto-lang/koto",
         "description": "A simple, expressive, embeddable programming language",
-        "stars": 578,
+        "stars": 817,
         "active": true
     },
     {
@@ -375,6 +375,13 @@
         "url": "https://github.com/Laythe-lang/Laythe",
         "description": "A gradually typed language originally based on the crafting interpreters series ",
         "stars": 64,
+        "active": true
+    },
+    {
+        "name": "Lateralus",
+        "url": "https://github.com/bad-antics/lateralus-lang",
+        "description": "A pipeline-native programming language with pattern matching, ADTs, type inference, borrow checking, and multiple backends (C, LLVM, WASM).",
+        "stars": 2,
         "active": true
     },
     {
@@ -926,21 +933,21 @@
     {
         "name": "GLang",
         "url": "https://github.com/mpsoftwarefoundation/GeorgeLanguage",
-        "description": "🐶 Dog based, easy to learn language for complete beginners.",
+        "description": "\ud83d\udc36 Dog based, easy to learn language for complete beginners.",
         "stars": 0,
         "active": true
     },
     {
         "name": "Watt",
         "url": "https://github.com/vyacheslavhere/watt",
-        "description": "🍹 Lightweight, dynamically typed, simple scripting programming language.",
+        "description": "\ud83c\udf79 Lightweight, dynamically typed, simple scripting programming language.",
         "stars": 18,
         "active": true
     },
     {
         "name": "Skillet",
         "url": "https://github.com/zenbakiak/skillet",
-        "description": "🥘 Blazing-fast formula language & engine to perform calculations with familiar Excel formula syntax.",
+        "description": "\ud83e\udd58 Blazing-fast formula language & engine to perform calculations with familiar Excel formula syntax.",
         "stars": 5,
         "active": true
     },
@@ -949,6 +956,13 @@
         "url": "https://github.com/IsaacShelton/Adept3x",
         "description": "A language designed to help maximize developer productivity and safety",
         "stars": 7,
+        "active": true
+    },
+    {
+        "name": "Rak",
+        "url": "https://github.com/louiml/rak",
+        "description": "A general purpose programming language mainly made for cyber security usage.",
+        "stars": 0,
         "active": true
     },
     {

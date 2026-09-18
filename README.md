@@ -67,20 +67,20 @@ Then it can be included in this list!
 | [RayQL] | 53 | ☀️ Active | RayQL is a schema definition and query language for SQLite |
 | [Xylo] | 47 | ☀️ Active | Xylo is a functional programming language for procedural art |
 | [Ellie] | 44 | ☀️ Active | Ellie is a type-safe programing language that runs on embedded and sandboxed environments. |
+| [mimas] | 26 | ☀️ Active | A flexible, statically typed scripting language for Rust. |
 | [tpl-lang] | 21 | ☀️ Active | 🦀 Toy Language based on LLVM |
 | [Cyrus Lang] | 20 | ☀️ Active | Cyrus: A high-performance, statically-typed, manually memory-managed and procedural programming language empowered by GCCJIT. |
 | [Wright] | 19 | ☀️ Active | The wright programming language (WIP) |
 | [Watt] | 18 | ☀️ Active | 🍹 Lightweight, dynamically typed, simple scripting programming language. |
-| [Adept3x] | 7 | ☀️ Active | A language designed to help maximize developer productivity and safety |
 | [Nukleus] | 16 | ☀️ Active | Simple and fast Dynamic Modular Structure-based AI, GUI, Cross-Platform  Programming Language  |
 | [snow-lang] | 12 | ☀️ Active | A functional programming language |
 | [Mastermind] | 8 | ☀️ Active | A custom programming language which compiles to the well-known esolang "Brainfuck". |
-| [rusch] | 2 | ☀️ Active | Minimal Scheme implemented in Rust |
-| [Lateralus] | 2 | ☀️ Active | A pipeline-native programming language with pattern matching, ADTs, type inference, borrow checking, and multiple backends (C, LLVM, WASM). |
-| [GLang] | 0 | ☀️ Active | 🐶 Dog based, easy to learn language for complete beginners |
+| [Adept3x] | 7 | ☀️ Active | A language designed to help maximize developer productivity and safety |
 | [Skillet] | 5 | ☀️ Active | 🥘 Blazing-fast formula language & engine to perform calculations with familiar Excel formula syntax. |
+| [Lateralus] | 2 | ☀️ Active | A pipeline-native programming language with pattern matching, ADTs, type inference, borrow checking, and multiple backends (C, LLVM, WASM). |
+| [rusch] | 2 | ☀️ Active | Minimal Scheme implemented in Rust |
+| [GLang] | 0 | ☀️ Active | 🐶 Dog based, easy to learn language for complete beginners. |
 | [Rak] | 0 | ☀️ Active | A general purpose programming language mainly made for cyber security usage. |
-| [mimas] | 26 | ☀️ Active | A flexible, statically typed scripting language for Rust. |
 | [Move] | 2,284 | 🌙 Inactive | None |
 | [Dyon] | 1,798 | 🌙 Inactive | A rusty dynamically typed scripting language |
 | [goscript] | 1,534 | 🌙 Inactive | An alternative implementation of Golang specs, written in Rust for embedding or wrapping. |
@@ -280,8 +280,6 @@ broader than a programming language project.
 [diatom]: https://github.com/diatom-lang/diatom
 [darklua]: https://github.com/seaofvoices/darklua
 [Tvix]: https://github.com/tvlfyi/tvix
-[Watt]: https://github.com/vyacheslavhere/watt
-[Adept3x]: https://github.com/IsaacShelton/Adept3x
 [Tron]: https://github.com/418e/Tron
 [Nukleus]: https://github.com/Nukleus-Language/nukleus
 [snow-lang]: https://github.com/cowboy8625/snow-lang
@@ -295,6 +293,8 @@ broader than a programming language project.
 [Xylo]: https://github.com/giraffekey/xylo
 [Roto]: https://github.com/NLnetLabs/roto
 [GLang]: https://github.com/mpsoftwarefoundation/GeorgeLanguage
+[Watt]: https://github.com/vyacheslavhere/watt
 [Skillet]: https://github.com/zenbakiak/skillet
+[Adept3x]: https://github.com/IsaacShelton/Adept3x
 [Rak]: https://github.com/louiml/rak
 [mimas]: https://github.com/imlazyeye/mimas
