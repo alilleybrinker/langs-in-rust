@@ -89,6 +89,7 @@ Then it can be included in this list!
 | [Goblin] | 2 | ☀️ Active | Goblin programming language |
 | [GLang] | 0 | ☀️ Active | 🐶 Dog based, easy to learn language for complete beginners. |
 | [Rak] | 0 | ☀️ Active | A general purpose programming language mainly made for cyber security usage. |
+| [Faber] | 0 | ☀️ Active | An experimental language designed to be written by language models and read by people. |
 | [Move] | 2,284 | 🌙 Inactive | None |
 | [Dyon] | 1,798 | 🌙 Inactive | A rusty dynamically typed scripting language |
 | [goscript] | 1,534 | 🌙 Inactive | An alternative implementation of Golang specs, written in Rust for embedding or wrapping. |
@@ -316,3 +317,4 @@ broader than a programming language project.
 [Goblin]: https://github.com/ddonche/goblin-lang
 [Bun]: https://github.com/oven-sh/bun
 [Lust]: https://github.com/ArchangelJTW/lust-lang
+[Faber]: https://github.com/faberlang/faber

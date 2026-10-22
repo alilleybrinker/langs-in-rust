@@ -1034,5 +1034,12 @@
         "description": "A Lua-like strictly typed scripting language written in Rust",
         "stars": 5,
         "active": true
+    },
+    {
+        "name": "Faber",
+        "url": "https://github.com/faberlang/faber",
+        "description": "An experimental language designed to be written by language models and read by people.",
+        "stars": 0,
+        "active": true
     }
 ]
