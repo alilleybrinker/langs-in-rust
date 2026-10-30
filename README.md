@@ -163,6 +163,7 @@ Then it can be included in this list!
 | [nt591/lox-rust] | 1 | 🌙 Inactive | A Rust implementation of the Crafting Interpreters bytecode VM |
 | [Tron] | 0 | 🌙 Inactive | Statically typed general purpose programming language |
 | [Wander] | 0 | 🌙 Inactive | The Wander programming language implemented in Rust. |
+| [CyborgPL] | 0 | 🌙 Inactive | One word: Precog |
 
 *: Parcel is a large project of which the JavaScript transformer (written in Rust)
 is a small part. The "stars" number here reflects the whole project, which is
@@ -316,3 +317,4 @@ broader than a programming language project.
 [Goblin]: https://github.com/ddonche/goblin-lang
 [Bun]: https://github.com/oven-sh/bun
 [Lust]: https://github.com/ArchangelJTW/lust-lang
+[CyborgPL]: https://github.com/Soclets/CyborgPL
