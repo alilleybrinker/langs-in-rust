@@ -1034,5 +1034,12 @@
         "description": "A Lua-like strictly typed scripting language written in Rust",
         "stars": 5,
         "active": true
+    },
+    {
+        "name": "CyborgPL",
+        "url": "https://github.com/Soclets/CyborgPL",
+        "description": "One word: Precog",
+        "stars": 0,
+        "active": false
     }
 ]
